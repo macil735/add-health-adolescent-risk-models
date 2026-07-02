@@ -1,0 +1,11 @@
+note_id,note
+1,Script 03b reduces broad keyword hits into a manual review plan.
+2,The script does not import Add Health microdata or thesis data.
+3,The script does not export long PDF text snippets.
+4,The main output is a candidate variable template to be filled manually after reading the codebook pages.
+5,"Construct equivalence is classified as direct, near-direct, proxy, index-based or partial."
+6,Grade 10-12 remains the primary sample alignment criterion.
+7,Age 15-19 remains a complementary alignment or sensitivity criterion.
+8,"Variables involving peers, schools, partners or networks require careful public-use verification."
+9,Sensitive outcomes must be reported only in aggregate form in later scripts.
+10,"The next stage should fill exact Add Health variable names, labels and response categories for the highest-priority constructs."

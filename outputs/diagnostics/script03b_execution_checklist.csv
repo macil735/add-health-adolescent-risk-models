@@ -1,0 +1,16 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Priority constructs input loaded,OK
+3,Construct mapping status input loaded,OK
+4,Manual review worksheet input loaded,OK
+5,Optional keyword hits file checked,OK
+6,Construct priority decision table created,OK
+7,Candidate page review plan created,OK
+8,Top candidate pages by construct created,OK
+9,Keyword page density table created,OK
+10,Priority candidate variable template created,OK
+11,Initial feasibility assessment created,OK
+12,Methodological notes created,OK
+13,CSV outputs exported,OK
+14,Excel workbook exported,OK
+15,Markdown documentation exported,OK
