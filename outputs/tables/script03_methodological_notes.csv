@@ -1,0 +1,11 @@
+note_id,note
+1,Script 03 performs documentation-based keyword search only.
+2,"No Add Health microdata are imported, processed or exported."
+3,Keyword hits are not final variable matches. They identify pages requiring manual review.
+4,"Exact Add Health variable names must be confirmed from codebook pages, ICPSR Variables or ACE."
+5,Construct equivalence is more important than literal wording equivalence.
+6,"The strongest candidates are expected for grade, age, sexual initiation, condom use, contraception, pregnancy, family monitoring and school connectedness."
+7,"Perceived susceptibility, severity, benefits and barriers may have partial or indirect Add Health equivalents."
+8,"Variables related to friends, partners, schools or networks must be checked carefully because some Add Health identifiers are restricted."
+9,Final public outputs must never include raw identifiers or individual-level responses.
+10,The next stage should manually review high-priority hits and fill candidate variable names and labels.

@@ -1,0 +1,15 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Metadata directory exists,OK
+3,Codebook directory exists,OK
+4,Local codebooks identified,OK
+5,pdftools availability checked,OK
+6,Search terms from Script 01b loaded,OK
+7,Documentation inventory from Script 02 loaded,OK
+8,Priority construct table created,OK
+9,Keyword hits table created,OK
+10,Candidate mapping summary created,OK
+11,Construct mapping status created,OK
+12,Manual review worksheet created,OK
+13,CSV outputs exported,OK
+14,Excel workbook exported,OK
