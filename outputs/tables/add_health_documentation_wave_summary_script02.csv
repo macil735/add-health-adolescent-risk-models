@@ -1,5 +1,8 @@
 wave_coverage,period_coverage,n_files
-General or multi-wave,General or not wave-specific,8
+General or multi-wave,General or not wave-specific,9
+Wave I,"Wave I baseline period, verify in documentation",2
+Wave II,"Wave II period, verify in documentation",1
+Wave III,"Wave III period, verify in documentation",1
 Wave IV,"Wave IV period, verify in documentation",1
 Wave V,"Wave V period, verify in documentation",1
 Wave VI,"1994-2020s, depending on official documentation",1

@@ -6,9 +6,9 @@ This script does not import or process individual-level thesis data or Add Healt
 
 ## Current documentation status
 
-- Number of documentation files inventoried: 15
+- Number of documentation files inventoried: 20
 - Number of metadata folders reviewed: 6
-- Codebooks available locally: no
+- Codebooks available locally: yes
 - Questionnaires available locally: no
 
 ## GitHub policy

@@ -2,6 +2,6 @@ expected_folder,expected_role,folder_exists,n_files,status
 data/metadata/thesis_reference,Local thesis defense and questionnaire references,TRUE,2,available
 data/metadata/add_health_official,Official Add Health background and methodological documents,TRUE,6,available
 data/metadata/add_health_icpsr,ICPSR public-use overview and documentation,TRUE,1,available
-data/metadata/add_health_codebooks,Public-use codebooks for variable mapping,TRUE,0,empty_pending
+data/metadata/add_health_codebooks,Public-use codebooks for variable mapping,TRUE,4,available
 data/metadata/add_health_questionnaires,Questionnaires for question wording and construct mapping,TRUE,0,empty_pending
-data/metadata/add_health_user_guides,"Data guides, analysis guidelines and weights documentation",TRUE,6,available
+data/metadata/add_health_user_guides,"Data guides, analysis guidelines and weights documentation",TRUE,7,available
