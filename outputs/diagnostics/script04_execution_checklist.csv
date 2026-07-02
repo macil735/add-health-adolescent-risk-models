@@ -1,0 +1,18 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Candidate template from Script 03b loaded,OK
+3,Construct priority decision loaded,OK
+4,Feasibility assessment loaded,OK
+5,Candidate review status created,OK
+6,Confirmed variable dictionary created,WARNING_EMPTY_CONFIRMED_DICTIONARY
+7,Manual review completion summary created,OK
+8,Review gap summary created,OK
+9,Data file inventory template created,OK
+10,Import plan by wave created,OK
+11,Sample definition documented,OK
+12,Modeling variable role template created,OK
+13,Safe import policy created,OK
+14,Import readiness checklist created,OK
+15,CSV outputs exported,OK
+16,Excel workbook exported,OK
+17,Markdown documentation exported,OK

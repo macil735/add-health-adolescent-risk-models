@@ -1,0 +1,15 @@
+role_id,variable_role,expected_constructs,import_required,public_output_rule
+1,sample_filter,"grade, age, wave",Yes,Report only aggregate sample counts.
+2,primary_outcome,"pregnancy, HIV/STI or equivalent health outcome","Yes, if available",Report aggregate results and avoid small-cell disclosure.
+3,secondary_outcome,"sexual initiation, multiple partners or other behavioural outcomes","Yes, if available",Report aggregate results and avoid small-cell disclosure.
+4,key_behaviour,"sexual initiation, frequency, number of partners","Yes, if available",Report aggregate results only.
+5,protective_behaviour,"condom use, contraceptive use, intention to use protection","Yes, if available",Report aggregate results only.
+6,health_belief_construct,"susceptibility, severity, benefits, barriers, HIV knowledge","Yes, if construct equivalents exist","Report scale/index construction, not individual responses."
+7,planned_behaviour_construct,"attitudes, subjective norms, perceived control, self-efficacy, intentions","Yes, if construct equivalents exist","Report scale/index construction, not individual responses."
+8,family_context,"parental monitoring, family support, family connectedness",Yes,Report aggregate or model coefficients only.
+9,school_context,"school connectedness, teacher support, school climate, school attachment",Yes,Report aggregate or model coefficients only.
+10,peer_context,"peer norms, peer pressure, perceived peer behaviour","Yes, with public-use restrictions checked",Do not publish network identifiers.
+11,socioeconomic_control,"household assets, parental education, income proxies",Yes,Report aggregate or model coefficients only.
+12,demographic_control,"sex/gender, race/ethnicity, age, grade",Yes,Report aggregate or model coefficients only.
+13,survey_design_variable,"weights, strata, clusters if publicly available and analytically required","Yes, if available","Report design choices, not raw design identifiers."
+14,longitudinal_identifier,public-use respondent identifier for internal merging only,"Yes, internal only",Never publish raw IDs.

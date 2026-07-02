@@ -1,0 +1,7 @@
+add_health_wave,wave_order,import_sequence,n_confirmed_variables,confirmed_variables,construct_blocks,import_readiness,import_action,git_policy
+Wave I,1,1 - first import,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.
+Wave II,2,2 - second import if needed,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.
+Wave III,3,3 - third import if needed,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.
+Wave IV,4,4 - optional import,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.
+Wave V,5,5 - optional import,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.
+Wave VI,6,6 - optional import,0,,,not_ready_no_confirmed_variables,Complete manual variable review before importing this wave.,Raw data remain local and ignored by Git.

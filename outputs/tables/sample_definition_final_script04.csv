@@ -1,0 +1,9 @@
+sample_rule_id,rule_area,rule,implementation_stage
+1,Main sample,Restrict main analytical sample to students in grades 10 to 12 at Wave I.,Script 05 onward
+2,Complementary age criterion,Use age 15 to 19 at Wave I as complementary alignment or sensitivity criterion.,Script 05 onward
+3,Sensitivity sample,Estimate stricter sensitivity models using both grades 10-12 and age 15-19 when sample size permits.,Modeling scripts
+4,Baseline wave,"Use Wave I as baseline for demographic, family, school, peer and initial behavioural constructs.",Import and cleaning scripts
+5,Longitudinal follow-up,Use later waves only after variables and longitudinal linkage are confirmed in public-use files.,Longitudinal modeling scripts
+6,Microdata publication,Do not publish or commit individual-level Add Health microdata.,All scripts
+7,Small-cell protection,Review all aggregate outputs for small cells before publication.,Descriptive and modeling outputs
+8,Original thesis data,"Do not publish, reconstruct or approximate the confidential thesis dataset.",All scripts

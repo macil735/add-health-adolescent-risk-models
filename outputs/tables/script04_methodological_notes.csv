@@ -1,0 +1,11 @@
+note_id,note
+1,Script 04 prepares the confirmed variable dictionary and import plan.
+2,This script does not import Add Health public-use microdata.
+3,This script does not import or use the confidential thesis dataset.
+4,"If the Script 03b candidate variable template has not been manually completed, the confirmed dictionary will be empty."
+5,An empty confirmed dictionary is not an error; it means manual codebook review is still required.
+6,"The import plan should remain pending until exact variable names, labels, response categories, wave and public-use status are confirmed."
+7,Script 05 should import only variables listed in the confirmed variable dictionary.
+8,Raw and processed microdata must remain local and excluded from GitHub.
+9,The main sample definition remains grades 10-12 at Wave I.
+10,Age 15-19 remains a complementary alignment or sensitivity criterion.

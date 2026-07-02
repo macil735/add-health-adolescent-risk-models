@@ -1,0 +1,10 @@
+policy_id,policy_area,policy_rule,implementation
+1,Raw data,Store raw Add Health public-use files only in data/raw/.,.gitignore blocks data/raw/
+2,Processed data,Store processed analytical files only in data/processed/.,.gitignore blocks data/processed/
+3,GitHub,Do not commit raw or processed individual-level files.,Check git status before every commit
+4,File naming,Use clear local names such as add_health_wave01_public_use.dta.,Document file names in the import plan
+5,Variable dictionary,Import only variables listed in the confirmed variable dictionary.,Script 05 should read the confirmed dictionary before import
+6,Survey design,Use weights and survey design variables only after checking official guidance.,Use Add Health analysis guidelines
+7,Sensitive outcomes,"Report pregnancy, HIV/STI and sexual behaviour outputs only in aggregate form.",Apply disclosure review before publication
+8,Identifiers,Use identifiers only for internal merges and never publish them.,Suppress identifiers from all public outputs
+9,Reproducibility,"Provide code and instructions, but require users to obtain data from official sources.",README and data access note

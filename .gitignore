@@ -104,8 +104,11 @@ data/metadata/**/*.PDF
 !data/metadata/**/*.xlsx
 !data/metadata/**/*.md
 
+!outputs/diagnostics/script04_execution_checklist.csv
+
 !outputs/diagnostics/script02_execution_checklist.csv
 !outputs/diagnostics/script03_execution_checklist.csv
+!outputs/diagnostics/script03b_execution_checklist.csv
 # Script 03 large/intermediate text-extraction outputs
 outputs/tables/add_health_codebook_keyword_hits_script03.csv
 outputs/tables/add_health_candidate_mapping_summary_script03.csv
