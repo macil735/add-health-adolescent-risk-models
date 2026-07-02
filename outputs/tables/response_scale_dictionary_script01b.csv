@@ -1,0 +1,12 @@
+scale_id,scale_description,original_response_options,numeric_coding_suggestion
+single_choice_location,Single categorical response for district or place of residence,Matola; Boane; Namaacha,Use factor coding
+single_choice_gender,Single categorical response for gender,Female; Male; Other,Use factor coding
+single_choice_age,Single categorical response for age group,15; 16; 17; 18; 19,Use numeric age where available
+single_choice_grade,Single categorical response for school grade,10th; 11th; 12th grade,Use ordered factor or numeric grade
+asset_count,Categorical household asset ownership or frequency,None; one; two; more than two; or equivalent item-specific categories,Use ordered factor or asset index
+yes_no,Binary yes/no response,Yes; No,0 = No; 1 = Yes
+sexual_history_category,"Categorical response on sexual initiation, partners, condom/contraceptive use and frequency of sexual activity",Item-specific categories,Use item-specific ordered coding
+likert_agreement_5,Five-point Likert agreement scale from strong disagreement to complete agreement,Strongly disagree; disagree a little; neither agree nor disagree; agree somewhat; agree completely,"1 to 5, with reverse coding where theoretically required"
+self_efficacy_certainty_5,Five-point certainty scale from no certainty to complete certainty,No certainty; some certainty; half certainty; much certainty; total certainty,1 to 5
+true_false,True/false knowledge item,True; False,"0 = Incorrect; 1 = Correct, after defining correct answers"
+open_text,Open-ended qualitative response,Narrative answer,Qualitative thematic coding only

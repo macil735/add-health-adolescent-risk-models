@@ -1,0 +1,64 @@
+theoretical_model,construct,variable_role,response_scale,priority_for_mapping,number_of_items,item_codes
+Behavioural risk model,Condom or contraceptive use,Main outcome or protective behaviour,sexual_history_category,High,1,ISX3
+Behavioural risk model,Early sexual initiation,Outcome or risk indicator,sexual_history_category,High,1,ISX1
+Behavioural risk model,Multiple partners,Outcome or risk indicator,sexual_history_category,High,1,ISX2
+Behavioural risk model,Sexual activity frequency,Risk exposure indicator,sexual_history_category,Medium,1,ISX4
+Behavioural risk model,Sexual initiation,Outcome or sample stratification variable,yes_no,High,1,SEX_EVER
+Health Belief Model,Exposure to HIV/AIDS information,Contextual or knowledge variable,yes_no,Medium,1,INA1
+Health Belief Model,HIV prevention knowledge,Knowledge item,true_false,High,1,CVS8
+Health Belief Model,HIV prevention knowledge,Knowledge item,true_false,Medium,1,CVS9
+Health Belief Model,HIV/AIDS factual knowledge,Knowledge item,true_false,High,3,"CVS1, CVS2, CVS3"
+Health Belief Model,HIV/AIDS misconception,Knowledge item,true_false,High,2,"CVS4, CVS5"
+Health Belief Model,HIV/AIDS misconception,Knowledge item,true_false,Medium,1,CVS6
+Health Belief Model,Media information exposure,Information variable,yes_no,Medium,1,INA3
+Health Belief Model,Perceived barriers,Explanatory construct,likert_agreement_5,High,2,"BAP1, BAP2"
+Health Belief Model,Perceived barriers,Explanatory construct,likert_agreement_5,Medium,1,BAP3
+Health Belief Model,Perceived benefits,Explanatory construct,likert_agreement_5,High,2,"BEP1, BEP4"
+Health Belief Model,Perceived benefits,Explanatory construct,likert_agreement_5,Medium,2,"BEP2, BEP3"
+Health Belief Model,Perceived severity,Explanatory construct,likert_agreement_5,High,1,SEP1
+Health Belief Model,Perceived severity,Explanatory construct,likert_agreement_5,Low,2,"SEP2, SEP3"
+Health Belief Model,Perceived severity,Explanatory construct,likert_agreement_5,Medium,1,SEP4
+Health Belief Model,Perceived susceptibility,Explanatory construct,likert_agreement_5,High,2,"SUP1, SUP2"
+Health Belief Model,Perceived susceptibility,Explanatory construct,likert_agreement_5,Medium,2,"SUP3, SUP4"
+Health Belief Model / Planned Behaviour,Access self-efficacy,Explanatory construct,self_efficacy_certainty_5,Medium,2,"AEF6, AEF7"
+Health Belief Model / Planned Behaviour,Condom self-efficacy,Explanatory construct,self_efficacy_certainty_5,High,2,"AEF1, AEF2"
+Health Belief Model / Planned Behaviour,Condom self-efficacy under risk,Explanatory construct,self_efficacy_certainty_5,Medium,1,AEF3
+Health Belief Model / Planned Behaviour,Negotiation self-efficacy,Explanatory construct,self_efficacy_certainty_5,High,1,AEF4
+Health Belief Model / Planned Behaviour,Preventive communication,Knowledge or attitude item,true_false,Medium,1,CVS7
+Health Belief Model / Planned Behaviour,Refusal self-efficacy,Explanatory construct,self_efficacy_certainty_5,High,1,AEF5
+Health Belief Model / Socioecological,Peer discussion,Information and peer context,yes_no,Medium,1,INA2
+Socioecological model,Age,Sample criterion and control variable,single_choice_age,High,1,AGE
+Socioecological model,Cultural norms,Contextual explanatory variable,yes_no,Medium,1,CULT_PRESEX
+Socioecological model,Educational commitment,Qualitative construct,open_text,High,1,Q03
+Socioecological model,Family/community involvement,Qualitative construct,open_text,Medium,1,Q05
+Socioecological model,Gender,Control and heterogeneity variable,single_choice_gender,High,1,GEN
+Socioecological model,Geographic context,Control or stratification variable,single_choice_location,Medium,1,RES
+Socioecological model,Household assets,SES proxy,asset_count,High,1,AFL1
+Socioecological model,Household assets,SES proxy,asset_count,Medium,3,"AFL2, AFL3, AFL4"
+Socioecological model,Positive peer environment,Qualitative construct,open_text,Medium,1,Q02
+Socioecological model,School adult support,Qualitative construct,open_text,High,1,Q01
+Socioecological model,School climate,Qualitative construct,open_text,High,1,Q04
+Socioecological model,School connectedness,Qualitative construct,open_text,High,1,Q06
+Socioecological model,School grade,Main sample criterion,single_choice_grade,High,1,GRADE
+Socioecological model,School-based information,School context variable,yes_no,High,1,INA4
+Socioecological model / Health Belief Model,School-based sexual health knowledge,Qualitative construct,open_text,High,1,Q07
+Socioecological model / Planned Behaviour mediation,Family monitoring,Contextual predictor,likert_agreement_5,High,2,"LFA1, LFA2"
+Socioecological model / Planned Behaviour mediation,Family support,Contextual predictor,likert_agreement_5,High,1,LFA3
+Theory of Planned Behaviour,Attitude toward condom/contraceptive use,Explanatory construct,likert_agreement_5,High,1,APC1
+Theory of Planned Behaviour,Attitude toward consistent protection,Explanatory construct,likert_agreement_5,High,1,APC2
+Theory of Planned Behaviour,Attitude toward delaying sex,Explanatory construct,likert_agreement_5,High,2,"AIS2, AIS3"
+Theory of Planned Behaviour,Attitude toward dual protection,Explanatory construct,likert_agreement_5,Medium,1,APC3
+Theory of Planned Behaviour,Attitude toward sexual initiation,Explanatory construct,likert_agreement_5,Medium,1,AIS1
+Theory of Planned Behaviour,Descriptive peer norm,Explanatory construct,likert_agreement_5,High,1,NP4
+Theory of Planned Behaviour,Descriptive peer norm,Explanatory construct,likert_agreement_5,Medium,1,NPP3
+Theory of Planned Behaviour,Injunctive peer norm,Explanatory construct,likert_agreement_5,High,2,"NP5, NP6"
+Theory of Planned Behaviour,Intention to abstain,Dependent variable or mediator,likert_agreement_5,Medium,1,IPS2
+Theory of Planned Behaviour,Intention to delay sex,Dependent variable or mediator,likert_agreement_5,High,1,IPS1
+Theory of Planned Behaviour,Intention to use condom,Dependent variable,likert_agreement_5,High,1,IPC1
+Theory of Planned Behaviour,Intention to use contraception,Dependent variable,likert_agreement_5,High,1,IPC2
+Theory of Planned Behaviour,Negotiation self-efficacy,Explanatory construct,likert_agreement_5,High,1,EPC3
+Theory of Planned Behaviour,Peer subjective norm,Explanatory construct,likert_agreement_5,High,2,"NPP1, NPP2"
+Theory of Planned Behaviour,Perceived behavioural control,Explanatory construct,likert_agreement_5,High,2,"EPC1, EPC2"
+Theory of Planned Behaviour,Refusal self-efficacy,Mediator or explanatory construct,likert_agreement_5,High,1,EIS2
+Theory of Planned Behaviour,Self-efficacy to delay sex,Mediator or explanatory construct,likert_agreement_5,High,1,EIS1
+Theory of Planned Behaviour / Socioecological,Peer pressure control,Mediator or peer-norm construct,likert_agreement_5,High,1,EIS3

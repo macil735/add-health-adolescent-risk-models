@@ -72,7 +72,7 @@ outputs/diagnostics/*
 outputs/logs/*
 
 !outputs/diagnostics/script01_execution_checklist.csv
-
+!outputs/diagnostics/script01b_execution_checklist.csv
 
 # ============================================================
 # Documents and project files

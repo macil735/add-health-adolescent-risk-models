@@ -1,0 +1,26 @@
+search_block,thesis_constructs,english_keywords_for_codebook_search,expected_wave_priority,search_priority
+Sample alignment,Grade 10-12,grade school grade current grade,Wave I,High
+Sample alignment,Age 15-19,age date of birth age at interview,Wave I,High
+Demographics,"Gender, age, grade",sex gender age grade race ethnicity,Wave I,High
+Socioeconomic status,AFL1-AFL4,household assets parent education income computer car own room,Wave I,High
+Sexual initiation,"SEX_EVER, ISX1",ever had sex sexual intercourse age at first sex,Wave I to Wave III,High
+Sexual behaviour,"ISX2, ISX4",number of partners sexual frequency sexual activity,Wave I to Wave III,High
+Condom use,"ISX3, APC, AEF, IPC",condom use used condom frequency condom,Wave I to Wave III,High
+Contraceptive use,"ISX3, APC, EPC, IPC",contraception birth control contraceptive method,Wave I to Wave III,High
+Pregnancy,Pregnancy-related thesis outcome,pregnancy ever pregnant got pregnant pregnancy outcome,Wave I to Wave IV,High
+HIV and STI outcomes,HIV/STI-related thesis outcome,HIV STI sexually transmitted infection test diagnosis,"Wave III onward, but verify public-use availability",High
+HIV knowledge,"INA, CVS",HIV knowledge AIDS knowledge transmission prevention,Wave I to Wave III,High
+Perceived susceptibility,SUP,risk of HIV perceived risk worry AIDS,Wave I to Wave III,Medium
+Perceived severity,SEP,seriousness AIDS severity HIV serious,Wave I to Wave III,Medium
+Perceived benefits,BEP,benefit condom prevents AIDS prevention belief,Wave I to Wave III,Medium
+Perceived barriers,BAP,barrier condom embarrassment access partner refuses pleasure,Wave I to Wave III,High
+Condom self-efficacy,"AEF, EPC",condom self efficacy ability use condom correctly,Wave I to Wave III,High
+Refusal self-efficacy,"AEF5, EIS",refuse sex say no pressure partner,Wave I to Wave III,High
+Attitudes toward sex,AIS,attitude sex abstinence delay sexual initiation,Wave I to Wave III,High
+Attitudes toward condom or contraception,APC,attitude condom contraception birth control,Wave I to Wave III,High
+Peer norms,"NPP, NP",friends peers norms peer pressure friends had sex,Wave I to Wave III,High
+Family monitoring,"LFA1, LFA2",parents know whereabouts parents know friends parental monitoring,Wave I,High
+Family support,LFA3,parents support family support family connectedness,Wave I,High
+School connectedness,"Q01, Q03, Q04, Q06",school connectedness school belonging teachers care school attachment,Wave I to Wave II,High
+School climate,Q04,school climate safe school good school bad school,Wave I to Wave II,Medium
+Sex education,"INA4, Q07",sex education HIV education school taught AIDS,Wave I to Wave III,High

@@ -1,0 +1,12 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Folder structure verified,OK
+3,Questionnaire metadata created,OK
+4,Response scale dictionary created,OK
+5,Thesis questionnaire construct inventory created,OK
+6,Construct block summary created,OK
+7,Add Health search-term dictionary created,OK
+8,Add Health mapping template created,OK
+9,Methodological notes created,OK
+10,CSV outputs exported,OK
+11,Excel workbook exported,OK
