@@ -1,0 +1,93 @@
+# ============================================================
+# R temporary files
+# ============================================================
+
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+
+# ============================================================
+# Sensitive or individual-level data
+# Never commit raw or processed microdata
+# ============================================================
+
+data/raw/*
+data/processed/*
+
+*.dta
+*.sav
+*.sas7bdat
+*.xpt
+*.rds
+*.RData
+
+
+# ============================================================
+# CSV and TSV files
+# General rule: ignore CSV/TSV files
+# Exceptions are defined below for metadata and reviewed outputs
+# ============================================================
+
+*.csv
+*.tsv
+
+
+# ============================================================
+# Metadata files allowed
+# These may contain documentation templates or public metadata
+# ============================================================
+
+!data/metadata/
+!data/metadata/*.csv
+!data/metadata/*.xlsx
+!data/metadata/*.md
+
+
+# ============================================================
+# Reviewed aggregate outputs allowed
+# These are outputs created by scripts and intended for GitHub review
+# ============================================================
+
+!outputs/
+!outputs/tables/
+!outputs/tables/*.csv
+!outputs/tables/*.xlsx
+!outputs/tables/*.md
+
+!outputs/figures/
+!outputs/figures/*.png
+!outputs/figures/*.jpg
+!outputs/figures/*.jpeg
+!outputs/figures/*.pdf
+
+
+# ============================================================
+# Diagnostics and logs
+# Usually not committed, except selected reviewed diagnostics
+# ============================================================
+
+outputs/diagnostics/*
+outputs/logs/*
+
+!outputs/diagnostics/script01_execution_checklist.csv
+
+
+# ============================================================
+# Documents and project files
+# ============================================================
+
+!README.md
+!LICENSE
+!docs/
+!docs/*.md
+
+
+# ============================================================
+# System files
+# ============================================================
+
+.DS_Store
+Thumbs.db
+desktop.ini

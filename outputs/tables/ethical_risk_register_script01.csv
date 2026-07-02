@@ -1,0 +1,10 @@
+risk_area,risk_description,mitigation,project_rule
+Original thesis data,The original doctoral database contains sensitive adolescent information.,"Do not store, copy, describe or publish the original data.",Never publish thesis data
+Add Health microdata,Public-use Add Health files still contain individual-level survey records.,Keep all microdata local and exclude them through .gitignore.,Never commit microdata
+Sensitive adolescent outcomes,"Outcomes related to pregnancy, HIV and sexual risk behaviour require careful handling.",Use neutral academic language and publish only aggregate outputs.,Publish aggregate analysis only
+Grade and age restrictions,Restricting to grades 10-12 and possibly ages 15-19 may reduce cell sizes.,Review sample size after every restriction and report attrition transparently.,Check sample size after grade and age filters
+Small-cell disclosure,Small cells may increase disclosure risk in tables or figures.,Suppress or aggregate small cells before publication.,Review all tables before release
+Restricted-use variables,Some Add Health files and identifiers require restricted-use contracts.,Classify such variables as restricted and do not use without approval.,Use public data only unless formal access exists
+Identifiers,"Friend, sibling, romantic partner, school or cluster identifiers may be restricted, masked or unavailable.",Do not publish identifiers or outputs that allow re-identification.,No identifiers in public outputs
+GitHub publication,Accidental upload of raw data would create an ethical and legal problem.,"Commit only scripts, documentation and reviewed aggregate outputs.",Check git status before every commit
+Language and interpretation,Poor wording may stigmatise adolescents or imply moral judgement.,Use precise epidemiological and econometric language.,Avoid stigmatizing labels

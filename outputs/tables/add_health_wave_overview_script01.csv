@@ -1,0 +1,7 @@
+wave,broad_period,baseline_or_followup_role,relevance_for_project,main_sample_note,access_status_initial
+Wave I,Adolescence,Baseline,"High: baseline characteristics, grade, age, family, school and early risk indicators","Restrict main analysis to students from grades 10 to 12, with age 15-19 used as complementary criterion.",Public-use documentation required
+Wave II,Adolescence,Short-run follow-up,High: short-run adolescent transitions and persistence of risk indicators,Use for follow-up of the Wave I analytical sample where longitudinal linkage is available.,Public-use documentation required
+Wave III,Transition to young adulthood,Young adult follow-up,"High: transition outcomes, early adulthood behaviour and possible health outcomes",Use for longer-run outcomes where variables are available in public-use files.,Public-use documentation required
+Wave IV,Young adulthood,Adult follow-up,Medium: adult health and socioeconomic outcomes,Use only if relevant to the selected outcome and public-use documentation.,Public-use documentation required
+Wave V,Adulthood,Later adult follow-up,Medium: longer-run health and behavioural outcomes,Use only after reviewing public-use documentation and outcome availability.,Public-use documentation required
+Wave VI,Adulthood,Latest adult follow-up,Low at this stage: use only after documentation and access verification,"Use only after confirming public-use documentation, variable availability and comparability.",Public-use documentation required

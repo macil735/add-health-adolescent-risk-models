@@ -1,0 +1,14 @@
+field,value
+project_name,Add Health Adolescent Risk Models
+repository_name,add-health-adolescent-risk-models
+main_data_source,National Longitudinal Study of Adolescent to Adult Health (Add Health)
+data_type,"Public-use documentation and, later, public-use data obtained directly by the user from official sources"
+doctoral_thesis_population,"Students from 10th to 12th grade, approximately aged 15 to 19"
+add_health_initial_population,Students from grades 7 to 12 in the United States during the 1994-1995 school year
+main_project_sample,Students from grades 10 to 12 at Wave I
+complementary_sample_criterion,"Age 15 to 19 at Wave I, used as validation or sensitivity criterion"
+core_topic,"Adolescent pregnancy, HIV-related outcomes and adolescent health risk behaviour"
+ethical_position,No original thesis data and no individual-level Add Health microdata will be published on GitHub
+script,01_data_availability_variable_mapping_audit.R
+script_purpose,"Initial audit of data availability, sample alignment and conceptual variable mapping"
+microdata_imported,No

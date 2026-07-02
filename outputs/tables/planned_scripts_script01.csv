@@ -1,0 +1,11 @@
+script_number,script_file,main_task,microdata_required,expected_public_output
+01,01_data_availability_variable_mapping_audit.R,Create project structure and initial variable availability audit,No,Metadata audit tables and documentation
+02,02_documentation_inventory.R,Inventory official Add Health documentation and codebooks,No,Documentation inventory
+03,03_public_use_data_import.R,"Import public-use data locally, without committing microdata to GitHub","Yes, local only","Import log only, no data"
+04,04_data_cleaning_and_harmonisation.R,"Clean and harmonise variables, missing values and wave structure","Yes, local only",Cleaning log and metadata
+05,05_variable_construction.R,"Construct outcomes, exposures, controls and sample restrictions","Yes, local only",Variable construction dictionary
+06,06_descriptive_analysis.R,Produce aggregate descriptive statistics and sample flow tables,"Yes, local only",Reviewed aggregate tables and figures
+07,07_binary_response_models.R,Estimate logit/probit models and marginal effects,"Yes, local only",Model summary tables
+08,08_longitudinal_models.R,Estimate longitudinal and transition models where feasible,"Yes, local only",Longitudinal model summary tables
+09,09_robustness_checks.R,Run alternative specifications and sensitivity samples,"Yes, local only",Robustness tables
+10,10_final_report_outputs.R,"Produce final tables, figures and technical report outputs",No individual-level output,"Final report, README updates and reviewed outputs"

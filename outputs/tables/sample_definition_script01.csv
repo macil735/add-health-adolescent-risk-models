@@ -1,0 +1,6 @@
+sample_level,definition,project_role,inclusion_in_main_analysis,notes
+Add Health full baseline school range,Students from grades 7 to 12 at Wave I,Description of the Add Health baseline design,No,This range is broader than the thesis population.
+Main analytical sample,Students from grades 10 to 12 at Wave I,Primary sample for thesis-inspired analysis,Yes,This is the closest school-grade equivalent to the original thesis design.
+Complementary age-aligned sample,Students aged 15 to 19 at Wave I,Age-based validation of comparability with the thesis,"No, unless grade is unavailable","Age is important, but grade is the main alignment criterion because the thesis was based on school years."
+Sensitivity sample 1,Students from grades 10 to 12 and aged 15 to 19 at Wave I,Stricter comparability check,"No, used for sensitivity analysis","This may reduce sample size, but improves comparability."
+Sensitivity sample 2,All Wave I public-use respondents with valid data for the selected outcome and covariates,Broader robustness check,"No, used only for robustness comparison",Useful to check whether results depend strongly on grade restriction.

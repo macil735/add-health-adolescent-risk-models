@@ -1,0 +1,10 @@
+block_id,conceptual_block,methodological_role,examples
+A,Sample alignment variables,Define comparability between the thesis and Add Health,Grade 10-12 at Wave I; age 15-19 at Wave I
+B,Main outcomes,Dependent variables,Pregnancy-related outcome; HIV-related outcome; other health risk outcomes
+C,Behavioural risk indicators,Main explanatory variables,Sexual risk behaviour; early risk exposure; substance-related controls if available
+D,Individual characteristics,Control variables,Age; sex; race/ethnicity; school grade; baseline health
+E,Family and household context,Control variables and heterogeneity factors,Parental education; household structure; socioeconomic status; parental supervision
+F,School and peer context,Contextual controls and possible mechanisms,School attachment; school environment; peer behaviour where publicly available
+G,"Knowledge, attitudes and expectations",Mechanism and interpretation variables,Risk perception; expectations; health knowledge variables
+H,Health service and prevention indicators,Prevention and access variables,"Testing, counselling or prevention-related indicators if publicly available"
+I,Longitudinal design variables,"Panel, transition and temporal ordering variables","Respondent ID for internal merge, wave indicator, timing and survey weights if available"

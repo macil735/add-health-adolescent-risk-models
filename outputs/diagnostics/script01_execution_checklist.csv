@@ -1,0 +1,13 @@
+check_id,check_item,status
+1,Project root defined,OK
+2,Folder structure created,OK
+3,Project metadata created,OK
+4,Sample definition created,OK
+5,Add Health wave overview created,OK
+6,Conceptual blocks defined,OK
+7,Initial variable mapping audit created,OK
+8,Ethical risk register created,OK
+9,Planned script sequence created,OK
+10,CSV outputs exported,OK
+11,Excel workbook exported,OK
+12,Markdown documentation exported,OK
