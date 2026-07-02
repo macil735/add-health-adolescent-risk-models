@@ -1,0 +1,11 @@
+note_id,note
+1,Script 02 inventories documentation only; it does not import microdata.
+2,Source PDFs in data/metadata should remain local and should not be committed to GitHub unless explicitly reviewed.
+3,"The safest public GitHub output is the documentation inventory table, not the source PDFs."
+4,Codebooks and questionnaires are still required for detailed variable mapping.
+5,ICPSR Variables and Add Health Codebook Explorer should be used to identify candidate public-use variables.
+6,"The thesis questionnaire and defense presentation are local methodological references, not data sources."
+7,"Restricted-use documentation may be useful to understand limitations, but the public project should not depend on restricted variables."
+8,"The initial analytical focus remains Wave I grades 10-12, with age 15-19 as complementary criterion."
+9,"Sensitive topics such as sexual behaviour, pregnancy, HIV and STI outcomes must be reported only in aggregate form."
+10,The next stage should identify candidate Add Health variables for each thesis construct.

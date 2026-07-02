@@ -1,0 +1,5 @@
+github_policy,n_files
+Prefer not to commit PDF; commit inventory only.,9
+Prefer not to commit PDF; cite official source and commit inventory.,3
+Do not commit PDF; keep local. Commit only metadata inventory.,2
+Do not commit PDF; keep local. Use only to document restrictions.,1

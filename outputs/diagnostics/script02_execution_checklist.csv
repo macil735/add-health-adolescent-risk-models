@@ -1,0 +1,14 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Metadata directory exists,OK
+3,Metadata files inventoried,OK
+4,Documentation source summary created,OK
+5,Documentation wave summary created,OK
+6,Documentation policy summary created,OK
+7,Expected metadata folder status created,OK
+8,Script 01b search terms loaded or fallback created,OK
+9,Variable search plan created,OK
+10,Mapping template updated,OK
+11,CSV outputs exported,OK
+12,Excel workbook exported,OK
+13,Markdown documentation exported,OK

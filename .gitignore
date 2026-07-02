@@ -91,3 +91,17 @@ outputs/logs/*
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# ============================================================
+# Local documentation PDFs
+# Keep source PDFs local. Commit only inventories and metadata.
+# ============================================================
+
+data/metadata/**/*.pdf
+data/metadata/**/*.PDF
+
+!data/metadata/**/*.csv
+!data/metadata/**/*.xlsx
+!data/metadata/**/*.md
+
+!outputs/diagnostics/script02_execution_checklist.csv
