@@ -4,7 +4,7 @@ check_id,check_item,status
 3,Construct priority decision loaded,OK
 4,Feasibility assessment loaded,OK
 5,Candidate review status created,OK
-6,Confirmed variable dictionary created,WARNING_EMPTY_CONFIRMED_DICTIONARY
+6,Confirmed variable dictionary created,OK
 7,Manual review completion summary created,OK
 8,Review gap summary created,OK
 9,Data file inventory template created,OK

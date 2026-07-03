@@ -10,9 +10,9 @@ The script checks whether the candidate variable template from Script 03b has be
 
 ## Import readiness
 
-- Confirmed variables: 0
-- Raw data files detected locally: 0
-- Overall readiness: not_ready_manual_variable_review_required
+- Confirmed variables: 77
+- Raw data files detected locally: 1
+- Overall readiness: partial_or_ready_after_microdata_file_check
 
 ## Rule
 

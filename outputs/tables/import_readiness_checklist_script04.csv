@@ -1,13 +1,13 @@
 check_id,readiness_item,status,notes
-1,Manual variable review completed,PENDING,Complete candidate_variables sheet from Script 03b.
-2,At least one Add Health variable confirmed,PENDING,At least one variable must be confirmed before import.
-3,Public-use status confirmed,PENDING,Use only public-use variables unless formal restricted-use approval exists.
-4,Wave information completed,PENDING,Each confirmed variable must have a wave.
-5,Variable labels completed,PENDING,Each confirmed variable must have a label.
-6,Response categories completed,PENDING,Response categories are required for correct recoding.
-7,Final decision marked as accepted,PENDING,Only accepted variables enter the import plan.
-8,Raw data files available locally,PENDING,Place official public-use data locally in data/raw/ only.
+1,Manual variable review completed,OK,Complete candidate_variables sheet from Script 03b.
+2,At least one Add Health variable confirmed,OK,At least one variable must be confirmed before import.
+3,Public-use status confirmed,OK,Use only public-use variables unless formal restricted-use approval exists.
+4,Wave information completed,OK,Each confirmed variable must have a wave.
+5,Variable labels completed,OK,Each confirmed variable must have a label.
+6,Response categories completed,OK,Response categories are required for correct recoding.
+7,Final decision marked as accepted,OK,Only accepted variables enter the import plan.
+8,Raw data files available locally,OK,Place official public-use data locally in data/raw/ only.
 9,Raw data excluded from Git,OK,Protected by .gitignore.
 10,Processed data excluded from Git,OK,Protected by .gitignore.
 11,Sample definition documented,OK,Main sample is grades 10-12; age 15-19 is complementary.
-12,Import script can be started,NOT_READY,Script 05 should start only after confirmed variables and raw files exist.
+12,Import script can be started,OK,Script 05 should start only after confirmed variables and raw files exist.

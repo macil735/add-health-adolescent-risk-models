@@ -113,3 +113,6 @@ data/metadata/**/*.PDF
 outputs/tables/add_health_codebook_keyword_hits_script03.csv
 outputs/tables/add_health_candidate_mapping_summary_script03.csv
 outputs/tables/script03_add_health_codebook_variable_candidate_mapping.xlsx
+
+# Private local review outputs
+outputs/private_review/
