@@ -1,0 +1,15 @@
+summary_id,item,value,public_value,note
+1,Raw Wave I public-use file detected,TRUE,TRUE,The .sav file remains local in data/raw/.
+2,"Confirmed dictionary rows, all waves",77,77,Rows in confirmed_variable_dictionary_script04.csv before Wave I filtering.
+3,Confirmed Wave I rows retained,77,77,Only Wave I rows are used in Script 05.
+4,Confirmed non-Wave I rows excluded,0,0,Excluded from Script 05 because this script reads only Wave I.
+5,Parsed confirmed Wave I variables,74,74,Variable names parsed from retained Wave I dictionary rows.
+6,Wave I variables found in .sav,74,74,Only these variables were imported from the Wave I .sav file.
+7,Wave I variables not found in .sav,0,0,These should be checked before modeling.
+8,Observations in imported Wave I file,6504,6504,Aggregate count only.
+9,Grade variable used,H1GI20,H1GI20,Main sample is based on grade 10-12 at Wave I.
+10,Nonmissing grade observations,6337,6337,Aggregate count only.
+11,Grade 10-12 observations,3259,3259,Primary analytical sample criterion.
+12,Age derivation possible,TRUE,TRUE,Age is derived from birth and interview month/year.
+13,Age 15-19 observations,4476,4476,Complementary sample alignment criterion.
+14,Strict grade 10-12 and age 15-19 observations,3240,3240,Sensitivity sample combining grade and age criteria.

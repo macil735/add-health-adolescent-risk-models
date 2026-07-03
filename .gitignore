@@ -116,3 +116,4 @@ outputs/tables/script03_add_health_codebook_variable_candidate_mapping.xlsx
 
 # Private local review outputs
 outputs/private_review/
+!outputs/diagnostics/script05_execution_checklist.csv

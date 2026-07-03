@@ -1,0 +1,12 @@
+note_id,note
+1,Script 05 imports only confirmed Add Health Wave I variables.
+2,The input microdata file is data/raw/21600-0001-Data.sav.
+3,The raw Add Health Wave I public-use .sav file remains local in data/raw/.
+4,The processed individual-level Wave I file is saved locally in data/processed/.
+5,No individual-level microdata are exported to public outputs.
+6,"Public outputs contain only variable availability, missingness and sample restriction diagnostics."
+7,Confirmed non-Wave I variables are excluded from this script.
+8,The main sample criterion is grade 10-12 at Wave I.
+9,Age 15-19 is used as a complementary alignment or sensitivity criterion.
+10,Derived age is computed from birth month/year and interview month/year when available.
+11,"The next script should clean, recode and document analytical variables before descriptive analysis."

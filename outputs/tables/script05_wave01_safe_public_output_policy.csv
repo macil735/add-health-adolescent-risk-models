@@ -1,0 +1,10 @@
+policy_id,policy_area,rule
+1,Raw Wave I microdata,Raw Add Health Wave I .sav file remains in data/raw/ only.
+2,Processed Wave I microdata,Processed individual-level Wave I file remains in data/processed/ only.
+3,Public outputs,Only aggregate diagnostics should be exported to outputs/tables/.
+4,Sensitive variables,"Pregnancy, HIV/STI and sexual behaviour variables require careful aggregate reporting."
+5,Small cells,Cells below the disclosure threshold should be suppressed in later descriptive tables.
+6,Derived age,Age is derived locally and should be used only for sample alignment and sensitivity checks.
+7,Identifiers,Identifiers must never be exported in public tables.
+8,Non-Wave I variables,Variables from other waves are excluded from Script 05 and require separate wave-specific import scripts.
+9,GitHub,"Do not commit data/raw/, data/processed/ or outputs/private_review/."

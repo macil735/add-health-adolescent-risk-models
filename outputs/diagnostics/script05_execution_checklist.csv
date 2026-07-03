@@ -1,0 +1,21 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Raw Wave I .sav file exists locally,OK
+3,Confirmed variable dictionary exists,OK
+4,Confirmed dictionary loaded,OK
+5,Confirmed dictionary filtered to Wave I,OK
+6,Non-Wave I confirmed variables excluded,OK
+7,Raw Wave I .sav file read,OK
+8,Confirmed Wave I variable names parsed,OK
+9,Wave I variable availability checked,OK
+10,At least one confirmed Wave I variable found in .sav,OK
+11,Confirmed Wave I variables imported,OK
+12,Grade variable checked,OK
+13,Age derivation variables checked,OK
+14,Sample flags created,OK
+15,Processed local-only Wave I RDS saved,OK
+16,Import variable check exported,OK
+17,Missingness summary exported,OK
+18,Sample restriction summary exported,OK
+19,Excel diagnostic workbook exported,OK
+20,Markdown documentation exported,OK
