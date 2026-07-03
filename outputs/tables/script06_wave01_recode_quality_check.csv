@@ -1,0 +1,13 @@
+check_id,recode_area,status,note
+1,Grade recode,OK,Grade should support restriction to grades 10-12.
+2,Age recode,OK,Age should support 15-19 sensitivity restriction.
+3,Sex recode,OK,Female indicator derived from BIO_SEX when possible.
+4,Main sample flag,OK,Main sample based on grade 10-12.
+5,Strict sample flag,OK,Strict sample combines grade 10-12 and age 15-19.
+6,Sexual initiation recode,OK,Check labels before final interpretation.
+7,Condom recode candidates,OK,Candidate variables only; final behavioural coding may require codebook confirmation.
+8,Contraceptive recode candidates,OK,Candidate variables only; final behavioural coding may require codebook confirmation.
+9,Pregnancy recode candidates,OK,Candidate variables only; final outcome coding may require codebook confirmation.
+10,HIV/STI recode candidates,OK,Candidate variables only; final outcome coding may require codebook confirmation.
+11,Generic numeric cleaned variables,OK,Numeric versions are for diagnostics and later recoding.
+12,Construct score diagnostics,DIAGNOSTIC_ONLY,Construct scores should not be interpreted until directionality and reliability are reviewed.

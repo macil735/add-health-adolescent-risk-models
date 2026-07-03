@@ -1,0 +1,9 @@
+policy_id,policy_area,rule
+1,Input microdata,Script 06 reads only local processed Wave I data from data/processed/.
+2,Clean analytical microdata,The cleaned analytical RDS remains local in data/processed/.
+3,Public outputs,"Only metadata, diagnostics and aggregate summaries are exported."
+4,Sensitive recodes,"Sexual behaviour, pregnancy and HIV/STI recodes require cautious interpretation."
+5,Construct scores,Preliminary construct diagnostics are not final validated scales.
+6,Small cells,Cells below disclosure threshold should be suppressed in later descriptive tables.
+7,GitHub,"Do not commit data/raw/, data/processed/ or outputs/private_review/."
+8,Next step,Script 07 should produce descriptive tables only after reviewing recode quality.

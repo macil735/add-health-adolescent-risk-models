@@ -1,0 +1,20 @@
+thesis_construct_block,n_numeric_items_available,numeric_items_available,preliminary_score_possible,score_status
+Attitudes,7,num_H1MO1; num_H1MO2; num_H1MO3; num_H1MO5; num_H1PA3; num_H1PA6; num_H1PA7,TRUE,possible_after_directionality_review
+Condom use,2,num_H1CO8; num_H1CO9,TRUE,possible_after_directionality_review
+Contraceptive use,3,num_H1CO13; num_H1CO3; num_H1CO6,TRUE,possible_after_directionality_review
+Demographics,1,num_BIO_SEX,FALSE,not_recommended_less_than_two_numeric_items
+Family monitoring,3,num_H1WP1; num_H1WP2; num_H1WP8,TRUE,possible_after_directionality_review
+Family support,8,num_H1PR3; num_H1PR5; num_H1PR7; num_H1PR8; num_H1WP10; num_H1WP13; num_H1WP14; num_H1WP9,TRUE,possible_after_directionality_review
+HIV/AIDS knowledge,1,num_H1TS8,FALSE,not_recommended_less_than_two_numeric_items
+HIV/STI outcome,4,num_H1CO16A; num_H1CO16C; num_H1CO16D; num_H1HS9,TRUE,possible_after_directionality_review
+Household socioeconomic status,4,num_H1RF1; num_H1RM1; num_PA21; num_PA55,TRUE,possible_after_directionality_review
+Peer norms,3,num_H1PF12; num_H1PF17; num_H1PF9,TRUE,possible_after_directionality_review
+Perceived barriers,7,num_H1BC1; num_H1BC2; num_H1BC3; num_H1BC4; num_H1BC5; num_H1BC7; num_H1BC8,TRUE,possible_after_directionality_review
+Perceived benefits,1,num_H1BC6,FALSE,not_recommended_less_than_two_numeric_items
+Perceived severity,7,num_H1MO10; num_H1MO11; num_H1MO12; num_H1MO13; num_H1MO14; num_H1MO9; num_H1RP3,TRUE,possible_after_directionality_review
+Perceived susceptibility,4,num_H1GH44; num_H1GH46; num_H1RP5; num_H1RP6,TRUE,possible_after_directionality_review
+Pregnancy outcome,2,num_H1FP7; num_H1FP8,TRUE,possible_after_directionality_review
+Sample alignment,5,num_H1GI1M; num_H1GI1Y; num_H1GI20; num_IMONTH; num_IYEAR,TRUE,possible_after_directionality_review
+School connectedness,5,num_H1ED19; num_H1ED20; num_H1ED23; num_H1ED24; num_H1PR2,TRUE,possible_after_directionality_review
+Self-efficacy,4,num_H1PF6; num_H1SE1; num_H1SE2; num_H1SE3,TRUE,possible_after_directionality_review
+Sexual initiation,3,num_H1CO1; num_H1CO2M; num_H1CO2Y,TRUE,possible_after_directionality_review

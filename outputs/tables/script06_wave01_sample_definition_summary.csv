@@ -1,0 +1,10 @@
+summary_id,item,value,public_value,note
+1,Total Wave I observations in local analytical file,6504,6504,Aggregate count only.
+2,Grade variable used,H1GI20,H1GI20,Main sample criterion.
+3,Age variable used,derived_age_wave1,derived_age_wave1,Complementary alignment criterion.
+4,Sex variable used,BIO_SEX,BIO_SEX,Control and stratification variable.
+5,Grade 10-12 observations,3259,3259,Primary analytical sample.
+6,Age 15-19 observations,4476,4476,Sensitivity alignment criterion.
+7,Strict grade 10-12 and age 15-19 observations,3240,3240,Strict sensitivity sample.
+8,Female observations,0,<10,Aggregate count only.
+9,Male observations,6503,6503,Aggregate count only.

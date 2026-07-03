@@ -1,0 +1,11 @@
+note_id,note
+1,Script 06 cleans and recodes imported Add Health Wave I variables.
+2,The script does not read raw .sav files.
+3,The script reads the local-only processed Wave I RDS created by Script 05.
+4,The cleaned analytical dataset is saved locally in data/processed/.
+5,The public outputs contain no individual-level microdata.
+6,Grade 10-12 remains the main sample definition.
+7,Age 15-19 remains a complementary or sensitivity alignment criterion.
+8,Generic numeric cleaned variables are created for diagnostic and later modeling use.
+9,Behavioural and sensitive recodes should be checked against the official codebook before final interpretation.
+10,Construct scores are not finalized in this script; they require directionality and reliability review.

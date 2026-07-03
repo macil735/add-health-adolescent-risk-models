@@ -1,0 +1,19 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Input Wave I processed RDS exists,OK
+3,Confirmed dictionary exists,OK
+4,Script 05 metadata exists,OK
+5,Script 05 import check exists,OK
+6,Wave I processed data loaded,OK
+7,Key variables identified,OK
+8,Sample flags created,OK
+9,Generic numeric cleaned variables created,OK
+10,Specific behavioural recodes attempted,OK
+11,Construct availability summary created,OK
+12,Construct score diagnostics created,OK
+13,Clean analytical local-only RDS saved,OK
+14,Analytic variable inventory exported,OK
+15,Missingness summary exported,OK
+16,Sample definition summary exported,OK
+17,Excel diagnostic workbook exported,OK
+18,Markdown documentation exported,OK

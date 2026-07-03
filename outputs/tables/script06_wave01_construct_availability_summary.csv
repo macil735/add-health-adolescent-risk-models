@@ -1,0 +1,31 @@
+thesis_construct_block,theoretical_model,expected_analytic_use,analysis_role,variable_level,mapping_quality,n_imported_variables,imported_variables
+Attitudes,Theory of Planned Behaviour,Theory of Planned Behaviour construct,planned_behaviour_construct,psychosocial_construct,near_direct_equivalent,7,H1MO1; H1MO2; H1MO3; H1MO5; H1PA3; H1PA6; H1PA7
+Condom use,Health Belief Model / Theory of Planned Behaviour,Outcome or key behavioural variable,protective_behaviour_or_intention,behavioural_or_health_outcome,direct_equivalent,2,H1CO8; H1CO9
+Contraceptive use,Theory of Planned Behaviour,Outcome or key behavioural variable,protective_behaviour_or_intention,behavioural_or_health_outcome,near_direct_equivalent,1,H1CO13
+Contraceptive use,Theory of Planned Behaviour,Outcome or key behavioural variable,protective_behaviour_or_intention,behavioural_or_health_outcome,direct_equivalent,2,H1CO3; H1CO6
+Demographics,Socioecological model,Control or stratification,control_variable,baseline_covariate,direct_equivalent,1,BIO_SEX
+Family monitoring,Socioecological model,Socioecological predictor or mediator,socioecological_family_construct,family_context,near_direct_equivalent,2,H1WP1; H1WP2
+Family monitoring,Socioecological model,Socioecological predictor or mediator,socioecological_family_construct,family_context,proxy_equivalent,1,H1WP8
+Family support,Socioecological model,Socioecological predictor or mediator,socioecological_family_construct,family_context,direct_equivalent,4,H1PR3; H1PR5; H1PR7; H1PR8
+Family support,Socioecological model,Socioecological predictor or mediator,socioecological_family_construct,family_context,near_direct_equivalent,4,H1WP10; H1WP13; H1WP14; H1WP9
+HIV/AIDS knowledge,Health Belief Model,Outcome or key behavioural variable,health_outcome_or_proxy,behavioural_or_health_outcome,proxy_equivalent,1,H1TS8
+HIV/STI outcome,Health Belief Model / reproductive health,Outcome or key behavioural variable,health_outcome_or_proxy,behavioural_or_health_outcome,direct_equivalent,3,H1CO16A; H1CO16C; H1CO16D
+HIV/STI outcome,Health Belief Model / reproductive health,Outcome or key behavioural variable,health_outcome_or_proxy,behavioural_or_health_outcome,proxy_equivalent,1,H1HS9
+Household socioeconomic status,Socioecological model,Control or stratification,control_or_index_variable,baseline_covariate,near_direct_equivalent,3,H1RF1; H1RM1; PA55
+Household socioeconomic status,Socioecological model,Control or stratification,control_or_index_variable,baseline_covariate,proxy_equivalent,1,PA21
+Peer norms,Theory of Planned Behaviour / Socioecological model,Theory of Planned Behaviour construct,planned_behaviour_construct,peer_context,proxy_equivalent,3,H1PF12; H1PF17; H1PF9
+Perceived barriers,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,direct_equivalent,5,H1BC1; H1BC2; H1BC3; H1BC4; H1BC5
+Perceived barriers,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,near_direct_equivalent,2,H1BC7; H1BC8
+Perceived benefits,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,proxy_equivalent,1,H1BC6
+Perceived severity,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,proxy_equivalent,6,H1MO10; H1MO11; H1MO12; H1MO13; H1MO14; H1MO9
+Perceived severity,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,near_direct_equivalent,1,H1RP3
+Perceived susceptibility,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,near_direct_equivalent,2,H1GH44; H1GH46
+Perceived susceptibility,Health Belief Model,Health Belief Model construct,health_belief_model_construct,psychosocial_construct,direct_equivalent,2,H1RP5; H1RP6
+Pregnancy outcome,Behavioural risk / reproductive health,Outcome or key behavioural variable,reproductive_health_outcome,behavioural_or_health_outcome,direct_equivalent,2,H1FP7; H1FP8
+Sample alignment,Socioecological model,Sample restriction,sample_filter,baseline_covariate,near_direct_equivalent,4,H1GI1M; H1GI1Y; IMONTH; IYEAR
+Sample alignment,Socioecological model,Sample restriction,sample_filter,baseline_covariate,direct_equivalent,1,H1GI20
+School connectedness,Socioecological model,Socioecological predictor or mediator,socioecological_school_construct,school_context,direct_equivalent,2,H1ED19; H1ED20
+School connectedness,Socioecological model,Socioecological predictor or mediator,socioecological_school_construct,school_context,near_direct_equivalent,3,H1ED23; H1ED24; H1PR2
+Self-efficacy,Theory of Planned Behaviour / Health Belief Model,Theory of Planned Behaviour construct,planned_behaviour_construct,psychosocial_construct,near_direct_equivalent,4,H1PF6; H1SE1; H1SE2; H1SE3
+Sexual initiation,Behavioural risk model,Outcome or key behavioural variable,outcome_or_key_behaviour,behavioural_or_health_outcome,direct_equivalent,1,H1CO1
+Sexual initiation,Behavioural risk model,Outcome or key behavioural variable,outcome_or_key_behaviour,behavioural_or_health_outcome,near_direct_equivalent,2,H1CO2M; H1CO2Y
