@@ -1,0 +1,92 @@
+sample_name,variable,category,unweighted_n,public_unweighted_n,weighted_n,weighted_pct,public_weighted_pct,disclosure_rule
+full_weighted_wave1,stat_grade,Grade 10,1144,1144,3598244.293701903,16.605705178594942,16.61,reported
+full_weighted_wave1,stat_grade,Grade 11,1122,1122,3310943.029234289,15.279825192197894,15.28,reported
+full_weighted_wave1,stat_grade,Grade 12,993,993,3508801.042620356,16.19292935337515,16.19,reported
+full_weighted_wave1,stat_grade,Grade 7,979,979,3814257.98726484,17.60259683381802,17.60,reported
+full_weighted_wave1,stat_grade,Grade 8,992,992,3592878.507199836,16.580942360555998,16.58,reported
+full_weighted_wave1,stat_grade,Grade 9,1107,1107,3843598.358912625,17.738001081457988,17.74,reported
+full_weighted_wave1,stat_age_group,15-19,4476,4476,14651804.431769364,65.8345506277304,65.83,reported
+full_weighted_wave1,stat_age_group,<15,1993,1993,7479872.753128881,33.60910690202119,33.61,reported
+full_weighted_wave1,stat_age_group,>19,32,32,123816.764805771,0.5563424702484202,0.56,reported
+full_weighted_wave1,stat_sex,Male,6503,6503,22260642.916021775,100,100.00,reported
+full_weighted_wave1,stat_main_sample,Grade 10-12,3259,3259,10417988.365556547,46.79928289634348,46.80,reported
+full_weighted_wave1,stat_main_sample,Other grades,3245,3245,11843011.634446712,53.200717103656515,53.20,reported
+full_weighted_wave1,stat_strict_sample,Grade 10-12 and age 15-19,3240,3240,10352033.585756449,46.50300339497297,46.50,reported
+full_weighted_wave1,stat_strict_sample,Other,3264,3264,11908966.41424681,53.49699660502702,53.50,reported
+full_weighted_wave1,stat_sex_ever,No,3853,3853,13447715.86591979,61.421218158875696,61.42,reported
+full_weighted_wave1,stat_sex_ever,Yes,2565,2565,8446535.451491643,38.57878184112432,38.58,reported
+full_weighted_wave1,stat_a_H1CO8_yesno,No,248,248,860505.216556193,38.89991840503645,38.90,reported
+full_weighted_wave1,stat_a_H1CO8_yesno,Yes,389,389,1351595.095831047,61.100081594963534,61.10,reported
+full_weighted_wave1,stat_a_H1CO3_yesno,No,859,859,2933432.48276307,34.93918460706765,34.94,reported
+full_weighted_wave1,stat_a_H1CO3_yesno,Yes,1689,1689,5462391.620612491,65.06081539293234,65.06,reported
+full_weighted_wave1,stat_a_H1CO6_yesno,No,833,833,2782401.393411022,33.34477314982218,33.34,reported
+full_weighted_wave1,stat_a_H1CO6_yesno,Yes,1700,1700,5561939.055118495,66.65522685017783,66.66,reported
+full_weighted_wave1,stat_a_H1CO13_yesno,No,176,176,516136.741292854,25.52988883136205,25.53,reported
+full_weighted_wave1,stat_a_H1CO13_yesno,Yes,447,447,1505559.258647454,74.47011116863796,74.47,reported
+full_weighted_wave1,stat_a_H1FP7_yesno,No,1014,1014,3265877.43611164,81.43107390989074,81.43,reported
+full_weighted_wave1,stat_a_H1FP7_yesno,Yes,236,236,744725.985041279,18.56892609010926,18.57,reported
+full_weighted_wave1,stat_a_H1CO16D_yesno,No,2557,2557,8418787.485334996,99.77739931426309,99.78,reported
+full_weighted_wave1,stat_a_H1CO16D_yesno,Yes,5,<10,18782.087729169,0.22260068573690173,suppressed,suppressed_small_cell
+full_weighted_wave1,stat_a_H1HS9_yesno,No,6119,6119,20999902.643184144,94.64617388809425,94.65,reported
+full_weighted_wave1,stat_a_H1HS9_yesno,Yes,364,364,1187896.166320363,5.353826111905739,5.35,reported
+full_weighted_wave1,stat_a_H1CO16A_yesno,No,2470,2470,8156168.831255422,96.87092753075565,96.87,reported
+full_weighted_wave1,stat_a_H1CO16A_yesno,Yes,88,88,263456.167860965,3.129072469244342,3.13,reported
+full_weighted_wave1,stat_a_H1CO16C_yesno,No,2525,2525,8325692.219225112,98.74527569418434,98.75,reported
+full_weighted_wave1,stat_a_H1CO16C_yesno,Yes,36,36,105791.880338203,1.2547243058156532,1.25,reported
+main_grade_10_12,stat_grade,Grade 10,1144,1144,3598244.293701903,34.53876283446663,34.54,reported
+main_grade_10_12,stat_grade,Grade 11,1122,1122,3310943.029234289,31.781020606442308,31.78,reported
+main_grade_10_12,stat_grade,Grade 12,993,993,3508801.042620356,33.68021655909105,33.68,reported
+main_grade_10_12,stat_age_group,15-19,3240,3240,10352033.585756449,99.36691444177308,99.37,reported
+main_grade_10_12,stat_age_group,<15,5,<10,14692.380344247,0.14102895711442953,suppressed,suppressed_small_cell
+main_grade_10_12,stat_age_group,>19,14,14,51262.399455852,0.49205660111248806,0.49,reported
+main_grade_10_12,stat_sex,Male,3259,3259,10417988.365556547,100,100.00,reported
+main_grade_10_12,stat_main_sample,Grade 10-12,3259,3259,10417988.365556547,100,100.00,reported
+main_grade_10_12,stat_strict_sample,Grade 10-12 and age 15-19,3240,3240,10352033.585756449,99.36691444177308,99.37,reported
+main_grade_10_12,stat_strict_sample,Other,19,19,65954.779800099,0.6330855582269177,0.63,reported
+main_grade_10_12,stat_sex_ever,No,1460,1460,4668694.166644652,45.40594487907688,45.41,reported
+main_grade_10_12,stat_sex_ever,Yes,1766,1766,5613426.773857993,54.594055120923116,54.59,reported
+main_grade_10_12,stat_a_H1CO8_yesno,No,155,155,476758.566644253,36.61499374068997,36.61,reported
+main_grade_10_12,stat_a_H1CO8_yesno,Yes,247,247,825327.048939056,63.38500625931003,63.39,reported
+main_grade_10_12,stat_a_H1CO3_yesno,No,556,556,1754129.101686497,31.425453728432075,31.43,reported
+main_grade_10_12,stat_a_H1CO3_yesno,Yes,1200,1200,3827744.486663493,68.57454627156793,68.57,reported
+main_grade_10_12,stat_a_H1CO6_yesno,No,546,546,1722069.090144578,30.9654941849266,30.97,reported
+main_grade_10_12,stat_a_H1CO6_yesno,Yes,1203,1203,3839182.669185804,69.03450581507339,69.03,reported
+main_grade_10_12,stat_a_H1CO13_yesno,No,118,118,348506.206671377,22.844014637886843,22.84,reported
+main_grade_10_12,stat_a_H1CO13_yesno,Yes,363,363,1177084.685278844,77.15598536211316,77.16,reported
+main_grade_10_12,stat_a_H1FP7_yesno,No,733,733,2317950.032600746,82.11905228009536,82.12,reported
+main_grade_10_12,stat_a_H1FP7_yesno,Yes,163,163,504720.186113637,17.880947719904647,17.88,reported
+main_grade_10_12,stat_a_H1CO16D_yesno,No,1763,1763,5606852.451433031,99.95557087128697,99.96,reported
+main_grade_10_12,stat_a_H1CO16D_yesno,Yes,1,<10,2492.182947566,0.04442912871302292,suppressed,suppressed_small_cell
+main_grade_10_12,stat_a_H1HS9_yesno,No,3023,3023,9709012.198145814,93.29637711446482,93.30,reported
+main_grade_10_12,stat_a_H1HS9_yesno,Yes,232,232,697621.476636519,6.703622885535178,6.70,reported
+main_grade_10_12,stat_a_H1CO16A_yesno,No,1704,1704,5431888.629552216,96.91303973080745,96.91,reported
+main_grade_10_12,stat_a_H1CO16A_yesno,Yes,59,59,173021.344007809,3.0869602691925566,3.09,reported
+main_grade_10_12,stat_a_H1CO16C_yesno,No,1739,1739,5542962.269078346,98.81657538216886,98.82,reported
+main_grade_10_12,stat_a_H1CO16C_yesno,Yes,25,25,66382.365302251,1.1834246178311554,1.18,reported
+strict_grade_10_12_age_15_19,stat_grade,Grade 10,1140,1140,3592058.732410808,34.69906374099469,34.70,reported
+strict_grade_10_12_age_15_19,stat_grade,Grade 11,1118,1118,3295332.063299169,31.832702589308404,31.83,reported
+strict_grade_10_12_age_15_19,stat_grade,Grade 12,982,982,3464642.790046472,33.46823366969691,33.47,reported
+strict_grade_10_12_age_15_19,stat_age_group,15-19,3240,3240,10352033.585756449,100,100.00,reported
+strict_grade_10_12_age_15_19,stat_sex,Male,3240,3240,10352033.585756449,100,100.00,reported
+strict_grade_10_12_age_15_19,stat_main_sample,Grade 10-12,3240,3240,10352033.585756449,100,100.00,reported
+strict_grade_10_12_age_15_19,stat_strict_sample,Grade 10-12 and age 15-19,3240,3240,10352033.585756449,100,100.00,reported
+strict_grade_10_12_age_15_19,stat_sex_ever,No,1453,1453,4638321.317558955,45.39479129894834,45.39,reported
+strict_grade_10_12_age_15_19,stat_sex_ever,Yes,1755,1755,5579417.73319071,54.60520870105166,54.61,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO8_yesno,No,154,154,473098.880383912,36.632664060447944,36.63,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO8_yesno,Yes,244,244,818368.427599058,63.367335939552056,63.37,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO3_yesno,No,550,550,1733046.790174853,31.222055725219718,31.22,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO3_yesno,Yes,1196,1196,3817666.47940329,68.77794427478028,68.78,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO6_yesno,No,541,541,1705825.553271177,30.862143026781595,30.86,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO6_yesno,Yes,1197,1197,3821417.165391922,69.1378569732184,69.14,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO13_yesno,No,118,118,348506.206671377,22.98272085570185,22.98,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO13_yesno,Yes,360,360,1167877.379325644,77.01727914429814,77.02,reported
+strict_grade_10_12_age_15_19,stat_a_H1FP7_yesno,No,731,731,2313946.38515456,82.2872380325925,82.29,reported
+strict_grade_10_12_age_15_19,stat_a_H1FP7_yesno,Yes,161,161,498089.163101474,17.712761967407506,17.71,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16D_yesno,No,1752,1752,5572843.4107657485,99.9552998576377,99.96,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16D_yesno,Yes,1,<10,2492.182947566,0.04470014236230296,suppressed,suppressed_small_cell
+strict_grade_10_12_age_15_19,stat_a_H1HS9_yesno,No,3008,3008,9655282.883478371,93.35764671146968,93.36,reported
+strict_grade_10_12_age_15_19,stat_a_H1HS9_yesno,Yes,229,229,686968.901550983,6.642353288530319,6.64,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16A_yesno,No,1695,1695,5406212.751409736,96.98006929613544,96.98,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16A_yesno,Yes,58,58,168347.867743347,3.019930703864573,3.02,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16C_yesno,No,1728,1728,5508953.228411063,98.80935659950045,98.81,reported
+strict_grade_10_12_age_15_19,stat_a_H1CO16C_yesno,Yes,25,25,66382.365302251,1.1906434004995685,1.19,reported

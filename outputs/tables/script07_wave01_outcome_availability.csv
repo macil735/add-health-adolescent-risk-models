@@ -1,0 +1,13 @@
+variable,variable_group,full_unweighted_nonmissing,main_unweighted_nonmissing,strict_unweighted_nonmissing,public_full_n,public_main_n,public_strict_n
+a_sex_ever,sexual_initiation,6418,3226,3208,6418,3226,3208
+a_H1CO8_yesno,condom_use,637,402,398,637,402,398
+a_H1CO9_yesno,condom_use,0,0,0,<10,<10,<10
+a_H1CO3_yesno,contraceptive_use,2548,1756,1746,2548,1756,1746
+a_H1CO6_yesno,contraceptive_use,2533,1749,1738,2533,1749,1738
+a_H1CO13_yesno,contraceptive_use,623,481,478,623,481,478
+a_H1FP7_yesno,pregnancy_outcome,1250,896,892,1250,896,892
+a_H1FP8_yesno,pregnancy_outcome,0,0,0,<10,<10,<10
+a_H1CO16D_yesno,hiv_sti_outcome,2562,1764,1753,2562,1764,1753
+a_H1HS9_yesno,hiv_sti_outcome,6483,3255,3237,6483,3255,3237
+a_H1CO16A_yesno,hiv_sti_outcome,2558,1763,1753,2558,1763,1753
+a_H1CO16C_yesno,hiv_sti_outcome,2561,1764,1753,2561,1764,1753

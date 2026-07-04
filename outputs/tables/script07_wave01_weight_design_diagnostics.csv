@@ -1,0 +1,19 @@
+diagnostic_id,item,value,note
+1,Total observations in analytical file,6504,Local-only analytical file produced by Script 06.
+2,AID initially present in Script 06 analytical RDS,FALSE,AID is required internally for merging survey weights.
+3,AID recovery status,recovered_from_ds0001_by_row_order,"If recovered, recovery was done from DS0001 by row order after exact row-count match."
+4,Observations with valid GSWGT1,6504,Cases usable for weighted Wave I descriptive statistics.
+5,Observations without valid GSWGT1,0,Cases excluded from weighted estimates.
+6,Main grade 10-12 sample with valid GSWGT1,3259,Primary analytical sample.
+7,Strict grade 10-12 and age 15-19 sample with valid GSWGT1,3240,Sensitivity sample aligned with thesis age range.
+8,GSWGT1 minimum,256.05881294,Aggregate diagnostic only.
+9,GSWGT1 maximum,18385.486367584,Aggregate diagnostic only.
+10,GSWGT1 mean,3422.66297663027,Aggregate diagnostic only.
+11,GSWGT1 sum,22261000.0000033,Aggregate diagnostic only.
+12,CLUSTER2 file DS0021 available,TRUE,"DS0021 is an auxiliary file number, not Wave II."
+13,CLUSTER2 available after merge,TRUE,Cluster variable merged from DS0021 when available.
+14,Number of non-missing CLUSTER2 values,4882,Aggregate diagnostic only.
+15,Number of unique CLUSTER2 values,132,Aggregate diagnostic only.
+16,SCHWT1 available after merge,TRUE,School-level weight merged from DS0019 when available.
+17,REGION available,not_found_in_available_local_files,REGION was not found in the available local files inspected so far.
+18,W1_WC available,not_found_in_available_local_files,W1_WC was not found in the available local files inspected so far.

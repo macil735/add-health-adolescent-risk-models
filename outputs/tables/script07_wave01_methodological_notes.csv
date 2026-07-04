@@ -1,0 +1,13 @@
+note_id,note
+1,Script 07 produces aggregate descriptive statistics for Add Health Wave I.
+2,The main analytical sample is students in grades 10 to 12 at Wave I.
+3,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+4,GSWGT1 is used as the Wave I population-average sampling weight.
+5,AID is used only internally to merge GSWGT1 and is not exported in public outputs.
+6,"If AID was absent from the analytical RDS, it was recovered from DS0001 only after exact row-count validation."
+7,"DS0021 is an auxiliary ICPSR dataset number, not Wave II."
+8,CLUSTER2 is used as the available cluster variable when DS0021 is present.
+9,REGION was not found in the currently available local files and is documented as a limitation.
+10,W1_WC was not found in the currently available local files and is not used in this script.
+11,SCHWT1 was located but is not needed for the main population-average descriptive tables.
+12,No individual-level data are exported by this script.

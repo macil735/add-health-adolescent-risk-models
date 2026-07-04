@@ -1,0 +1,19 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Analytical clean local-only RDS exists,OK
+3,Wave I raw DS0001 exists for AID recovery,OK
+4,Wave I weight file DS0004 exists,OK
+5,Analytical data loaded,OK
+6,AID available or recovered,OK
+7,GSWGT1 loaded,OK
+8,GSWGT1 merged by AID,OK
+9,CLUSTER2 checked,OK
+10,SCHWT1 checked,OK
+11,Survey design created,OK
+12,Weighted categorical descriptives created,OK
+13,Weighted continuous descriptives created,OK
+14,Outcome availability summary created,OK
+15,Weighted analytical local-only RDS saved,OK
+16,CSV outputs exported,OK
+17,Excel diagnostic workbook exported,OK
+18,Markdown documentation exported,OK
