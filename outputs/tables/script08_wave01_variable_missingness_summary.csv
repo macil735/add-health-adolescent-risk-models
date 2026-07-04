@@ -1,0 +1,538 @@
+sample_name,variable,variable_label,variable_class,variable_role,n_total,n_missing,n_nonmissing,pct_missing,pct_nonmissing,weighted_pct_missing,weighted_pct_nonmissing,n_unique_nonmissing,is_binary_01,public_n_nonmissing,availability_class
+full_weighted_wave1,H1GI20,S1Q20 GRADE-W1,haven_labelled,original_imported_variable,6504,167,6337,2.57,97.43,2.66,97.34,6,FALSE,6337,high_availability
+full_weighted_wave1,H1GI1Y,S1Q1 BIRTH YEAR-W1,haven_labelled,original_imported_variable,6504,3,6501,0.05,99.95,0.02,99.98,10,FALSE,6501,high_availability
+full_weighted_wave1,H1GI1M,S1Q1 BIRTH MONTH-W1,haven_labelled,original_imported_variable,6504,3,6501,0.05,99.95,0.02,99.98,12,FALSE,6501,high_availability
+full_weighted_wave1,IMONTH,MONTH OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,6504,0,6504,0,100,-0,100,10,FALSE,6504,high_availability
+full_weighted_wave1,IYEAR,YEAR OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,6504,0,6504,0,100,-0,100,2,FALSE,6504,high_availability
+full_weighted_wave1,H1CO1,S24Q1 EVER HAVE SEX-W1,haven_labelled,original_imported_variable,6504,86,6418,1.32,98.68,1.65,98.35,2,TRUE,6418,high_availability
+full_weighted_wave1,H1CO2M,S24Q2M FIRST TIMEN SEX-MONTH-W1,haven_labelled,original_imported_variable,6504,4128,2376,63.47,36.53,64.77,35.23,12,FALSE,2376,not_recommended_high_missingness
+full_weighted_wave1,H1CO2Y,S24Q2Y FIRST TIME SEX-YEAR-W1,haven_labelled,original_imported_variable,6504,4117,2387,63.3,36.7,64.63,35.37,15,FALSE,2387,not_recommended_high_missingness
+full_weighted_wave1,H1CO8,S24Q8 EVER USE A CONDOM DURING SEX-W1,haven_labelled,original_imported_variable,6504,5867,637,90.21,9.79,90.06,9.94,2,TRUE,637,not_recommended_high_missingness
+full_weighted_wave1,H1CO9,S24Q9 HOW OFTEN USE CONDOM-W1,haven_labelled,original_imported_variable,6504,6117,387,94.05,5.95,93.97,6.03,5,FALSE,387,not_recommended_high_missingness
+full_weighted_wave1,H1CO3,S24Q3 FIRST TIME SEX-USE BIRTHCONTROL-W1,haven_labelled,original_imported_variable,6504,3956,2548,60.82,39.18,62.28,37.72,2,TRUE,2548,not_recommended_high_missingness
+full_weighted_wave1,H1CO6,S24Q6 MOST RECENT SEX-BIRTHCONTROL-W1,haven_labelled,original_imported_variable,6504,3971,2533,61.05,38.95,62.52,37.48,2,TRUE,2533,not_recommended_high_missingness
+full_weighted_wave1,H1CO13,S24Q13 EVER USE BIRTHCONTROL PILLS-W1,haven_labelled,original_imported_variable,6504,5881,623,90.42,9.58,90.92,9.08,2,TRUE,623,not_recommended_high_missingness
+full_weighted_wave1,H1FP7,S32BQ7 EVER BEEN PREGNANT-W1,haven_labelled,original_imported_variable,6504,5254,1250,80.78,19.22,81.98,18.02,2,TRUE,1250,not_recommended_high_missingness
+full_weighted_wave1,H1FP8,S32BQ8 NUMBER OF PREGNANCIES-W1,haven_labelled,original_imported_variable,6504,6271,233,96.42,3.58,96.7,3.3,4,FALSE,233,not_recommended_high_missingness
+full_weighted_wave1,H1CO16D,S24Q16A EVER DIAGNOSED-HIV/AIDS-W1,haven_labelled,original_imported_variable,6504,3942,2562,60.61,39.39,62.1,37.9,2,TRUE,2562,not_recommended_high_missingness
+full_weighted_wave1,H1HS9,S7Q9 TESTING/TREATMENT FOR STDS-W1,haven_labelled,original_imported_variable,6504,21,6483,0.32,99.68,0.33,99.67,2,TRUE,6483,high_availability
+full_weighted_wave1,H1CO16A,S24Q16A EVER DIAGNOSED-CHLAMYDIA-W1,haven_labelled,original_imported_variable,6504,3946,2558,60.67,39.33,62.18,37.82,2,TRUE,2558,not_recommended_high_missingness
+full_weighted_wave1,H1CO16C,S24Q16A EVER DIAGNOSED-GONORRHEA-W1,haven_labelled,original_imported_variable,6504,3943,2561,60.62,39.38,62.12,37.88,2,TRUE,2561,not_recommended_high_missingness
+full_weighted_wave1,H1SE1,S9Q1 USE BIRTH CONTROL IF AROUSED-W1,haven_labelled,original_imported_variable,6504,2161,4343,33.23,66.77,36.26,63.74,6,FALSE,4343,moderate_availability
+full_weighted_wave1,H1SE2,S9Q2 BIRTHCONTROL-ADVANCED PLANNING-W1,haven_labelled,original_imported_variable,6504,2134,4370,32.81,67.19,35.84,64.16,6,FALSE,4370,moderate_availability
+full_weighted_wave1,H1SE3,S9Q3 RESIST SEX IF NO BIRTH CONTROL-W1,haven_labelled,original_imported_variable,6504,2134,4370,32.81,67.19,35.88,64.12,6,FALSE,4370,moderate_availability
+full_weighted_wave1,H1PF6,S18Q6 KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,6504,209,6295,3.21,96.79,3.81,96.19,5,FALSE,6295,high_availability
+full_weighted_wave1,H1PF12,S18Q12 FRIENDS KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,6504,366,6138,5.63,94.37,6.18,93.82,5,FALSE,6138,high_availability
+full_weighted_wave1,H1PF9,S18Q9 FRIENDS KNOW WITHDRAWAL METHOD-W1,haven_labelled,original_imported_variable,6504,437,6067,6.72,93.28,7.43,92.57,5,FALSE,6067,high_availability
+full_weighted_wave1,H1PF17,S18Q17 FRIENDS KNOW RHYTHM METHOD-W1,haven_labelled,original_imported_variable,6504,464,6040,7.13,92.87,7.6,92.4,5,FALSE,6040,high_availability
+full_weighted_wave1,H1WP1,S16Q1 MAKE OWN DECISION-WKEND CURFEW-W1,haven_labelled,original_imported_variable,6504,151,6353,2.32,97.68,2.4,97.6,2,TRUE,6353,high_availability
+full_weighted_wave1,H1WP2,S16Q2 MAKE OWN DECISION-FRIEND-W1,haven_labelled,original_imported_variable,6504,142,6362,2.18,97.82,2.25,97.75,2,TRUE,6362,high_availability
+full_weighted_wave1,H1WP8,S16Q8 FREQ-EAT DINNER W/ PARENT-W1,haven_labelled,original_imported_variable,6504,154,6350,2.37,97.63,2.4,97.6,8,FALSE,6350,high_availability
+full_weighted_wave1,H1ED19,S5Q19 FEEL CLOSE TO PEOPLE AT SCHOOL-W1,haven_labelled,original_imported_variable,6504,138,6366,2.12,97.88,2.18,97.82,5,FALSE,6366,high_availability
+full_weighted_wave1,H1ED20,S5Q20 FEEL PART OF YOUR SCHOOL-W1,haven_labelled,original_imported_variable,6504,138,6366,2.12,97.88,2.22,97.78,5,FALSE,6366,high_availability
+full_weighted_wave1,H1ED23,S5Q23 TEACHERS TREAT STUDENTS FAIRLY-W1,haven_labelled,original_imported_variable,6504,137,6367,2.11,97.89,2.19,97.81,5,FALSE,6367,high_availability
+full_weighted_wave1,H1ED24,S5Q24 FEEL SAFE IN YOUR SCHOOL-W1,haven_labelled,original_imported_variable,6504,137,6367,2.11,97.89,2.19,97.81,5,FALSE,6367,high_availability
+full_weighted_wave1,H1PR2,S35Q2 TEACHERS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,6504,28,6476,0.43,99.57,0.5,99.5,6,FALSE,6476,high_availability
+full_weighted_wave1,BIO_SEX,BIOLOGICAL SEX-W1,haven_labelled,original_imported_variable,6504,1,6503,0.02,99.98,0,100,2,FALSE,6503,high_availability
+full_weighted_wave1,H1RM1,S14Q1 RES MOM-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,6504,427,6077,6.57,93.43,6.75,93.25,12,FALSE,6077,high_availability
+full_weighted_wave1,H1RF1,S15Q1 RES DAD-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,6504,2010,4494,30.9,69.1,29.15,70.85,12,FALSE,4494,moderate_availability
+full_weighted_wave1,PA55,A55 TOTAL HOUSEHOLD INCOME-PQ,haven_labelled,original_imported_variable,6504,1575,4929,24.22,75.78,22.85,77.15,150,FALSE,4929,moderate_availability
+full_weighted_wave1,PA21,A21 RECEIVING PUBLIC ASSISTANCE-PQ,haven_labelled,original_imported_variable,6504,891,5613,13.7,86.3,13.01,86.99,2,TRUE,5613,high_availability
+full_weighted_wave1,H1TS8,S4Q8 LEARNED-AIDS-W1,haven_labelled,original_imported_variable,6504,15,6489,0.23,99.77,0.24,99.76,2,TRUE,6489,high_availability
+full_weighted_wave1,H1GH44,S3Q44 CHANCES OF GETTING AIDS-W1,haven_labelled,original_imported_variable,6504,55,6449,0.85,99.15,0.9,99.1,5,FALSE,6449,high_availability
+full_weighted_wave1,H1GH46,S3Q46 CHANGES OF GETTING OTHER STDS-W1,haven_labelled,original_imported_variable,6504,81,6423,1.25,98.75,1.39,98.61,5,FALSE,6423,high_availability
+full_weighted_wave1,H1RP5,S8Q5 RISK OF PREGNANCY W/O PROTECTION-W1,haven_labelled,original_imported_variable,6504,2111,4393,32.46,67.54,35.55,64.45,5,FALSE,4393,moderate_availability
+full_weighted_wave1,H1RP6,S8Q6 RISK OF AIDS W/O PROTECTION-W1,haven_labelled,original_imported_variable,6504,2114,4390,32.5,67.5,35.58,64.42,5,FALSE,4390,moderate_availability
+full_weighted_wave1,H1BC6,S27Q6 EASY TO GET BIRTHCONTROL-W1,haven_labelled,original_imported_variable,6504,1868,4636,28.72,71.28,31.65,68.35,5,FALSE,4636,moderate_availability
+full_weighted_wave1,H1BC1,S27Q1 BIRTHCONTROL TOO BOTHERSOME-W1,haven_labelled,original_imported_variable,6504,1833,4671,28.18,71.82,31.17,68.83,5,FALSE,4671,moderate_availability
+full_weighted_wave1,H1BC2,S27Q2 BIRTHCONTROL TOO EXPENSIVE-W1,haven_labelled,original_imported_variable,6504,1852,4652,28.47,71.53,31.45,68.55,5,FALSE,4652,moderate_availability
+full_weighted_wave1,H1BC3,S27Q3 TOO MUCH PLANNING-W1,haven_labelled,original_imported_variable,6504,1849,4655,28.43,71.57,31.38,68.62,5,FALSE,4655,moderate_availability
+full_weighted_wave1,H1BC4,S27Q4 HARD TO GET PARTNER TO USE-W1,haven_labelled,original_imported_variable,6504,1858,4646,28.57,71.43,31.51,68.49,5,FALSE,4646,moderate_availability
+full_weighted_wave1,H1BC5,S27Q5 INTERFERES WITH PLEASURE-W1,haven_labelled,original_imported_variable,6504,1882,4622,28.94,71.06,31.9,68.1,5,FALSE,4622,moderate_availability
+full_weighted_wave1,H1BC7,S27Q7 BIRTHCONTROL USE MORALLY WRONG-W1,haven_labelled,original_imported_variable,6504,1827,4677,28.09,71.91,31.05,68.95,5,FALSE,4677,moderate_availability
+full_weighted_wave1,H1BC8,S27Q8 BIRTHCONTROL=LOOKING FOR SEX-W1,haven_labelled,original_imported_variable,6504,1864,4640,28.66,71.34,31.58,68.42,5,FALSE,4640,moderate_availability
+full_weighted_wave1,H1MO1,S17Q1 IF SEX GAIN MORE RESPECT-W1,haven_labelled,original_imported_variable,6504,2147,4357,33.01,66.99,36.12,63.88,5,FALSE,4357,moderate_availability
+full_weighted_wave1,H1MO2,S17Q2 IF SEX LOSE PARTNER RESPECT-W1,haven_labelled,original_imported_variable,6504,2168,4336,33.33,66.67,36.46,63.54,5,FALSE,4336,moderate_availability
+full_weighted_wave1,H1MO3,S17Q3 IF SEX WOULD FEEL GUILTY-W1,haven_labelled,original_imported_variable,6504,2161,4343,33.23,66.77,36.37,63.63,5,FALSE,4343,moderate_availability
+full_weighted_wave1,H1MO5,S17Q5 IF SEX LOT OF PHYSICAL PLEASURE-W1,haven_labelled,original_imported_variable,6504,2207,4297,33.93,66.07,37.09,62.91,5,FALSE,4297,moderate_availability
+full_weighted_wave1,H1PA3,S34Q3 MOM-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,6504,481,6023,7.4,92.6,7.92,92.08,5,FALSE,6023,high_availability
+full_weighted_wave1,H1PA6,S34Q6 DAD-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,6504,2271,4233,34.92,65.08,33.57,66.43,5,FALSE,4233,moderate_availability
+full_weighted_wave1,H1PA7,S34Q7 CONSIDER HAVING CHILD UNMARRIED-W1,haven_labelled,original_imported_variable,6504,115,6389,1.77,98.23,2.09,97.91,2,TRUE,6389,high_availability
+full_weighted_wave1,H1PR3,S35Q3 PARENTS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,6504,24,6480,0.37,99.63,0.41,99.59,6,FALSE,6480,high_availability
+full_weighted_wave1,H1PR5,S35Q5 FAMILY UNDERSTAND YOU-W1,haven_labelled,original_imported_variable,6504,29,6475,0.45,99.55,0.49,99.51,6,FALSE,6475,high_availability
+full_weighted_wave1,H1PR7,S35Q7 FAMIYL HAS FUN TOGETHER-W1,haven_labelled,original_imported_variable,6504,29,6475,0.45,99.55,0.52,99.48,6,FALSE,6475,high_availability
+full_weighted_wave1,H1PR8,S35Q8 FAMILY PAYS ATTENTION TO YOU-W1,haven_labelled,original_imported_variable,6504,27,6477,0.42,99.58,0.48,99.52,6,FALSE,6477,high_availability
+full_weighted_wave1,H1WP9,S16Q9 CLOSE TO MOM-W1,haven_labelled,original_imported_variable,6504,375,6129,5.77,94.23,5.93,94.07,5,FALSE,6129,high_availability
+full_weighted_wave1,H1WP10,S16Q10 MOM-HOW MUCH DOES SHE CARE-W1,haven_labelled,original_imported_variable,6504,374,6130,5.75,94.25,5.92,94.08,5,FALSE,6130,high_availability
+full_weighted_wave1,H1WP13,S16Q13 CLOSE TO DAD-W1,haven_labelled,original_imported_variable,6504,1957,4547,30.09,69.91,28.31,71.69,5,FALSE,4547,moderate_availability
+full_weighted_wave1,H1WP14,S16Q14 DAD-HOW MUCH DOES HE CARE-W1,haven_labelled,original_imported_variable,6504,1957,4547,30.09,69.91,28.31,71.69,5,FALSE,4547,moderate_availability
+full_weighted_wave1,H1RP3,S8Q3 WILL SUFFER IF HIV POSITIVE-W1,haven_labelled,original_imported_variable,6504,2077,4427,31.93,68.07,35.03,64.97,5,FALSE,4427,moderate_availability
+full_weighted_wave1,H1MO9,S17Q9 IF PREGNANT EMBARRASS FAMILY-W1,haven_labelled,original_imported_variable,6504,2159,4345,33.19,66.81,36.33,63.67,5,FALSE,4345,moderate_availability
+full_weighted_wave1,H1MO10,S17Q10 IF PREGNANT EMBARRASS SELF-W1,haven_labelled,original_imported_variable,6504,2148,4356,33.03,66.97,36.18,63.82,5,FALSE,4356,moderate_availability
+full_weighted_wave1,H1MO11,S17Q11 IF PREGNANT HAVE TO QUIT SCH-W1,haven_labelled,original_imported_variable,6504,2171,4333,33.38,66.62,36.5,63.5,5,FALSE,4333,moderate_availability
+full_weighted_wave1,H1MO12,S17Q12 IF PREGNANT MARRY WRONG PERSON-W1,haven_labelled,original_imported_variable,6504,2164,4340,33.27,66.73,36.41,63.59,5,FALSE,4340,moderate_availability
+full_weighted_wave1,H1MO13,S17Q13 IF PREGNANT GROW UP TOO FAST-W1,haven_labelled,original_imported_variable,6504,2153,4351,33.1,66.9,36.26,63.74,5,FALSE,4351,moderate_availability
+full_weighted_wave1,H1MO14,S17Q14 IF PREGNANT MAKE HARD DECISION-W1,haven_labelled,original_imported_variable,6504,2154,4350,33.12,66.88,36.24,63.76,5,FALSE,4350,moderate_availability
+full_weighted_wave1,derived_grade_wave1,NA,numeric,script05_derived_variable,6504,167,6337,2.57,97.43,2.66,97.34,6,FALSE,6337,high_availability
+full_weighted_wave1,derived_grade_10_12_flag,NA,logical,script05_derived_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,derived_age_wave1,NA,numeric,script05_derived_variable,6504,3,6501,0.05,99.95,0.02,99.98,11,FALSE,6501,high_availability
+full_weighted_wave1,derived_age_15_19_flag,NA,logical,script05_derived_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,derived_main_sample_flag,NA,logical,script05_derived_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,derived_strict_sample_flag,NA,logical,script05_derived_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,a_grade_wave1,NA,numeric,core_covariate,6504,167,6337,2.57,97.43,2.66,97.34,6,FALSE,6337,high_availability
+full_weighted_wave1,a_sample_grade_10_12,NA,logical,sample_definition_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,a_age_wave1,NA,numeric,core_covariate,6504,3,6501,0.05,99.95,0.02,99.98,11,FALSE,6501,high_availability
+full_weighted_wave1,a_sample_age_15_19,NA,logical,sample_definition_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,a_female,NA,integer,core_covariate,6504,1,6503,0.02,99.98,0,100,1,TRUE,6503,high_availability
+full_weighted_wave1,a_main_sample_grade_10_12,NA,logical,sample_definition_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,a_strict_sample_grade_age,NA,logical,sample_definition_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,num_H1GI20,NA,numeric,numeric_cleaned_item,6504,167,6337,2.57,97.43,2.66,97.34,6,FALSE,6337,high_availability
+full_weighted_wave1,num_H1GI1Y,NA,numeric,numeric_cleaned_item,6504,3,6501,0.05,99.95,0.02,99.98,10,FALSE,6501,high_availability
+full_weighted_wave1,num_H1GI1M,NA,numeric,numeric_cleaned_item,6504,3,6501,0.05,99.95,0.02,99.98,12,FALSE,6501,high_availability
+full_weighted_wave1,num_IMONTH,NA,numeric,numeric_cleaned_item,6504,0,6504,0,100,-0,100,10,FALSE,6504,high_availability
+full_weighted_wave1,num_IYEAR,NA,numeric,numeric_cleaned_item,6504,0,6504,0,100,-0,100,2,FALSE,6504,high_availability
+full_weighted_wave1,num_H1CO1,NA,numeric,numeric_cleaned_item,6504,86,6418,1.32,98.68,1.65,98.35,2,TRUE,6418,high_availability
+full_weighted_wave1,num_H1CO2M,NA,numeric,numeric_cleaned_item,6504,4128,2376,63.47,36.53,64.77,35.23,12,FALSE,2376,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO2Y,NA,numeric,numeric_cleaned_item,6504,4117,2387,63.3,36.7,64.63,35.37,15,FALSE,2387,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO8,NA,numeric,numeric_cleaned_item,6504,5867,637,90.21,9.79,90.06,9.94,2,TRUE,637,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO9,NA,numeric,numeric_cleaned_item,6504,6117,387,94.05,5.95,93.97,6.03,5,FALSE,387,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO3,NA,numeric,numeric_cleaned_item,6504,3956,2548,60.82,39.18,62.28,37.72,2,TRUE,2548,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO6,NA,numeric,numeric_cleaned_item,6504,3971,2533,61.05,38.95,62.52,37.48,2,TRUE,2533,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO13,NA,numeric,numeric_cleaned_item,6504,5881,623,90.42,9.58,90.92,9.08,2,TRUE,623,not_recommended_high_missingness
+full_weighted_wave1,num_H1FP7,NA,numeric,numeric_cleaned_item,6504,5254,1250,80.78,19.22,81.98,18.02,2,TRUE,1250,not_recommended_high_missingness
+full_weighted_wave1,num_H1FP8,NA,numeric,numeric_cleaned_item,6504,6271,233,96.42,3.58,96.7,3.3,4,FALSE,233,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO16D,NA,numeric,numeric_cleaned_item,6504,3942,2562,60.61,39.39,62.1,37.9,2,TRUE,2562,not_recommended_high_missingness
+full_weighted_wave1,num_H1HS9,NA,numeric,numeric_cleaned_item,6504,21,6483,0.32,99.68,0.33,99.67,2,TRUE,6483,high_availability
+full_weighted_wave1,num_H1CO16A,NA,numeric,numeric_cleaned_item,6504,3946,2558,60.67,39.33,62.18,37.82,2,TRUE,2558,not_recommended_high_missingness
+full_weighted_wave1,num_H1CO16C,NA,numeric,numeric_cleaned_item,6504,3943,2561,60.62,39.38,62.12,37.88,2,TRUE,2561,not_recommended_high_missingness
+full_weighted_wave1,num_H1SE1,NA,numeric,numeric_cleaned_item,6504,2161,4343,33.23,66.77,36.26,63.74,6,FALSE,4343,moderate_availability
+full_weighted_wave1,num_H1SE2,NA,numeric,numeric_cleaned_item,6504,2134,4370,32.81,67.19,35.84,64.16,6,FALSE,4370,moderate_availability
+full_weighted_wave1,num_H1SE3,NA,numeric,numeric_cleaned_item,6504,2134,4370,32.81,67.19,35.88,64.12,6,FALSE,4370,moderate_availability
+full_weighted_wave1,num_H1PF6,NA,numeric,numeric_cleaned_item,6504,209,6295,3.21,96.79,3.81,96.19,5,FALSE,6295,high_availability
+full_weighted_wave1,num_H1PF12,NA,numeric,numeric_cleaned_item,6504,366,6138,5.63,94.37,6.18,93.82,5,FALSE,6138,high_availability
+full_weighted_wave1,num_H1PF9,NA,numeric,numeric_cleaned_item,6504,437,6067,6.72,93.28,7.43,92.57,5,FALSE,6067,high_availability
+full_weighted_wave1,num_H1PF17,NA,numeric,numeric_cleaned_item,6504,464,6040,7.13,92.87,7.6,92.4,5,FALSE,6040,high_availability
+full_weighted_wave1,num_H1WP1,NA,numeric,numeric_cleaned_item,6504,151,6353,2.32,97.68,2.4,97.6,2,TRUE,6353,high_availability
+full_weighted_wave1,num_H1WP2,NA,numeric,numeric_cleaned_item,6504,142,6362,2.18,97.82,2.25,97.75,2,TRUE,6362,high_availability
+full_weighted_wave1,num_H1WP8,NA,numeric,numeric_cleaned_item,6504,154,6350,2.37,97.63,2.4,97.6,8,FALSE,6350,high_availability
+full_weighted_wave1,num_H1ED19,NA,numeric,numeric_cleaned_item,6504,138,6366,2.12,97.88,2.18,97.82,5,FALSE,6366,high_availability
+full_weighted_wave1,num_H1ED20,NA,numeric,numeric_cleaned_item,6504,138,6366,2.12,97.88,2.22,97.78,5,FALSE,6366,high_availability
+full_weighted_wave1,num_H1ED23,NA,numeric,numeric_cleaned_item,6504,137,6367,2.11,97.89,2.19,97.81,5,FALSE,6367,high_availability
+full_weighted_wave1,num_H1ED24,NA,numeric,numeric_cleaned_item,6504,137,6367,2.11,97.89,2.19,97.81,5,FALSE,6367,high_availability
+full_weighted_wave1,num_H1PR2,NA,numeric,numeric_cleaned_item,6504,28,6476,0.43,99.57,0.5,99.5,6,FALSE,6476,high_availability
+full_weighted_wave1,num_BIO_SEX,NA,numeric,numeric_cleaned_item,6504,1,6503,0.02,99.98,0,100,2,FALSE,6503,high_availability
+full_weighted_wave1,num_H1RM1,NA,numeric,numeric_cleaned_item,6504,427,6077,6.57,93.43,6.75,93.25,12,FALSE,6077,high_availability
+full_weighted_wave1,num_H1RF1,NA,numeric,numeric_cleaned_item,6504,2010,4494,30.9,69.1,29.15,70.85,12,FALSE,4494,moderate_availability
+full_weighted_wave1,num_PA55,NA,numeric,numeric_cleaned_item,6504,1575,4929,24.22,75.78,22.85,77.15,150,FALSE,4929,moderate_availability
+full_weighted_wave1,num_PA21,NA,numeric,numeric_cleaned_item,6504,891,5613,13.7,86.3,13.01,86.99,2,TRUE,5613,high_availability
+full_weighted_wave1,num_H1TS8,NA,numeric,numeric_cleaned_item,6504,15,6489,0.23,99.77,0.24,99.76,2,TRUE,6489,high_availability
+full_weighted_wave1,num_H1GH44,NA,numeric,numeric_cleaned_item,6504,55,6449,0.85,99.15,0.9,99.1,5,FALSE,6449,high_availability
+full_weighted_wave1,num_H1GH46,NA,numeric,numeric_cleaned_item,6504,81,6423,1.25,98.75,1.39,98.61,5,FALSE,6423,high_availability
+full_weighted_wave1,num_H1RP5,NA,numeric,numeric_cleaned_item,6504,2111,4393,32.46,67.54,35.55,64.45,5,FALSE,4393,moderate_availability
+full_weighted_wave1,num_H1RP6,NA,numeric,numeric_cleaned_item,6504,2114,4390,32.5,67.5,35.58,64.42,5,FALSE,4390,moderate_availability
+full_weighted_wave1,num_H1BC6,NA,numeric,numeric_cleaned_item,6504,1868,4636,28.72,71.28,31.65,68.35,5,FALSE,4636,moderate_availability
+full_weighted_wave1,num_H1BC1,NA,numeric,numeric_cleaned_item,6504,1833,4671,28.18,71.82,31.17,68.83,5,FALSE,4671,moderate_availability
+full_weighted_wave1,num_H1BC2,NA,numeric,numeric_cleaned_item,6504,1852,4652,28.47,71.53,31.45,68.55,5,FALSE,4652,moderate_availability
+full_weighted_wave1,num_H1BC3,NA,numeric,numeric_cleaned_item,6504,1849,4655,28.43,71.57,31.38,68.62,5,FALSE,4655,moderate_availability
+full_weighted_wave1,num_H1BC4,NA,numeric,numeric_cleaned_item,6504,1858,4646,28.57,71.43,31.51,68.49,5,FALSE,4646,moderate_availability
+full_weighted_wave1,num_H1BC5,NA,numeric,numeric_cleaned_item,6504,1882,4622,28.94,71.06,31.9,68.1,5,FALSE,4622,moderate_availability
+full_weighted_wave1,num_H1BC7,NA,numeric,numeric_cleaned_item,6504,1827,4677,28.09,71.91,31.05,68.95,5,FALSE,4677,moderate_availability
+full_weighted_wave1,num_H1BC8,NA,numeric,numeric_cleaned_item,6504,1864,4640,28.66,71.34,31.58,68.42,5,FALSE,4640,moderate_availability
+full_weighted_wave1,num_H1MO1,NA,numeric,numeric_cleaned_item,6504,2147,4357,33.01,66.99,36.12,63.88,5,FALSE,4357,moderate_availability
+full_weighted_wave1,num_H1MO2,NA,numeric,numeric_cleaned_item,6504,2168,4336,33.33,66.67,36.46,63.54,5,FALSE,4336,moderate_availability
+full_weighted_wave1,num_H1MO3,NA,numeric,numeric_cleaned_item,6504,2161,4343,33.23,66.77,36.37,63.63,5,FALSE,4343,moderate_availability
+full_weighted_wave1,num_H1MO5,NA,numeric,numeric_cleaned_item,6504,2207,4297,33.93,66.07,37.09,62.91,5,FALSE,4297,moderate_availability
+full_weighted_wave1,num_H1PA3,NA,numeric,numeric_cleaned_item,6504,481,6023,7.4,92.6,7.92,92.08,5,FALSE,6023,high_availability
+full_weighted_wave1,num_H1PA6,NA,numeric,numeric_cleaned_item,6504,2271,4233,34.92,65.08,33.57,66.43,5,FALSE,4233,moderate_availability
+full_weighted_wave1,num_H1PA7,NA,numeric,numeric_cleaned_item,6504,115,6389,1.77,98.23,2.09,97.91,2,TRUE,6389,high_availability
+full_weighted_wave1,num_H1PR3,NA,numeric,numeric_cleaned_item,6504,24,6480,0.37,99.63,0.41,99.59,6,FALSE,6480,high_availability
+full_weighted_wave1,num_H1PR5,NA,numeric,numeric_cleaned_item,6504,29,6475,0.45,99.55,0.49,99.51,6,FALSE,6475,high_availability
+full_weighted_wave1,num_H1PR7,NA,numeric,numeric_cleaned_item,6504,29,6475,0.45,99.55,0.52,99.48,6,FALSE,6475,high_availability
+full_weighted_wave1,num_H1PR8,NA,numeric,numeric_cleaned_item,6504,27,6477,0.42,99.58,0.48,99.52,6,FALSE,6477,high_availability
+full_weighted_wave1,num_H1WP9,NA,numeric,numeric_cleaned_item,6504,375,6129,5.77,94.23,5.93,94.07,5,FALSE,6129,high_availability
+full_weighted_wave1,num_H1WP10,NA,numeric,numeric_cleaned_item,6504,374,6130,5.75,94.25,5.92,94.08,5,FALSE,6130,high_availability
+full_weighted_wave1,num_H1WP13,NA,numeric,numeric_cleaned_item,6504,1957,4547,30.09,69.91,28.31,71.69,5,FALSE,4547,moderate_availability
+full_weighted_wave1,num_H1WP14,NA,numeric,numeric_cleaned_item,6504,1957,4547,30.09,69.91,28.31,71.69,5,FALSE,4547,moderate_availability
+full_weighted_wave1,num_H1RP3,NA,numeric,numeric_cleaned_item,6504,2077,4427,31.93,68.07,35.03,64.97,5,FALSE,4427,moderate_availability
+full_weighted_wave1,num_H1MO9,NA,numeric,numeric_cleaned_item,6504,2159,4345,33.19,66.81,36.33,63.67,5,FALSE,4345,moderate_availability
+full_weighted_wave1,num_H1MO10,NA,numeric,numeric_cleaned_item,6504,2148,4356,33.03,66.97,36.18,63.82,5,FALSE,4356,moderate_availability
+full_weighted_wave1,num_H1MO11,NA,numeric,numeric_cleaned_item,6504,2171,4333,33.38,66.62,36.5,63.5,5,FALSE,4333,moderate_availability
+full_weighted_wave1,num_H1MO12,NA,numeric,numeric_cleaned_item,6504,2164,4340,33.27,66.73,36.41,63.59,5,FALSE,4340,moderate_availability
+full_weighted_wave1,num_H1MO13,NA,numeric,numeric_cleaned_item,6504,2153,4351,33.1,66.9,36.26,63.74,5,FALSE,4351,moderate_availability
+full_weighted_wave1,num_H1MO14,NA,numeric,numeric_cleaned_item,6504,2154,4350,33.12,66.88,36.24,63.76,5,FALSE,4350,moderate_availability
+full_weighted_wave1,a_sex_ever,NA,integer,candidate_outcome,6504,86,6418,1.32,98.68,1.65,98.35,2,TRUE,6418,high_availability
+full_weighted_wave1,a_H1CO8_yesno,NA,integer,candidate_binary_recode,6504,5867,637,90.21,9.79,90.06,9.94,2,TRUE,637,not_recommended_high_missingness
+full_weighted_wave1,a_H1CO9_yesno,NA,integer,candidate_binary_recode,6504,6504,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+full_weighted_wave1,a_H1CO3_yesno,NA,integer,candidate_binary_recode,6504,3956,2548,60.82,39.18,62.28,37.72,2,TRUE,2548,not_recommended_high_missingness
+full_weighted_wave1,a_H1CO6_yesno,NA,integer,candidate_binary_recode,6504,3971,2533,61.05,38.95,62.52,37.48,2,TRUE,2533,not_recommended_high_missingness
+full_weighted_wave1,a_H1CO13_yesno,NA,integer,candidate_binary_recode,6504,5881,623,90.42,9.58,90.92,9.08,2,TRUE,623,not_recommended_high_missingness
+full_weighted_wave1,a_H1FP7_yesno,NA,integer,candidate_binary_recode,6504,5254,1250,80.78,19.22,81.98,18.02,2,TRUE,1250,not_recommended_high_missingness
+full_weighted_wave1,a_H1FP8_yesno,NA,integer,candidate_binary_recode,6504,6504,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+full_weighted_wave1,a_H1CO16D_yesno,NA,integer,candidate_binary_recode,6504,3942,2562,60.61,39.39,62.1,37.9,2,TRUE,2562,not_recommended_high_missingness
+full_weighted_wave1,a_H1HS9_yesno,NA,integer,candidate_binary_recode,6504,21,6483,0.32,99.68,0.33,99.67,2,TRUE,6483,high_availability
+full_weighted_wave1,a_H1CO16A_yesno,NA,integer,candidate_binary_recode,6504,3946,2558,60.67,39.33,62.18,37.82,2,TRUE,2558,not_recommended_high_missingness
+full_weighted_wave1,a_H1CO16C_yesno,NA,integer,candidate_binary_recode,6504,3943,2561,60.62,39.38,62.12,37.88,2,TRUE,2561,not_recommended_high_missingness
+full_weighted_wave1,GSWGT1,NA,numeric,weight_or_design_variable,6504,0,6504,0,100,-0,100,1573,FALSE,6504,high_availability
+full_weighted_wave1,CLUSTER2,NA,character,weight_or_design_variable,6504,1622,4882,24.94,75.06,25.29,74.71,132,FALSE,4882,moderate_availability
+full_weighted_wave1,SCHWT1,NA,numeric,weight_or_design_variable,6504,1622,4882,24.94,75.06,25.29,74.71,132,FALSE,4882,moderate_availability
+full_weighted_wave1,valid_gswgt1,NA,logical,weight_or_design_variable,6504,0,6504,0,100,-0,100,1,TRUE,6504,high_availability
+full_weighted_wave1,valid_cluster2,NA,logical,weight_or_design_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+full_weighted_wave1,valid_schwt1,NA,logical,weight_or_design_variable,6504,0,6504,0,100,-0,100,2,TRUE,6504,high_availability
+main_grade_10_12,H1GI20,S1Q20 GRADE-W1,haven_labelled,original_imported_variable,3259,0,3259,0,100,0,100,3,FALSE,3259,high_availability
+main_grade_10_12,H1GI1Y,S1Q1 BIRTH YEAR-W1,haven_labelled,original_imported_variable,3259,0,3259,0,100,0,100,8,FALSE,3259,high_availability
+main_grade_10_12,H1GI1M,S1Q1 BIRTH MONTH-W1,haven_labelled,original_imported_variable,3259,0,3259,0,100,0,100,12,FALSE,3259,high_availability
+main_grade_10_12,IMONTH,MONTH OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,3259,0,3259,0,100,0,100,10,FALSE,3259,high_availability
+main_grade_10_12,IYEAR,YEAR OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,3259,0,3259,0,100,0,100,1,FALSE,3259,high_availability
+main_grade_10_12,H1CO1,S24Q1 EVER HAVE SEX-W1,haven_labelled,original_imported_variable,3259,33,3226,1.01,98.99,1.3,98.7,2,TRUE,3226,high_availability
+main_grade_10_12,H1CO2M,S24Q2M FIRST TIMEN SEX-MONTH-W1,haven_labelled,original_imported_variable,3259,1603,1656,49.19,50.81,49.27,50.73,12,FALSE,1656,limited_availability_review_required
+main_grade_10_12,H1CO2Y,S24Q2Y FIRST TIME SEX-YEAR-W1,haven_labelled,original_imported_variable,3259,1594,1665,48.91,51.09,49.17,50.83,15,FALSE,1665,limited_availability_review_required
+main_grade_10_12,H1CO8,S24Q8 EVER USE A CONDOM DURING SEX-W1,haven_labelled,original_imported_variable,3259,2857,402,87.66,12.34,87.5,12.5,2,TRUE,402,not_recommended_high_missingness
+main_grade_10_12,H1CO9,S24Q9 HOW OFTEN USE CONDOM-W1,haven_labelled,original_imported_variable,3259,3013,246,92.45,7.55,92.12,7.88,5,FALSE,246,not_recommended_high_missingness
+main_grade_10_12,H1CO3,S24Q3 FIRST TIME SEX-USE BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3259,1503,1756,46.12,53.88,46.42,53.58,2,TRUE,1756,limited_availability_review_required
+main_grade_10_12,H1CO6,S24Q6 MOST RECENT SEX-BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3259,1510,1749,46.33,53.67,46.62,53.38,2,TRUE,1749,limited_availability_review_required
+main_grade_10_12,H1CO13,S24Q13 EVER USE BIRTHCONTROL PILLS-W1,haven_labelled,original_imported_variable,3259,2778,481,85.24,14.76,85.36,14.64,2,TRUE,481,not_recommended_high_missingness
+main_grade_10_12,H1FP7,S32BQ7 EVER BEEN PREGNANT-W1,haven_labelled,original_imported_variable,3259,2363,896,72.51,27.49,72.91,27.09,2,TRUE,896,not_recommended_high_missingness
+main_grade_10_12,H1FP8,S32BQ8 NUMBER OF PREGNANCIES-W1,haven_labelled,original_imported_variable,3259,3098,161,95.06,4.94,95.22,4.78,4,FALSE,161,not_recommended_high_missingness
+main_grade_10_12,H1CO16D,S24Q16A EVER DIAGNOSED-HIV/AIDS-W1,haven_labelled,original_imported_variable,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,H1HS9,S7Q9 TESTING/TREATMENT FOR STDS-W1,haven_labelled,original_imported_variable,3259,4,3255,0.12,99.88,0.11,99.89,2,TRUE,3255,high_availability
+main_grade_10_12,H1CO16A,S24Q16A EVER DIAGNOSED-CHLAMYDIA-W1,haven_labelled,original_imported_variable,3259,1496,1763,45.9,54.1,46.2,53.8,2,TRUE,1763,limited_availability_review_required
+main_grade_10_12,H1CO16C,S24Q16A EVER DIAGNOSED-GONORRHEA-W1,haven_labelled,original_imported_variable,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,H1SE1,S9Q1 USE BIRTH CONTROL IF AROUSED-W1,haven_labelled,original_imported_variable,3259,57,3202,1.75,98.25,2.1,97.9,6,FALSE,3202,high_availability
+main_grade_10_12,H1SE2,S9Q2 BIRTHCONTROL-ADVANCED PLANNING-W1,haven_labelled,original_imported_variable,3259,42,3217,1.29,98.71,1.63,98.37,6,FALSE,3217,high_availability
+main_grade_10_12,H1SE3,S9Q3 RESIST SEX IF NO BIRTH CONTROL-W1,haven_labelled,original_imported_variable,3259,44,3215,1.35,98.65,1.68,98.32,6,FALSE,3215,high_availability
+main_grade_10_12,H1PF6,S18Q6 KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,3259,40,3219,1.23,98.77,1.66,98.34,5,FALSE,3219,high_availability
+main_grade_10_12,H1PF12,S18Q12 FRIENDS KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,3259,92,3167,2.82,97.18,3.24,96.76,5,FALSE,3167,high_availability
+main_grade_10_12,H1PF9,S18Q9 FRIENDS KNOW WITHDRAWAL METHOD-W1,haven_labelled,original_imported_variable,3259,115,3144,3.53,96.47,3.94,96.06,5,FALSE,3144,high_availability
+main_grade_10_12,H1PF17,S18Q17 FRIENDS KNOW RHYTHM METHOD-W1,haven_labelled,original_imported_variable,3259,133,3126,4.08,95.92,4.29,95.71,5,FALSE,3126,high_availability
+main_grade_10_12,H1WP1,S16Q1 MAKE OWN DECISION-WKEND CURFEW-W1,haven_labelled,original_imported_variable,3259,108,3151,3.31,96.69,3.63,96.37,2,TRUE,3151,high_availability
+main_grade_10_12,H1WP2,S16Q2 MAKE OWN DECISION-FRIEND-W1,haven_labelled,original_imported_variable,3259,104,3155,3.19,96.81,3.47,96.53,2,TRUE,3155,high_availability
+main_grade_10_12,H1WP8,S16Q8 FREQ-EAT DINNER W/ PARENT-W1,haven_labelled,original_imported_variable,3259,106,3153,3.25,96.75,3.47,96.53,8,FALSE,3153,high_availability
+main_grade_10_12,H1ED19,S5Q19 FEEL CLOSE TO PEOPLE AT SCHOOL-W1,haven_labelled,original_imported_variable,3259,5,3254,0.15,99.85,0.1,99.9,5,FALSE,3254,high_availability
+main_grade_10_12,H1ED20,S5Q20 FEEL PART OF YOUR SCHOOL-W1,haven_labelled,original_imported_variable,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,H1ED23,S5Q23 TEACHERS TREAT STUDENTS FAIRLY-W1,haven_labelled,original_imported_variable,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,H1ED24,S5Q24 FEEL SAFE IN YOUR SCHOOL-W1,haven_labelled,original_imported_variable,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,H1PR2,S35Q2 TEACHERS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,3259,10,3249,0.31,99.69,0.38,99.62,6,FALSE,3249,high_availability
+main_grade_10_12,BIO_SEX,BIOLOGICAL SEX-W1,haven_labelled,original_imported_variable,3259,0,3259,0,100,0,100,2,FALSE,3259,high_availability
+main_grade_10_12,H1RM1,S14Q1 RES MOM-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,3259,227,3032,6.97,93.03,7.21,92.79,12,FALSE,3032,high_availability
+main_grade_10_12,H1RF1,S15Q1 RES DAD-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,3259,972,2287,29.83,70.17,27.83,72.17,12,FALSE,2287,moderate_availability
+main_grade_10_12,PA55,A55 TOTAL HOUSEHOLD INCOME-PQ,haven_labelled,original_imported_variable,3259,888,2371,27.25,72.75,26.45,73.55,133,FALSE,2371,moderate_availability
+main_grade_10_12,PA21,A21 RECEIVING PUBLIC ASSISTANCE-PQ,haven_labelled,original_imported_variable,3259,556,2703,17.06,82.94,16.88,83.12,2,TRUE,2703,high_availability
+main_grade_10_12,H1TS8,S4Q8 LEARNED-AIDS-W1,haven_labelled,original_imported_variable,3259,5,3254,0.15,99.85,0.14,99.86,2,TRUE,3254,high_availability
+main_grade_10_12,H1GH44,S3Q44 CHANCES OF GETTING AIDS-W1,haven_labelled,original_imported_variable,3259,13,3246,0.4,99.6,0.36,99.64,5,FALSE,3246,high_availability
+main_grade_10_12,H1GH46,S3Q46 CHANGES OF GETTING OTHER STDS-W1,haven_labelled,original_imported_variable,3259,14,3245,0.43,99.57,0.39,99.61,5,FALSE,3245,high_availability
+main_grade_10_12,H1RP5,S8Q5 RISK OF PREGNANCY W/O PROTECTION-W1,haven_labelled,original_imported_variable,3259,40,3219,1.23,98.77,1.55,98.45,5,FALSE,3219,high_availability
+main_grade_10_12,H1RP6,S8Q6 RISK OF AIDS W/O PROTECTION-W1,haven_labelled,original_imported_variable,3259,45,3214,1.38,98.62,1.69,98.31,5,FALSE,3214,high_availability
+main_grade_10_12,H1BC6,S27Q6 EASY TO GET BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3259,69,3190,2.12,97.88,2.38,97.62,5,FALSE,3190,high_availability
+main_grade_10_12,H1BC1,S27Q1 BIRTHCONTROL TOO BOTHERSOME-W1,haven_labelled,original_imported_variable,3259,51,3208,1.56,98.44,1.9,98.1,5,FALSE,3208,high_availability
+main_grade_10_12,H1BC2,S27Q2 BIRTHCONTROL TOO EXPENSIVE-W1,haven_labelled,original_imported_variable,3259,62,3197,1.9,98.1,2.18,97.82,5,FALSE,3197,high_availability
+main_grade_10_12,H1BC3,S27Q3 TOO MUCH PLANNING-W1,haven_labelled,original_imported_variable,3259,54,3205,1.66,98.34,1.9,98.1,5,FALSE,3205,high_availability
+main_grade_10_12,H1BC4,S27Q4 HARD TO GET PARTNER TO USE-W1,haven_labelled,original_imported_variable,3259,62,3197,1.9,98.1,2.17,97.83,5,FALSE,3197,high_availability
+main_grade_10_12,H1BC5,S27Q5 INTERFERES WITH PLEASURE-W1,haven_labelled,original_imported_variable,3259,78,3181,2.39,97.61,2.71,97.29,5,FALSE,3181,high_availability
+main_grade_10_12,H1BC7,S27Q7 BIRTHCONTROL USE MORALLY WRONG-W1,haven_labelled,original_imported_variable,3259,44,3215,1.35,98.65,1.57,98.43,5,FALSE,3215,high_availability
+main_grade_10_12,H1BC8,S27Q8 BIRTHCONTROL=LOOKING FOR SEX-W1,haven_labelled,original_imported_variable,3259,65,3194,1.99,98.01,2.16,97.84,5,FALSE,3194,high_availability
+main_grade_10_12,H1MO1,S17Q1 IF SEX GAIN MORE RESPECT-W1,haven_labelled,original_imported_variable,3259,63,3196,1.93,98.07,2.34,97.66,5,FALSE,3196,high_availability
+main_grade_10_12,H1MO2,S17Q2 IF SEX LOSE PARTNER RESPECT-W1,haven_labelled,original_imported_variable,3259,76,3183,2.33,97.67,2.79,97.21,5,FALSE,3183,high_availability
+main_grade_10_12,H1MO3,S17Q3 IF SEX WOULD FEEL GUILTY-W1,haven_labelled,original_imported_variable,3259,74,3185,2.27,97.73,2.74,97.26,5,FALSE,3185,high_availability
+main_grade_10_12,H1MO5,S17Q5 IF SEX LOT OF PHYSICAL PLEASURE-W1,haven_labelled,original_imported_variable,3259,105,3154,3.22,96.78,3.77,96.23,5,FALSE,3154,high_availability
+main_grade_10_12,H1PA3,S34Q3 MOM-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3259,250,3009,7.67,92.33,8.24,91.76,5,FALSE,3009,high_availability
+main_grade_10_12,H1PA6,S34Q6 DAD-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3259,1106,2153,33.94,66.06,32.18,67.82,5,FALSE,2153,moderate_availability
+main_grade_10_12,H1PA7,S34Q7 CONSIDER HAVING CHILD UNMARRIED-W1,haven_labelled,original_imported_variable,3259,59,3200,1.81,98.19,2.25,97.75,2,TRUE,3200,high_availability
+main_grade_10_12,H1PR3,S35Q3 PARENTS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,3259,10,3249,0.31,99.69,0.38,99.62,6,FALSE,3249,high_availability
+main_grade_10_12,H1PR5,S35Q5 FAMILY UNDERSTAND YOU-W1,haven_labelled,original_imported_variable,3259,11,3248,0.34,99.66,0.41,99.59,6,FALSE,3248,high_availability
+main_grade_10_12,H1PR7,S35Q7 FAMIYL HAS FUN TOGETHER-W1,haven_labelled,original_imported_variable,3259,11,3248,0.34,99.66,0.44,99.56,6,FALSE,3248,high_availability
+main_grade_10_12,H1PR8,S35Q8 FAMILY PAYS ATTENTION TO YOU-W1,haven_labelled,original_imported_variable,3259,11,3248,0.34,99.66,0.44,99.56,6,FALSE,3248,high_availability
+main_grade_10_12,H1WP9,S16Q9 CLOSE TO MOM-W1,haven_labelled,original_imported_variable,3259,218,3041,6.69,93.31,6.87,93.13,5,FALSE,3041,high_availability
+main_grade_10_12,H1WP10,S16Q10 MOM-HOW MUCH DOES SHE CARE-W1,haven_labelled,original_imported_variable,3259,218,3041,6.69,93.31,6.87,93.13,5,FALSE,3041,high_availability
+main_grade_10_12,H1WP13,S16Q13 CLOSE TO DAD-W1,haven_labelled,original_imported_variable,3259,960,2299,29.46,70.54,27.46,72.54,5,FALSE,2299,moderate_availability
+main_grade_10_12,H1WP14,S16Q14 DAD-HOW MUCH DOES HE CARE-W1,haven_labelled,original_imported_variable,3259,960,2299,29.46,70.54,27.46,72.54,5,FALSE,2299,moderate_availability
+main_grade_10_12,H1RP3,S8Q3 WILL SUFFER IF HIV POSITIVE-W1,haven_labelled,original_imported_variable,3259,19,3240,0.58,99.42,0.85,99.15,5,FALSE,3240,high_availability
+main_grade_10_12,H1MO9,S17Q9 IF PREGNANT EMBARRASS FAMILY-W1,haven_labelled,original_imported_variable,3259,69,3190,2.12,97.88,2.52,97.48,5,FALSE,3190,high_availability
+main_grade_10_12,H1MO10,S17Q10 IF PREGNANT EMBARRASS SELF-W1,haven_labelled,original_imported_variable,3259,63,3196,1.93,98.07,2.33,97.67,5,FALSE,3196,high_availability
+main_grade_10_12,H1MO11,S17Q11 IF PREGNANT HAVE TO QUIT SCH-W1,haven_labelled,original_imported_variable,3259,81,3178,2.49,97.51,2.89,97.11,5,FALSE,3178,high_availability
+main_grade_10_12,H1MO12,S17Q12 IF PREGNANT MARRY WRONG PERSON-W1,haven_labelled,original_imported_variable,3259,77,3182,2.36,97.64,2.79,97.21,5,FALSE,3182,high_availability
+main_grade_10_12,H1MO13,S17Q13 IF PREGNANT GROW UP TOO FAST-W1,haven_labelled,original_imported_variable,3259,68,3191,2.09,97.91,2.55,97.45,5,FALSE,3191,high_availability
+main_grade_10_12,H1MO14,S17Q14 IF PREGNANT MAKE HARD DECISION-W1,haven_labelled,original_imported_variable,3259,67,3192,2.06,97.94,2.44,97.56,5,FALSE,3192,high_availability
+main_grade_10_12,derived_grade_wave1,NA,numeric,script05_derived_variable,3259,0,3259,0,100,0,100,3,FALSE,3259,high_availability
+main_grade_10_12,derived_grade_10_12_flag,NA,logical,script05_derived_variable,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,derived_age_wave1,NA,numeric,script05_derived_variable,3259,0,3259,0,100,0,100,8,FALSE,3259,high_availability
+main_grade_10_12,derived_age_15_19_flag,NA,logical,script05_derived_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+main_grade_10_12,derived_main_sample_flag,NA,logical,script05_derived_variable,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,derived_strict_sample_flag,NA,logical,script05_derived_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+main_grade_10_12,a_grade_wave1,NA,numeric,core_covariate,3259,0,3259,0,100,0,100,3,FALSE,3259,high_availability
+main_grade_10_12,a_sample_grade_10_12,NA,logical,sample_definition_variable,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,a_age_wave1,NA,numeric,core_covariate,3259,0,3259,0,100,0,100,8,FALSE,3259,high_availability
+main_grade_10_12,a_sample_age_15_19,NA,logical,sample_definition_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+main_grade_10_12,a_female,NA,integer,core_covariate,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,a_main_sample_grade_10_12,NA,logical,sample_definition_variable,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,a_strict_sample_grade_age,NA,logical,sample_definition_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+main_grade_10_12,num_H1GI20,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,3,FALSE,3259,high_availability
+main_grade_10_12,num_H1GI1Y,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,8,FALSE,3259,high_availability
+main_grade_10_12,num_H1GI1M,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,12,FALSE,3259,high_availability
+main_grade_10_12,num_IMONTH,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,10,FALSE,3259,high_availability
+main_grade_10_12,num_IYEAR,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,1,FALSE,3259,high_availability
+main_grade_10_12,num_H1CO1,NA,numeric,numeric_cleaned_item,3259,33,3226,1.01,98.99,1.3,98.7,2,TRUE,3226,high_availability
+main_grade_10_12,num_H1CO2M,NA,numeric,numeric_cleaned_item,3259,1603,1656,49.19,50.81,49.27,50.73,12,FALSE,1656,limited_availability_review_required
+main_grade_10_12,num_H1CO2Y,NA,numeric,numeric_cleaned_item,3259,1594,1665,48.91,51.09,49.17,50.83,15,FALSE,1665,limited_availability_review_required
+main_grade_10_12,num_H1CO8,NA,numeric,numeric_cleaned_item,3259,2857,402,87.66,12.34,87.5,12.5,2,TRUE,402,not_recommended_high_missingness
+main_grade_10_12,num_H1CO9,NA,numeric,numeric_cleaned_item,3259,3013,246,92.45,7.55,92.12,7.88,5,FALSE,246,not_recommended_high_missingness
+main_grade_10_12,num_H1CO3,NA,numeric,numeric_cleaned_item,3259,1503,1756,46.12,53.88,46.42,53.58,2,TRUE,1756,limited_availability_review_required
+main_grade_10_12,num_H1CO6,NA,numeric,numeric_cleaned_item,3259,1510,1749,46.33,53.67,46.62,53.38,2,TRUE,1749,limited_availability_review_required
+main_grade_10_12,num_H1CO13,NA,numeric,numeric_cleaned_item,3259,2778,481,85.24,14.76,85.36,14.64,2,TRUE,481,not_recommended_high_missingness
+main_grade_10_12,num_H1FP7,NA,numeric,numeric_cleaned_item,3259,2363,896,72.51,27.49,72.91,27.09,2,TRUE,896,not_recommended_high_missingness
+main_grade_10_12,num_H1FP8,NA,numeric,numeric_cleaned_item,3259,3098,161,95.06,4.94,95.22,4.78,4,FALSE,161,not_recommended_high_missingness
+main_grade_10_12,num_H1CO16D,NA,numeric,numeric_cleaned_item,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,num_H1HS9,NA,numeric,numeric_cleaned_item,3259,4,3255,0.12,99.88,0.11,99.89,2,TRUE,3255,high_availability
+main_grade_10_12,num_H1CO16A,NA,numeric,numeric_cleaned_item,3259,1496,1763,45.9,54.1,46.2,53.8,2,TRUE,1763,limited_availability_review_required
+main_grade_10_12,num_H1CO16C,NA,numeric,numeric_cleaned_item,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,num_H1SE1,NA,numeric,numeric_cleaned_item,3259,57,3202,1.75,98.25,2.1,97.9,6,FALSE,3202,high_availability
+main_grade_10_12,num_H1SE2,NA,numeric,numeric_cleaned_item,3259,42,3217,1.29,98.71,1.63,98.37,6,FALSE,3217,high_availability
+main_grade_10_12,num_H1SE3,NA,numeric,numeric_cleaned_item,3259,44,3215,1.35,98.65,1.68,98.32,6,FALSE,3215,high_availability
+main_grade_10_12,num_H1PF6,NA,numeric,numeric_cleaned_item,3259,40,3219,1.23,98.77,1.66,98.34,5,FALSE,3219,high_availability
+main_grade_10_12,num_H1PF12,NA,numeric,numeric_cleaned_item,3259,92,3167,2.82,97.18,3.24,96.76,5,FALSE,3167,high_availability
+main_grade_10_12,num_H1PF9,NA,numeric,numeric_cleaned_item,3259,115,3144,3.53,96.47,3.94,96.06,5,FALSE,3144,high_availability
+main_grade_10_12,num_H1PF17,NA,numeric,numeric_cleaned_item,3259,133,3126,4.08,95.92,4.29,95.71,5,FALSE,3126,high_availability
+main_grade_10_12,num_H1WP1,NA,numeric,numeric_cleaned_item,3259,108,3151,3.31,96.69,3.63,96.37,2,TRUE,3151,high_availability
+main_grade_10_12,num_H1WP2,NA,numeric,numeric_cleaned_item,3259,104,3155,3.19,96.81,3.47,96.53,2,TRUE,3155,high_availability
+main_grade_10_12,num_H1WP8,NA,numeric,numeric_cleaned_item,3259,106,3153,3.25,96.75,3.47,96.53,8,FALSE,3153,high_availability
+main_grade_10_12,num_H1ED19,NA,numeric,numeric_cleaned_item,3259,5,3254,0.15,99.85,0.1,99.9,5,FALSE,3254,high_availability
+main_grade_10_12,num_H1ED20,NA,numeric,numeric_cleaned_item,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,num_H1ED23,NA,numeric,numeric_cleaned_item,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,num_H1ED24,NA,numeric,numeric_cleaned_item,3259,3,3256,0.09,99.91,0.07,99.93,5,FALSE,3256,high_availability
+main_grade_10_12,num_H1PR2,NA,numeric,numeric_cleaned_item,3259,10,3249,0.31,99.69,0.38,99.62,6,FALSE,3249,high_availability
+main_grade_10_12,num_BIO_SEX,NA,numeric,numeric_cleaned_item,3259,0,3259,0,100,0,100,2,FALSE,3259,high_availability
+main_grade_10_12,num_H1RM1,NA,numeric,numeric_cleaned_item,3259,227,3032,6.97,93.03,7.21,92.79,12,FALSE,3032,high_availability
+main_grade_10_12,num_H1RF1,NA,numeric,numeric_cleaned_item,3259,972,2287,29.83,70.17,27.83,72.17,12,FALSE,2287,moderate_availability
+main_grade_10_12,num_PA55,NA,numeric,numeric_cleaned_item,3259,888,2371,27.25,72.75,26.45,73.55,133,FALSE,2371,moderate_availability
+main_grade_10_12,num_PA21,NA,numeric,numeric_cleaned_item,3259,556,2703,17.06,82.94,16.88,83.12,2,TRUE,2703,high_availability
+main_grade_10_12,num_H1TS8,NA,numeric,numeric_cleaned_item,3259,5,3254,0.15,99.85,0.14,99.86,2,TRUE,3254,high_availability
+main_grade_10_12,num_H1GH44,NA,numeric,numeric_cleaned_item,3259,13,3246,0.4,99.6,0.36,99.64,5,FALSE,3246,high_availability
+main_grade_10_12,num_H1GH46,NA,numeric,numeric_cleaned_item,3259,14,3245,0.43,99.57,0.39,99.61,5,FALSE,3245,high_availability
+main_grade_10_12,num_H1RP5,NA,numeric,numeric_cleaned_item,3259,40,3219,1.23,98.77,1.55,98.45,5,FALSE,3219,high_availability
+main_grade_10_12,num_H1RP6,NA,numeric,numeric_cleaned_item,3259,45,3214,1.38,98.62,1.69,98.31,5,FALSE,3214,high_availability
+main_grade_10_12,num_H1BC6,NA,numeric,numeric_cleaned_item,3259,69,3190,2.12,97.88,2.38,97.62,5,FALSE,3190,high_availability
+main_grade_10_12,num_H1BC1,NA,numeric,numeric_cleaned_item,3259,51,3208,1.56,98.44,1.9,98.1,5,FALSE,3208,high_availability
+main_grade_10_12,num_H1BC2,NA,numeric,numeric_cleaned_item,3259,62,3197,1.9,98.1,2.18,97.82,5,FALSE,3197,high_availability
+main_grade_10_12,num_H1BC3,NA,numeric,numeric_cleaned_item,3259,54,3205,1.66,98.34,1.9,98.1,5,FALSE,3205,high_availability
+main_grade_10_12,num_H1BC4,NA,numeric,numeric_cleaned_item,3259,62,3197,1.9,98.1,2.17,97.83,5,FALSE,3197,high_availability
+main_grade_10_12,num_H1BC5,NA,numeric,numeric_cleaned_item,3259,78,3181,2.39,97.61,2.71,97.29,5,FALSE,3181,high_availability
+main_grade_10_12,num_H1BC7,NA,numeric,numeric_cleaned_item,3259,44,3215,1.35,98.65,1.57,98.43,5,FALSE,3215,high_availability
+main_grade_10_12,num_H1BC8,NA,numeric,numeric_cleaned_item,3259,65,3194,1.99,98.01,2.16,97.84,5,FALSE,3194,high_availability
+main_grade_10_12,num_H1MO1,NA,numeric,numeric_cleaned_item,3259,63,3196,1.93,98.07,2.34,97.66,5,FALSE,3196,high_availability
+main_grade_10_12,num_H1MO2,NA,numeric,numeric_cleaned_item,3259,76,3183,2.33,97.67,2.79,97.21,5,FALSE,3183,high_availability
+main_grade_10_12,num_H1MO3,NA,numeric,numeric_cleaned_item,3259,74,3185,2.27,97.73,2.74,97.26,5,FALSE,3185,high_availability
+main_grade_10_12,num_H1MO5,NA,numeric,numeric_cleaned_item,3259,105,3154,3.22,96.78,3.77,96.23,5,FALSE,3154,high_availability
+main_grade_10_12,num_H1PA3,NA,numeric,numeric_cleaned_item,3259,250,3009,7.67,92.33,8.24,91.76,5,FALSE,3009,high_availability
+main_grade_10_12,num_H1PA6,NA,numeric,numeric_cleaned_item,3259,1106,2153,33.94,66.06,32.18,67.82,5,FALSE,2153,moderate_availability
+main_grade_10_12,num_H1PA7,NA,numeric,numeric_cleaned_item,3259,59,3200,1.81,98.19,2.25,97.75,2,TRUE,3200,high_availability
+main_grade_10_12,num_H1PR3,NA,numeric,numeric_cleaned_item,3259,10,3249,0.31,99.69,0.38,99.62,6,FALSE,3249,high_availability
+main_grade_10_12,num_H1PR5,NA,numeric,numeric_cleaned_item,3259,11,3248,0.34,99.66,0.41,99.59,6,FALSE,3248,high_availability
+main_grade_10_12,num_H1PR7,NA,numeric,numeric_cleaned_item,3259,11,3248,0.34,99.66,0.44,99.56,6,FALSE,3248,high_availability
+main_grade_10_12,num_H1PR8,NA,numeric,numeric_cleaned_item,3259,11,3248,0.34,99.66,0.44,99.56,6,FALSE,3248,high_availability
+main_grade_10_12,num_H1WP9,NA,numeric,numeric_cleaned_item,3259,218,3041,6.69,93.31,6.87,93.13,5,FALSE,3041,high_availability
+main_grade_10_12,num_H1WP10,NA,numeric,numeric_cleaned_item,3259,218,3041,6.69,93.31,6.87,93.13,5,FALSE,3041,high_availability
+main_grade_10_12,num_H1WP13,NA,numeric,numeric_cleaned_item,3259,960,2299,29.46,70.54,27.46,72.54,5,FALSE,2299,moderate_availability
+main_grade_10_12,num_H1WP14,NA,numeric,numeric_cleaned_item,3259,960,2299,29.46,70.54,27.46,72.54,5,FALSE,2299,moderate_availability
+main_grade_10_12,num_H1RP3,NA,numeric,numeric_cleaned_item,3259,19,3240,0.58,99.42,0.85,99.15,5,FALSE,3240,high_availability
+main_grade_10_12,num_H1MO9,NA,numeric,numeric_cleaned_item,3259,69,3190,2.12,97.88,2.52,97.48,5,FALSE,3190,high_availability
+main_grade_10_12,num_H1MO10,NA,numeric,numeric_cleaned_item,3259,63,3196,1.93,98.07,2.33,97.67,5,FALSE,3196,high_availability
+main_grade_10_12,num_H1MO11,NA,numeric,numeric_cleaned_item,3259,81,3178,2.49,97.51,2.89,97.11,5,FALSE,3178,high_availability
+main_grade_10_12,num_H1MO12,NA,numeric,numeric_cleaned_item,3259,77,3182,2.36,97.64,2.79,97.21,5,FALSE,3182,high_availability
+main_grade_10_12,num_H1MO13,NA,numeric,numeric_cleaned_item,3259,68,3191,2.09,97.91,2.55,97.45,5,FALSE,3191,high_availability
+main_grade_10_12,num_H1MO14,NA,numeric,numeric_cleaned_item,3259,67,3192,2.06,97.94,2.44,97.56,5,FALSE,3192,high_availability
+main_grade_10_12,a_sex_ever,NA,integer,candidate_outcome,3259,33,3226,1.01,98.99,1.3,98.7,2,TRUE,3226,high_availability
+main_grade_10_12,a_H1CO8_yesno,NA,integer,candidate_binary_recode,3259,2857,402,87.66,12.34,87.5,12.5,2,TRUE,402,not_recommended_high_missingness
+main_grade_10_12,a_H1CO9_yesno,NA,integer,candidate_binary_recode,3259,3259,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+main_grade_10_12,a_H1CO3_yesno,NA,integer,candidate_binary_recode,3259,1503,1756,46.12,53.88,46.42,53.58,2,TRUE,1756,limited_availability_review_required
+main_grade_10_12,a_H1CO6_yesno,NA,integer,candidate_binary_recode,3259,1510,1749,46.33,53.67,46.62,53.38,2,TRUE,1749,limited_availability_review_required
+main_grade_10_12,a_H1CO13_yesno,NA,integer,candidate_binary_recode,3259,2778,481,85.24,14.76,85.36,14.64,2,TRUE,481,not_recommended_high_missingness
+main_grade_10_12,a_H1FP7_yesno,NA,integer,candidate_binary_recode,3259,2363,896,72.51,27.49,72.91,27.09,2,TRUE,896,not_recommended_high_missingness
+main_grade_10_12,a_H1FP8_yesno,NA,integer,candidate_binary_recode,3259,3259,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+main_grade_10_12,a_H1CO16D_yesno,NA,integer,candidate_binary_recode,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,a_H1HS9_yesno,NA,integer,candidate_binary_recode,3259,4,3255,0.12,99.88,0.11,99.89,2,TRUE,3255,high_availability
+main_grade_10_12,a_H1CO16A_yesno,NA,integer,candidate_binary_recode,3259,1496,1763,45.9,54.1,46.2,53.8,2,TRUE,1763,limited_availability_review_required
+main_grade_10_12,a_H1CO16C_yesno,NA,integer,candidate_binary_recode,3259,1495,1764,45.87,54.13,46.16,53.84,2,TRUE,1764,limited_availability_review_required
+main_grade_10_12,GSWGT1,NA,numeric,weight_or_design_variable,3259,0,3259,0,100,0,100,850,FALSE,3259,high_availability
+main_grade_10_12,CLUSTER2,NA,character,weight_or_design_variable,3259,880,2379,27,73,27.39,72.61,83,FALSE,2379,moderate_availability
+main_grade_10_12,SCHWT1,NA,numeric,weight_or_design_variable,3259,880,2379,27,73,27.39,72.61,83,FALSE,2379,moderate_availability
+main_grade_10_12,valid_gswgt1,NA,logical,weight_or_design_variable,3259,0,3259,0,100,0,100,1,TRUE,3259,high_availability
+main_grade_10_12,valid_cluster2,NA,logical,weight_or_design_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+main_grade_10_12,valid_schwt1,NA,logical,weight_or_design_variable,3259,0,3259,0,100,0,100,2,TRUE,3259,high_availability
+strict_grade_10_12_age_15_19,H1GI20,S1Q20 GRADE-W1,haven_labelled,original_imported_variable,3240,0,3240,0,100,0,100,3,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,H1GI1Y,S1Q1 BIRTH YEAR-W1,haven_labelled,original_imported_variable,3240,0,3240,0,100,0,100,6,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,H1GI1M,S1Q1 BIRTH MONTH-W1,haven_labelled,original_imported_variable,3240,0,3240,0,100,0,100,12,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,IMONTH,MONTH OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,3240,0,3240,0,100,0,100,10,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,IYEAR,YEAR OF INTERVIEW-W1,haven_labelled; vctrs_vctr; double,original_imported_variable,3240,0,3240,0,100,0,100,1,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,H1CO1,S24Q1 EVER HAVE SEX-W1,haven_labelled,original_imported_variable,3240,32,3208,0.99,99.01,1.3,98.7,2,TRUE,3208,high_availability
+strict_grade_10_12_age_15_19,H1CO2M,S24Q2M FIRST TIMEN SEX-MONTH-W1,haven_labelled,original_imported_variable,3240,1593,1647,49.17,50.83,49.21,50.79,12,FALSE,1647,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1CO2Y,S24Q2Y FIRST TIME SEX-YEAR-W1,haven_labelled,original_imported_variable,3240,1584,1656,48.89,51.11,49.11,50.89,15,FALSE,1656,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1CO8,S24Q8 EVER USE A CONDOM DURING SEX-W1,haven_labelled,original_imported_variable,3240,2842,398,87.72,12.28,87.52,12.48,2,TRUE,398,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,H1CO9,S24Q9 HOW OFTEN USE CONDOM-W1,haven_labelled,original_imported_variable,3240,2997,243,92.5,7.5,92.14,7.86,5,FALSE,243,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,H1CO3,S24Q3 FIRST TIME SEX-USE BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3240,1494,1746,46.11,53.89,46.38,53.62,2,TRUE,1746,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1CO6,S24Q6 MOST RECENT SEX-BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3240,1502,1738,46.36,53.64,46.61,53.39,2,TRUE,1738,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1CO13,S24Q13 EVER USE BIRTHCONTROL PILLS-W1,haven_labelled,original_imported_variable,3240,2762,478,85.25,14.75,85.35,14.65,2,TRUE,478,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,H1FP7,S32BQ7 EVER BEEN PREGNANT-W1,haven_labelled,original_imported_variable,3240,2348,892,72.47,27.53,72.84,27.16,2,TRUE,892,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,H1FP8,S32BQ8 NUMBER OF PREGNANCIES-W1,haven_labelled,original_imported_variable,3240,3081,159,95.09,4.91,95.25,4.75,4,FALSE,159,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,H1CO16D,S24Q16A EVER DIAGNOSED-HIV/AIDS-W1,haven_labelled,original_imported_variable,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1HS9,S7Q9 TESTING/TREATMENT FOR STDS-W1,haven_labelled,original_imported_variable,3240,3,3237,0.09,99.91,0.09,99.91,2,TRUE,3237,high_availability
+strict_grade_10_12_age_15_19,H1CO16A,S24Q16A EVER DIAGNOSED-CHLAMYDIA-W1,haven_labelled,original_imported_variable,3240,1487,1753,45.9,54.1,46.15,53.85,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1CO16C,S24Q16A EVER DIAGNOSED-GONORRHEA-W1,haven_labelled,original_imported_variable,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,H1SE1,S9Q1 USE BIRTH CONTROL IF AROUSED-W1,haven_labelled,original_imported_variable,3240,49,3191,1.51,98.49,1.87,98.13,6,FALSE,3191,high_availability
+strict_grade_10_12_age_15_19,H1SE2,S9Q2 BIRTHCONTROL-ADVANCED PLANNING-W1,haven_labelled,original_imported_variable,3240,34,3206,1.05,98.95,1.39,98.61,6,FALSE,3206,high_availability
+strict_grade_10_12_age_15_19,H1SE3,S9Q3 RESIST SEX IF NO BIRTH CONTROL-W1,haven_labelled,original_imported_variable,3240,37,3203,1.14,98.86,1.47,98.53,6,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,H1PF6,S18Q6 KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,3240,37,3203,1.14,98.86,1.57,98.43,5,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,H1PF12,S18Q12 FRIENDS KNOW HOW TO USE CONDOM-W1,haven_labelled,original_imported_variable,3240,90,3150,2.78,97.22,3.19,96.81,5,FALSE,3150,high_availability
+strict_grade_10_12_age_15_19,H1PF9,S18Q9 FRIENDS KNOW WITHDRAWAL METHOD-W1,haven_labelled,original_imported_variable,3240,111,3129,3.43,96.57,3.8,96.2,5,FALSE,3129,high_availability
+strict_grade_10_12_age_15_19,H1PF17,S18Q17 FRIENDS KNOW RHYTHM METHOD-W1,haven_labelled,original_imported_variable,3240,129,3111,3.98,96.02,4.15,95.85,5,FALSE,3111,high_availability
+strict_grade_10_12_age_15_19,H1WP1,S16Q1 MAKE OWN DECISION-WKEND CURFEW-W1,haven_labelled,original_imported_variable,3240,105,3135,3.24,96.76,3.58,96.42,2,TRUE,3135,high_availability
+strict_grade_10_12_age_15_19,H1WP2,S16Q2 MAKE OWN DECISION-FRIEND-W1,haven_labelled,original_imported_variable,3240,101,3139,3.12,96.88,3.41,96.59,2,TRUE,3139,high_availability
+strict_grade_10_12_age_15_19,H1WP8,S16Q8 FREQ-EAT DINNER W/ PARENT-W1,haven_labelled,original_imported_variable,3240,103,3137,3.18,96.82,3.41,96.59,8,FALSE,3137,high_availability
+strict_grade_10_12_age_15_19,H1ED19,S5Q19 FEEL CLOSE TO PEOPLE AT SCHOOL-W1,haven_labelled,original_imported_variable,3240,4,3236,0.12,99.88,0.09,99.91,5,FALSE,3236,high_availability
+strict_grade_10_12_age_15_19,H1ED20,S5Q20 FEEL PART OF YOUR SCHOOL-W1,haven_labelled,original_imported_variable,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,H1ED23,S5Q23 TEACHERS TREAT STUDENTS FAIRLY-W1,haven_labelled,original_imported_variable,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,H1ED24,S5Q24 FEEL SAFE IN YOUR SCHOOL-W1,haven_labelled,original_imported_variable,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,H1PR2,S35Q2 TEACHERS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,3240,9,3231,0.28,99.72,0.37,99.63,6,FALSE,3231,high_availability
+strict_grade_10_12_age_15_19,BIO_SEX,BIOLOGICAL SEX-W1,haven_labelled,original_imported_variable,3240,0,3240,0,100,0,100,2,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,H1RM1,S14Q1 RES MOM-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,3240,223,3017,6.88,93.12,7.12,92.88,12,FALSE,3017,high_availability
+strict_grade_10_12_age_15_19,H1RF1,S15Q1 RES DAD-EDUCATION LEVEL-W1,haven_labelled,original_imported_variable,3240,963,2277,29.72,70.28,27.72,72.28,12,FALSE,2277,moderate_availability
+strict_grade_10_12_age_15_19,PA55,A55 TOTAL HOUSEHOLD INCOME-PQ,haven_labelled,original_imported_variable,3240,876,2364,27.04,72.96,26.26,73.74,133,FALSE,2364,moderate_availability
+strict_grade_10_12_age_15_19,PA21,A21 RECEIVING PUBLIC ASSISTANCE-PQ,haven_labelled,original_imported_variable,3240,547,2693,16.88,83.12,16.68,83.32,2,TRUE,2693,high_availability
+strict_grade_10_12_age_15_19,H1TS8,S4Q8 LEARNED-AIDS-W1,haven_labelled,original_imported_variable,3240,4,3236,0.12,99.88,0.12,99.88,2,TRUE,3236,high_availability
+strict_grade_10_12_age_15_19,H1GH44,S3Q44 CHANCES OF GETTING AIDS-W1,haven_labelled,original_imported_variable,3240,12,3228,0.37,99.63,0.34,99.66,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,H1GH46,S3Q46 CHANGES OF GETTING OTHER STDS-W1,haven_labelled,original_imported_variable,3240,12,3228,0.37,99.63,0.32,99.68,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,H1RP5,S8Q5 RISK OF PREGNANCY W/O PROTECTION-W1,haven_labelled,original_imported_variable,3240,32,3208,0.99,99.01,1.31,98.69,5,FALSE,3208,high_availability
+strict_grade_10_12_age_15_19,H1RP6,S8Q6 RISK OF AIDS W/O PROTECTION-W1,haven_labelled,original_imported_variable,3240,37,3203,1.14,98.86,1.45,98.55,5,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,H1BC6,S27Q6 EASY TO GET BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3240,65,3175,2.01,97.99,2.22,97.78,5,FALSE,3175,high_availability
+strict_grade_10_12_age_15_19,H1BC1,S27Q1 BIRTHCONTROL TOO BOTHERSOME-W1,haven_labelled,original_imported_variable,3240,47,3193,1.45,98.55,1.74,98.26,5,FALSE,3193,high_availability
+strict_grade_10_12_age_15_19,H1BC2,S27Q2 BIRTHCONTROL TOO EXPENSIVE-W1,haven_labelled,original_imported_variable,3240,58,3182,1.79,98.21,2.03,97.97,5,FALSE,3182,high_availability
+strict_grade_10_12_age_15_19,H1BC3,S27Q3 TOO MUCH PLANNING-W1,haven_labelled,original_imported_variable,3240,49,3191,1.51,98.49,1.7,98.3,5,FALSE,3191,high_availability
+strict_grade_10_12_age_15_19,H1BC4,S27Q4 HARD TO GET PARTNER TO USE-W1,haven_labelled,original_imported_variable,3240,58,3182,1.79,98.21,2.01,97.99,5,FALSE,3182,high_availability
+strict_grade_10_12_age_15_19,H1BC5,S27Q5 INTERFERES WITH PLEASURE-W1,haven_labelled,original_imported_variable,3240,73,3167,2.25,97.75,2.52,97.48,5,FALSE,3167,high_availability
+strict_grade_10_12_age_15_19,H1BC7,S27Q7 BIRTHCONTROL USE MORALLY WRONG-W1,haven_labelled,original_imported_variable,3240,40,3200,1.23,98.77,1.41,98.59,5,FALSE,3200,high_availability
+strict_grade_10_12_age_15_19,H1BC8,S27Q8 BIRTHCONTROL=LOOKING FOR SEX-W1,haven_labelled,original_imported_variable,3240,60,3180,1.85,98.15,1.97,98.03,5,FALSE,3180,high_availability
+strict_grade_10_12_age_15_19,H1MO1,S17Q1 IF SEX GAIN MORE RESPECT-W1,haven_labelled,original_imported_variable,3240,56,3184,1.73,98.27,2.13,97.87,5,FALSE,3184,high_availability
+strict_grade_10_12_age_15_19,H1MO2,S17Q2 IF SEX LOSE PARTNER RESPECT-W1,haven_labelled,original_imported_variable,3240,69,3171,2.13,97.87,2.59,97.41,5,FALSE,3171,high_availability
+strict_grade_10_12_age_15_19,H1MO3,S17Q3 IF SEX WOULD FEEL GUILTY-W1,haven_labelled,original_imported_variable,3240,67,3173,2.07,97.93,2.55,97.45,5,FALSE,3173,high_availability
+strict_grade_10_12_age_15_19,H1MO5,S17Q5 IF SEX LOT OF PHYSICAL PLEASURE-W1,haven_labelled,original_imported_variable,3240,97,3143,2.99,97.01,3.55,96.45,5,FALSE,3143,high_availability
+strict_grade_10_12_age_15_19,H1PA3,S34Q3 MOM-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3240,246,2994,7.59,92.41,8.16,91.84,5,FALSE,2994,high_availability
+strict_grade_10_12_age_15_19,H1PA6,S34Q6 DAD-USE OF BIRTHCONTROL-W1,haven_labelled,original_imported_variable,3240,1097,2143,33.86,66.14,32.1,67.9,5,FALSE,2143,moderate_availability
+strict_grade_10_12_age_15_19,H1PA7,S34Q7 CONSIDER HAVING CHILD UNMARRIED-W1,haven_labelled,original_imported_variable,3240,58,3182,1.79,98.21,2.25,97.75,2,TRUE,3182,high_availability
+strict_grade_10_12_age_15_19,H1PR3,S35Q3 PARENTS CARE ABOUT YOU-W1,haven_labelled,original_imported_variable,3240,9,3231,0.28,99.72,0.37,99.63,6,FALSE,3231,high_availability
+strict_grade_10_12_age_15_19,H1PR5,S35Q5 FAMILY UNDERSTAND YOU-W1,haven_labelled,original_imported_variable,3240,10,3230,0.31,99.69,0.4,99.6,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,H1PR7,S35Q7 FAMIYL HAS FUN TOGETHER-W1,haven_labelled,original_imported_variable,3240,10,3230,0.31,99.69,0.43,99.57,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,H1PR8,S35Q8 FAMILY PAYS ATTENTION TO YOU-W1,haven_labelled,original_imported_variable,3240,10,3230,0.31,99.69,0.43,99.57,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,H1WP9,S16Q9 CLOSE TO MOM-W1,haven_labelled,original_imported_variable,3240,215,3025,6.64,93.36,6.83,93.17,5,FALSE,3025,high_availability
+strict_grade_10_12_age_15_19,H1WP10,S16Q10 MOM-HOW MUCH DOES SHE CARE-W1,haven_labelled,original_imported_variable,3240,215,3025,6.64,93.36,6.83,93.17,5,FALSE,3025,high_availability
+strict_grade_10_12_age_15_19,H1WP13,S16Q13 CLOSE TO DAD-W1,haven_labelled,original_imported_variable,3240,951,2289,29.35,70.65,27.34,72.66,5,FALSE,2289,moderate_availability
+strict_grade_10_12_age_15_19,H1WP14,S16Q14 DAD-HOW MUCH DOES HE CARE-W1,haven_labelled,original_imported_variable,3240,951,2289,29.35,70.65,27.34,72.66,5,FALSE,2289,moderate_availability
+strict_grade_10_12_age_15_19,H1RP3,S8Q3 WILL SUFFER IF HIV POSITIVE-W1,haven_labelled,original_imported_variable,3240,12,3228,0.37,99.63,0.64,99.36,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,H1MO9,S17Q9 IF PREGNANT EMBARRASS FAMILY-W1,haven_labelled,original_imported_variable,3240,62,3178,1.91,98.09,2.32,97.68,5,FALSE,3178,high_availability
+strict_grade_10_12_age_15_19,H1MO10,S17Q10 IF PREGNANT EMBARRASS SELF-W1,haven_labelled,original_imported_variable,3240,56,3184,1.73,98.27,2.13,97.87,5,FALSE,3184,high_availability
+strict_grade_10_12_age_15_19,H1MO11,S17Q11 IF PREGNANT HAVE TO QUIT SCH-W1,haven_labelled,original_imported_variable,3240,74,3166,2.28,97.72,2.69,97.31,5,FALSE,3166,high_availability
+strict_grade_10_12_age_15_19,H1MO12,S17Q12 IF PREGNANT MARRY WRONG PERSON-W1,haven_labelled,original_imported_variable,3240,70,3170,2.16,97.84,2.59,97.41,5,FALSE,3170,high_availability
+strict_grade_10_12_age_15_19,H1MO13,S17Q13 IF PREGNANT GROW UP TOO FAST-W1,haven_labelled,original_imported_variable,3240,61,3179,1.88,98.12,2.35,97.65,5,FALSE,3179,high_availability
+strict_grade_10_12_age_15_19,H1MO14,S17Q14 IF PREGNANT MAKE HARD DECISION-W1,haven_labelled,original_imported_variable,3240,60,3180,1.85,98.15,2.24,97.76,5,FALSE,3180,high_availability
+strict_grade_10_12_age_15_19,derived_grade_wave1,NA,numeric,script05_derived_variable,3240,0,3240,0,100,0,100,3,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,derived_grade_10_12_flag,NA,logical,script05_derived_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,derived_age_wave1,NA,numeric,script05_derived_variable,3240,0,3240,0,100,0,100,5,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,derived_age_15_19_flag,NA,logical,script05_derived_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,derived_main_sample_flag,NA,logical,script05_derived_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,derived_strict_sample_flag,NA,logical,script05_derived_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,a_grade_wave1,NA,numeric,core_covariate,3240,0,3240,0,100,0,100,3,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,a_sample_grade_10_12,NA,logical,sample_definition_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,a_age_wave1,NA,numeric,core_covariate,3240,0,3240,0,100,0,100,5,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,a_sample_age_15_19,NA,logical,sample_definition_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,a_female,NA,integer,core_covariate,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,a_main_sample_grade_10_12,NA,logical,sample_definition_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,a_strict_sample_grade_age,NA,logical,sample_definition_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,num_H1GI20,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,3,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_H1GI1Y,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,6,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_H1GI1M,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,12,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_IMONTH,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,10,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_IYEAR,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,1,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_H1CO1,NA,numeric,numeric_cleaned_item,3240,32,3208,0.99,99.01,1.3,98.7,2,TRUE,3208,high_availability
+strict_grade_10_12_age_15_19,num_H1CO2M,NA,numeric,numeric_cleaned_item,3240,1593,1647,49.17,50.83,49.21,50.79,12,FALSE,1647,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1CO2Y,NA,numeric,numeric_cleaned_item,3240,1584,1656,48.89,51.11,49.11,50.89,15,FALSE,1656,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1CO8,NA,numeric,numeric_cleaned_item,3240,2842,398,87.72,12.28,87.52,12.48,2,TRUE,398,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,num_H1CO9,NA,numeric,numeric_cleaned_item,3240,2997,243,92.5,7.5,92.14,7.86,5,FALSE,243,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,num_H1CO3,NA,numeric,numeric_cleaned_item,3240,1494,1746,46.11,53.89,46.38,53.62,2,TRUE,1746,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1CO6,NA,numeric,numeric_cleaned_item,3240,1502,1738,46.36,53.64,46.61,53.39,2,TRUE,1738,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1CO13,NA,numeric,numeric_cleaned_item,3240,2762,478,85.25,14.75,85.35,14.65,2,TRUE,478,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,num_H1FP7,NA,numeric,numeric_cleaned_item,3240,2348,892,72.47,27.53,72.84,27.16,2,TRUE,892,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,num_H1FP8,NA,numeric,numeric_cleaned_item,3240,3081,159,95.09,4.91,95.25,4.75,4,FALSE,159,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,num_H1CO16D,NA,numeric,numeric_cleaned_item,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1HS9,NA,numeric,numeric_cleaned_item,3240,3,3237,0.09,99.91,0.09,99.91,2,TRUE,3237,high_availability
+strict_grade_10_12_age_15_19,num_H1CO16A,NA,numeric,numeric_cleaned_item,3240,1487,1753,45.9,54.1,46.15,53.85,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1CO16C,NA,numeric,numeric_cleaned_item,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,num_H1SE1,NA,numeric,numeric_cleaned_item,3240,49,3191,1.51,98.49,1.87,98.13,6,FALSE,3191,high_availability
+strict_grade_10_12_age_15_19,num_H1SE2,NA,numeric,numeric_cleaned_item,3240,34,3206,1.05,98.95,1.39,98.61,6,FALSE,3206,high_availability
+strict_grade_10_12_age_15_19,num_H1SE3,NA,numeric,numeric_cleaned_item,3240,37,3203,1.14,98.86,1.47,98.53,6,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,num_H1PF6,NA,numeric,numeric_cleaned_item,3240,37,3203,1.14,98.86,1.57,98.43,5,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,num_H1PF12,NA,numeric,numeric_cleaned_item,3240,90,3150,2.78,97.22,3.19,96.81,5,FALSE,3150,high_availability
+strict_grade_10_12_age_15_19,num_H1PF9,NA,numeric,numeric_cleaned_item,3240,111,3129,3.43,96.57,3.8,96.2,5,FALSE,3129,high_availability
+strict_grade_10_12_age_15_19,num_H1PF17,NA,numeric,numeric_cleaned_item,3240,129,3111,3.98,96.02,4.15,95.85,5,FALSE,3111,high_availability
+strict_grade_10_12_age_15_19,num_H1WP1,NA,numeric,numeric_cleaned_item,3240,105,3135,3.24,96.76,3.58,96.42,2,TRUE,3135,high_availability
+strict_grade_10_12_age_15_19,num_H1WP2,NA,numeric,numeric_cleaned_item,3240,101,3139,3.12,96.88,3.41,96.59,2,TRUE,3139,high_availability
+strict_grade_10_12_age_15_19,num_H1WP8,NA,numeric,numeric_cleaned_item,3240,103,3137,3.18,96.82,3.41,96.59,8,FALSE,3137,high_availability
+strict_grade_10_12_age_15_19,num_H1ED19,NA,numeric,numeric_cleaned_item,3240,4,3236,0.12,99.88,0.09,99.91,5,FALSE,3236,high_availability
+strict_grade_10_12_age_15_19,num_H1ED20,NA,numeric,numeric_cleaned_item,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,num_H1ED23,NA,numeric,numeric_cleaned_item,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,num_H1ED24,NA,numeric,numeric_cleaned_item,3240,2,3238,0.06,99.94,0.06,99.94,5,FALSE,3238,high_availability
+strict_grade_10_12_age_15_19,num_H1PR2,NA,numeric,numeric_cleaned_item,3240,9,3231,0.28,99.72,0.37,99.63,6,FALSE,3231,high_availability
+strict_grade_10_12_age_15_19,num_BIO_SEX,NA,numeric,numeric_cleaned_item,3240,0,3240,0,100,0,100,2,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,num_H1RM1,NA,numeric,numeric_cleaned_item,3240,223,3017,6.88,93.12,7.12,92.88,12,FALSE,3017,high_availability
+strict_grade_10_12_age_15_19,num_H1RF1,NA,numeric,numeric_cleaned_item,3240,963,2277,29.72,70.28,27.72,72.28,12,FALSE,2277,moderate_availability
+strict_grade_10_12_age_15_19,num_PA55,NA,numeric,numeric_cleaned_item,3240,876,2364,27.04,72.96,26.26,73.74,133,FALSE,2364,moderate_availability
+strict_grade_10_12_age_15_19,num_PA21,NA,numeric,numeric_cleaned_item,3240,547,2693,16.88,83.12,16.68,83.32,2,TRUE,2693,high_availability
+strict_grade_10_12_age_15_19,num_H1TS8,NA,numeric,numeric_cleaned_item,3240,4,3236,0.12,99.88,0.12,99.88,2,TRUE,3236,high_availability
+strict_grade_10_12_age_15_19,num_H1GH44,NA,numeric,numeric_cleaned_item,3240,12,3228,0.37,99.63,0.34,99.66,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,num_H1GH46,NA,numeric,numeric_cleaned_item,3240,12,3228,0.37,99.63,0.32,99.68,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,num_H1RP5,NA,numeric,numeric_cleaned_item,3240,32,3208,0.99,99.01,1.31,98.69,5,FALSE,3208,high_availability
+strict_grade_10_12_age_15_19,num_H1RP6,NA,numeric,numeric_cleaned_item,3240,37,3203,1.14,98.86,1.45,98.55,5,FALSE,3203,high_availability
+strict_grade_10_12_age_15_19,num_H1BC6,NA,numeric,numeric_cleaned_item,3240,65,3175,2.01,97.99,2.22,97.78,5,FALSE,3175,high_availability
+strict_grade_10_12_age_15_19,num_H1BC1,NA,numeric,numeric_cleaned_item,3240,47,3193,1.45,98.55,1.74,98.26,5,FALSE,3193,high_availability
+strict_grade_10_12_age_15_19,num_H1BC2,NA,numeric,numeric_cleaned_item,3240,58,3182,1.79,98.21,2.03,97.97,5,FALSE,3182,high_availability
+strict_grade_10_12_age_15_19,num_H1BC3,NA,numeric,numeric_cleaned_item,3240,49,3191,1.51,98.49,1.7,98.3,5,FALSE,3191,high_availability
+strict_grade_10_12_age_15_19,num_H1BC4,NA,numeric,numeric_cleaned_item,3240,58,3182,1.79,98.21,2.01,97.99,5,FALSE,3182,high_availability
+strict_grade_10_12_age_15_19,num_H1BC5,NA,numeric,numeric_cleaned_item,3240,73,3167,2.25,97.75,2.52,97.48,5,FALSE,3167,high_availability
+strict_grade_10_12_age_15_19,num_H1BC7,NA,numeric,numeric_cleaned_item,3240,40,3200,1.23,98.77,1.41,98.59,5,FALSE,3200,high_availability
+strict_grade_10_12_age_15_19,num_H1BC8,NA,numeric,numeric_cleaned_item,3240,60,3180,1.85,98.15,1.97,98.03,5,FALSE,3180,high_availability
+strict_grade_10_12_age_15_19,num_H1MO1,NA,numeric,numeric_cleaned_item,3240,56,3184,1.73,98.27,2.13,97.87,5,FALSE,3184,high_availability
+strict_grade_10_12_age_15_19,num_H1MO2,NA,numeric,numeric_cleaned_item,3240,69,3171,2.13,97.87,2.59,97.41,5,FALSE,3171,high_availability
+strict_grade_10_12_age_15_19,num_H1MO3,NA,numeric,numeric_cleaned_item,3240,67,3173,2.07,97.93,2.55,97.45,5,FALSE,3173,high_availability
+strict_grade_10_12_age_15_19,num_H1MO5,NA,numeric,numeric_cleaned_item,3240,97,3143,2.99,97.01,3.55,96.45,5,FALSE,3143,high_availability
+strict_grade_10_12_age_15_19,num_H1PA3,NA,numeric,numeric_cleaned_item,3240,246,2994,7.59,92.41,8.16,91.84,5,FALSE,2994,high_availability
+strict_grade_10_12_age_15_19,num_H1PA6,NA,numeric,numeric_cleaned_item,3240,1097,2143,33.86,66.14,32.1,67.9,5,FALSE,2143,moderate_availability
+strict_grade_10_12_age_15_19,num_H1PA7,NA,numeric,numeric_cleaned_item,3240,58,3182,1.79,98.21,2.25,97.75,2,TRUE,3182,high_availability
+strict_grade_10_12_age_15_19,num_H1PR3,NA,numeric,numeric_cleaned_item,3240,9,3231,0.28,99.72,0.37,99.63,6,FALSE,3231,high_availability
+strict_grade_10_12_age_15_19,num_H1PR5,NA,numeric,numeric_cleaned_item,3240,10,3230,0.31,99.69,0.4,99.6,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,num_H1PR7,NA,numeric,numeric_cleaned_item,3240,10,3230,0.31,99.69,0.43,99.57,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,num_H1PR8,NA,numeric,numeric_cleaned_item,3240,10,3230,0.31,99.69,0.43,99.57,6,FALSE,3230,high_availability
+strict_grade_10_12_age_15_19,num_H1WP9,NA,numeric,numeric_cleaned_item,3240,215,3025,6.64,93.36,6.83,93.17,5,FALSE,3025,high_availability
+strict_grade_10_12_age_15_19,num_H1WP10,NA,numeric,numeric_cleaned_item,3240,215,3025,6.64,93.36,6.83,93.17,5,FALSE,3025,high_availability
+strict_grade_10_12_age_15_19,num_H1WP13,NA,numeric,numeric_cleaned_item,3240,951,2289,29.35,70.65,27.34,72.66,5,FALSE,2289,moderate_availability
+strict_grade_10_12_age_15_19,num_H1WP14,NA,numeric,numeric_cleaned_item,3240,951,2289,29.35,70.65,27.34,72.66,5,FALSE,2289,moderate_availability
+strict_grade_10_12_age_15_19,num_H1RP3,NA,numeric,numeric_cleaned_item,3240,12,3228,0.37,99.63,0.64,99.36,5,FALSE,3228,high_availability
+strict_grade_10_12_age_15_19,num_H1MO9,NA,numeric,numeric_cleaned_item,3240,62,3178,1.91,98.09,2.32,97.68,5,FALSE,3178,high_availability
+strict_grade_10_12_age_15_19,num_H1MO10,NA,numeric,numeric_cleaned_item,3240,56,3184,1.73,98.27,2.13,97.87,5,FALSE,3184,high_availability
+strict_grade_10_12_age_15_19,num_H1MO11,NA,numeric,numeric_cleaned_item,3240,74,3166,2.28,97.72,2.69,97.31,5,FALSE,3166,high_availability
+strict_grade_10_12_age_15_19,num_H1MO12,NA,numeric,numeric_cleaned_item,3240,70,3170,2.16,97.84,2.59,97.41,5,FALSE,3170,high_availability
+strict_grade_10_12_age_15_19,num_H1MO13,NA,numeric,numeric_cleaned_item,3240,61,3179,1.88,98.12,2.35,97.65,5,FALSE,3179,high_availability
+strict_grade_10_12_age_15_19,num_H1MO14,NA,numeric,numeric_cleaned_item,3240,60,3180,1.85,98.15,2.24,97.76,5,FALSE,3180,high_availability
+strict_grade_10_12_age_15_19,a_sex_ever,NA,integer,candidate_outcome,3240,32,3208,0.99,99.01,1.3,98.7,2,TRUE,3208,high_availability
+strict_grade_10_12_age_15_19,a_H1CO8_yesno,NA,integer,candidate_binary_recode,3240,2842,398,87.72,12.28,87.52,12.48,2,TRUE,398,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,a_H1CO9_yesno,NA,integer,candidate_binary_recode,3240,3240,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+strict_grade_10_12_age_15_19,a_H1CO3_yesno,NA,integer,candidate_binary_recode,3240,1494,1746,46.11,53.89,46.38,53.62,2,TRUE,1746,limited_availability_review_required
+strict_grade_10_12_age_15_19,a_H1CO6_yesno,NA,integer,candidate_binary_recode,3240,1502,1738,46.36,53.64,46.61,53.39,2,TRUE,1738,limited_availability_review_required
+strict_grade_10_12_age_15_19,a_H1CO13_yesno,NA,integer,candidate_binary_recode,3240,2762,478,85.25,14.75,85.35,14.65,2,TRUE,478,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,a_H1FP7_yesno,NA,integer,candidate_binary_recode,3240,2348,892,72.47,27.53,72.84,27.16,2,TRUE,892,not_recommended_high_missingness
+strict_grade_10_12_age_15_19,a_H1FP8_yesno,NA,integer,candidate_binary_recode,3240,3240,0,100,0,100,0,0,FALSE,<10,not_recommended_too_few_cases
+strict_grade_10_12_age_15_19,a_H1CO16D_yesno,NA,integer,candidate_binary_recode,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,a_H1HS9_yesno,NA,integer,candidate_binary_recode,3240,3,3237,0.09,99.91,0.09,99.91,2,TRUE,3237,high_availability
+strict_grade_10_12_age_15_19,a_H1CO16A_yesno,NA,integer,candidate_binary_recode,3240,1487,1753,45.9,54.1,46.15,53.85,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,a_H1CO16C_yesno,NA,integer,candidate_binary_recode,3240,1487,1753,45.9,54.1,46.14,53.86,2,TRUE,1753,limited_availability_review_required
+strict_grade_10_12_age_15_19,GSWGT1,NA,numeric,weight_or_design_variable,3240,0,3240,0,100,0,100,843,FALSE,3240,high_availability
+strict_grade_10_12_age_15_19,CLUSTER2,NA,character,weight_or_design_variable,3240,873,2367,26.94,73.06,27.32,72.68,81,FALSE,2367,moderate_availability
+strict_grade_10_12_age_15_19,SCHWT1,NA,numeric,weight_or_design_variable,3240,873,2367,26.94,73.06,27.32,72.68,81,FALSE,2367,moderate_availability
+strict_grade_10_12_age_15_19,valid_gswgt1,NA,logical,weight_or_design_variable,3240,0,3240,0,100,0,100,1,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,valid_cluster2,NA,logical,weight_or_design_variable,3240,0,3240,0,100,0,100,2,TRUE,3240,high_availability
+strict_grade_10_12_age_15_19,valid_schwt1,NA,logical,weight_or_design_variable,3240,0,3240,0,100,0,100,2,TRUE,3240,high_availability

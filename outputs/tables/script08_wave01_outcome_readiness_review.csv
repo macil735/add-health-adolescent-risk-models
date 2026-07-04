@@ -1,0 +1,13 @@
+sample_name,variable,n_nonmissing,n_yes,n_no,weighted_pct_yes,weighted_pct_no,public_n_nonmissing,public_n_yes,public_n_no,outcome_cell_status,outcome_group,preliminary_outcome_decision,final_decision,reviewer_note
+main_grade_10_12,a_H1CO8_yesno,402,247,155,63.38500625931003,36.61499374068997,402,247,155,usable,condom_use,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO9_yesno,0,0,0,NA,NA,<10,<10,<10,not_recommended_too_few_cases,condom_use,exclude_too_few_nonmissing_cases,,
+main_grade_10_12,a_H1CO13_yesno,481,363,118,77.15598536211316,22.844014637886843,481,363,118,usable,contraceptive_use,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO3_yesno,1756,1200,556,68.57454627156793,31.425453728432075,1756,1200,556,usable,contraceptive_use,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO6_yesno,1749,1203,546,69.0345058150734,30.965494184926605,1749,1203,546,usable,contraceptive_use,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO16A_yesno,1763,59,1704,3.0869602691925566,96.91303973080745,1763,59,1704,usable,hiv_sti_outcome,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO16C_yesno,1764,25,1739,1.1834246178311554,98.81657538216886,1764,25,1739,usable,hiv_sti_outcome,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1HS9_yesno,3255,232,3023,6.703622885535178,93.29637711446482,3255,232,3023,usable,hiv_sti_outcome,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1CO16D_yesno,1764,1,1763,0.04442912871302292,99.95557087128697,1764,<10,1763,review_small_outcome_cell,hiv_sti_outcome,review_small_cell_or_rare_outcome,,
+main_grade_10_12,a_H1FP7_yesno,896,163,733,17.880947719904647,82.11905228009536,896,163,733,usable,pregnancy_outcome,candidate_outcome_for_bivariate_analysis,,
+main_grade_10_12,a_H1FP8_yesno,0,0,0,NA,NA,<10,<10,<10,not_recommended_too_few_cases,pregnancy_outcome,exclude_too_few_nonmissing_cases,,
+main_grade_10_12,a_sex_ever,3226,1766,1460,54.594055120923116,45.40594487907688,3226,1766,1460,usable,sexual_initiation,candidate_outcome_for_bivariate_analysis,,

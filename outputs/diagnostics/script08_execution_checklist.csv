@@ -1,0 +1,19 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Weighted analytical local-only RDS exists,OK
+3,Script 05 import check exists,OK
+4,Script 06 construct availability exists,OK
+5,Script 06 recode quality exists,OK
+6,Script 07 outcome availability exists,OK
+7,Script 07 weight design diagnostics exists,OK
+8,Weighted analytical data loaded,OK
+9,GSWGT1 available,OK
+10,AID present internally and excluded from public outputs,OK
+11,Sample subsets created,OK
+12,Variable missingness summary created,OK
+13,Model variable decision template created,OK
+14,Recode readiness review created,OK
+15,Outcome readiness review created,OK
+16,Construct missingness review created,OK
+17,Excel diagnostic workbook exported,OK
+18,Markdown documentation exported,OK

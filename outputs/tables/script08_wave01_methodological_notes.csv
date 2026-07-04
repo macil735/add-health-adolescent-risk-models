@@ -1,0 +1,13 @@
+note_id,note
+1,Script 08 reviews missing data and final recode readiness before modeling.
+2,The input is the local-only weighted analytical Wave I RDS produced by Script 07.
+3,GSWGT1 is retained as the Wave I population-average weight.
+4,AID is excluded from all public outputs.
+5,The main analytical sample is students in grades 10 to 12 at Wave I.
+6,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+7,Variable availability is classified using nonmissing percentages and nonmissing counts.
+8,Outcome readiness is assessed using nonmissing cases and binary cell sizes.
+9,Construct readiness is diagnostic and does not yet validate scales.
+10,Final scale construction requires directionality checks and reliability analysis.
+11,No individual-level data are exported by this script.
+12,Script 09 should perform bivariate association analysis only with variables approved after this review.

@@ -1,0 +1,4 @@
+sample_name,n_observations,weighted_population_total,public_n_observations,has_gswgt1,has_cluster2,has_schwt1,note
+full_weighted_wave1,6504,22261000.00000326,6504,TRUE,TRUE,TRUE,All Wave I records with valid GSWGT1.
+main_grade_10_12,3259,10417988.365556547,3259,TRUE,TRUE,TRUE,Primary analytical sample: grades 10 to 12.
+strict_grade_10_12_age_15_19,3240,10352033.585756449,3240,TRUE,TRUE,TRUE,Sensitivity sample: grades 10 to 12 and ages 15 to 19.

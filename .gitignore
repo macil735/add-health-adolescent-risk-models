@@ -118,3 +118,4 @@ outputs/tables/script03_add_health_codebook_variable_candidate_mapping.xlsx
 outputs/private_review/
 !outputs/diagnostics/script05_execution_checklist.csv
 !outputs/diagnostics/script06_execution_checklist.csv
+!outputs/diagnostics/script08_execution_checklist.csv
