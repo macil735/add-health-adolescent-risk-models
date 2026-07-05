@@ -1,0 +1,15 @@
+note_id,note
+1,Script 09 conducts weighted bivariate association analysis only.
+2,The script uses GSWGT1 as the Wave I population-average weight.
+3,The main analytical sample is students in grades 10 to 12.
+4,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+5,Candidate outcomes are selected from Script 08 outcome readiness results.
+6,Candidate predictors are selected from Script 08 model variable decisions.
+7,AID is used only internally and is not exported.
+8,Candidate outcome variables are excluded from the predictor set.
+9,Predictors overlapping with direct outcome item codes are excluded where detectable.
+10,Categorical predictors are screened using weighted cross-tabulations and Rao-Scott chi-square tests.
+11,Continuous predictors are screened using weighted mean differences and weighted t-tests.
+12,Benjamini-Hochberg adjustment is applied within each sample and outcome.
+13,Bivariate screening does not imply causality and does not replace multivariable modeling.
+14,Script 10 should estimate logistic regression models using variables supported by Scripts 08 and 09.

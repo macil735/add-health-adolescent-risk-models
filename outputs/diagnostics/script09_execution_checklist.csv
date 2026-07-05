@@ -1,0 +1,21 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Weighted analytical local-only RDS exists,OK
+3,Script 08 model decision template exists,OK
+4,Script 08 outcome readiness exists,OK
+5,Script 08 recode readiness exists,OK
+6,Script 08 sample summary exists,OK
+7,Weighted analytical data loaded,OK
+8,GSWGT1 available,OK
+9,AID present internally and excluded from public outputs,OK
+10,Main sample created,OK
+11,Strict sensitivity sample created,OK
+12,Candidate outcomes selected,OK
+13,Candidate predictors selected,OK
+14,Bivariate analysis plan created,OK
+15,Bivariate summary created,OK
+16,Categorical detail table created,OK
+17,Decision summary created,OK
+18,Excel diagnostic workbook exported,OK
+19,Markdown documentation exported,OK
+20,No individual-level output exported,OK
