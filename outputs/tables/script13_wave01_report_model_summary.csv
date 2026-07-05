@@ -1,0 +1,19 @@
+sample,outcome,outcome_label,selected_model,reporting_status,suitability_score,n_complete,n_outcome_yes,n_outcome_no,weighted_pct_yes,n_extreme_or,n_very_extreme_or,n_wide_ci,n_very_wide_ci,n_possible_conceptual_overlap
+Main sample: grades 10-12,a_H1CO13_yesno,H1CO13,M0: Core controls,Ready for cautious reporting,100,481,363,118,77.16%,0,0,0,0,0
+Main sample: grades 10-12,a_H1CO16A_yesno,H1CO16A,M0: Core controls,Ready for cautious reporting,100,1763,59,1704,3.09%,0,0,0,0,0
+Main sample: grades 10-12,a_H1CO16C_yesno,H1CO16C,M0: Core controls,Manual review required,75,1764,25,1739,1.18%,0,0,1,0,0
+Main sample: grades 10-12,a_H1CO3_yesno,H1CO3,M0: Core controls,Ready for cautious reporting,100,1756,1200,556,68.57%,0,0,0,0,0
+Main sample: grades 10-12,a_H1CO6_yesno,H1CO6,M0: Core controls,Ready for cautious reporting,100,1749,1203,546,69.03%,0,0,0,0,0
+Main sample: grades 10-12,a_H1CO8_yesno,H1CO8,M0: Core controls,Ready for cautious reporting,100,402,247,155,63.39%,0,0,0,0,0
+Main sample: grades 10-12,a_H1FP7_yesno,H1FP7,M0: Core controls,Ready for cautious reporting,100,896,163,733,17.88%,0,0,0,0,0
+Main sample: grades 10-12,a_H1HS9_yesno,H1HS9,M0: Core controls,Ready for cautious reporting,100,3255,232,3023,6.70%,0,0,0,0,0
+Main sample: grades 10-12,a_sex_ever,sex ever,M0: Core controls,Ready for cautious reporting,100,3226,1766,1460,54.59%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO13_yesno,H1CO13,M0: Core controls,Ready for cautious reporting,100,478,360,118,77.02%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO16A_yesno,H1CO16A,M0: Core controls,Ready for cautious reporting,100,1753,58,1695,3.02%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO16C_yesno,H1CO16C,M0: Core controls,Manual review required,85,1753,25,1728,1.19%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO3_yesno,H1CO3,M0: Core controls,Ready for cautious reporting,100,1746,1196,550,68.78%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO6_yesno,H1CO6,M0: Core controls,Ready for cautious reporting,100,1738,1197,541,69.14%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1CO8_yesno,H1CO8,M0: Core controls,Ready for cautious reporting,100,398,244,154,63.37%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1FP7_yesno,H1FP7,M0: Core controls,Ready for cautious reporting,100,892,161,731,17.71%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_H1HS9_yesno,H1HS9,M0: Core controls,Ready for cautious reporting,100,3237,229,3008,6.64%,0,0,0,0,0
+Strict sensitivity sample: grades 10-12 and ages 15-19,a_sex_ever,sex ever,M0: Core controls,Ready for cautious reporting,100,3208,1755,1453,54.61%,0,0,0,0,0

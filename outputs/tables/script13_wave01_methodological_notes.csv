@@ -1,0 +1,15 @@
+note_id,note
+1,Script 13 creates a final technical report from aggregate public outputs.
+2,The script reads only Script 12 and Script 11 public outputs.
+3,No individual-level data are read by this script.
+4,No individual-level data are exported by this script.
+5,The final report is produced in Markdown and Word formats.
+6,The Word report is generated using officer and flextable.
+7,The report prioritizes conservative and technically defensible interpretation.
+8,M0 core-control models dominate the final reporting selection.
+9,Richer models are retained only where technically defensible.
+10,The narrative remains associational and not causal.
+11,Caution flags are retained for manual review.
+12,The outputs are suitable for internal review and manuscript drafting.
+13,The report should be reviewed manually before public release.
+14,Script 14 may be used for final repository publication audit.

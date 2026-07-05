@@ -1,0 +1,9 @@
+sample,final_selection_class,n_models
+Main sample: grades 10-12,not_selectable_not_fitted,18
+Main sample: grades 10-12,review_before_reporting,21
+Main sample: grades 10-12,technically_stable_candidate,14
+Main sample: grades 10-12,usable_with_caution,10
+Strict sensitivity sample: grades 10-12 and ages 15-19,not_selectable_not_fitted,18
+Strict sensitivity sample: grades 10-12 and ages 15-19,review_before_reporting,21
+Strict sensitivity sample: grades 10-12 and ages 15-19,technically_stable_candidate,13
+Strict sensitivity sample: grades 10-12 and ages 15-19,usable_with_caution,11

@@ -1,0 +1,10 @@
+output_type,path,public_safe
+Markdown report,docs/add_health_wave01_final_technical_report_script13.md,yes
+Word report,docs/add_health_wave01_final_technical_report_script13.docx,yes
+Excel workbook,outputs/tables/script13_wave01_final_report_tables.xlsx,yes
+Model summary table,outputs/tables/script13_wave01_report_model_summary.csv,yes
+Main results table,outputs/tables/script13_wave01_report_main_results.csv,yes
+Appendix review table,outputs/tables/script13_wave01_report_appendix_results.csv,yes
+Robustness summary table,outputs/tables/script13_wave01_report_robustness_summary.csv,yes
+Caution summary table,outputs/tables/script13_wave01_report_caution_summary.csv,yes
+Execution checklist,outputs/diagnostics/script13_execution_checklist.csv,yes

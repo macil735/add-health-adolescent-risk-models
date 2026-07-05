@@ -1,0 +1,2 @@
+sample,outcome,outcome_label,selected_model,predictor,odds_ratio,confidence_interval,p_value,review_status
+Main sample: grades 10-12,a_H1CO16C_yesno,H1CO16C,M0: Core controls,grade,1.34,[0.30; 6.05],0.704,Review: wide confidence interval

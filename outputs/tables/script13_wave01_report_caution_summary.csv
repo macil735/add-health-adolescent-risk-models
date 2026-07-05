@@ -1,0 +1,4 @@
+sample,caution_level,caution_type,n_cautions
+Main sample: grades 10-12,high,model_level_caution,1
+Main sample: grades 10-12,moderate,coefficient_level_caution,1
+Strict sensitivity sample: grades 10-12 and ages 15-19,high,model_level_caution,1

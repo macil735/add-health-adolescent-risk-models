@@ -1,0 +1,25 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Outputs tables directory exists,OK
+3,Outputs diagnostics directory exists,OK
+4,Docs directory exists,OK
+5,Script 12 final model table input exists,OK
+6,Script 12 final coefficient table input exists,OK
+7,Script 12 main coefficients input exists,OK
+8,Script 12 appendix coefficients input exists,OK
+9,Script 12 narrative summary input exists,OK
+10,Script 12 robustness input exists,OK
+11,Script 12 caution register input exists,OK
+12,Script 12 publication readiness input exists,OK
+13,Script 12 methodological notes input exists,OK
+14,Script 11 model quality input exists,OK
+15,Report model summary created,OK
+16,Report main results created,OK
+17,Report appendix results created,OK
+18,Report robustness summary created,OK
+19,Report caution summary created,OK
+20,Markdown report exported,OK
+21,Word report exported,OK
+22,Excel workbook exported,OK
+23,Output inventory exported,OK
+24,No individual-level output exported,OK
