@@ -1,0 +1,23 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Weighted analytical local-only RDS exists,OK
+3,Script 09b outcome modeling plan exists,OK
+4,Script 09b core controls review exists,OK
+5,Script 09b predictor-outcome eligibility exists,OK
+6,Script 09b recommended model sequence exists,OK
+7,Script 09b sample review exists,OK
+8,Weighted analytical data loaded,OK
+9,AID present internally and excluded from public outputs,OK
+10,GSWGT1 available,OK
+11,Main sample created,OK
+12,Strict sensitivity sample created,OK
+13,Eligible outcomes selected,OK
+14,Excluded outcomes documented,OK
+15,Model specifications created,OK
+16,Weighted logistic models attempted,OK
+17,Model fit summary created,OK
+18,Model coefficients created,OK
+19,Skipped or failed models documented,OK
+20,Excel workbook exported,OK
+21,Markdown documentation exported,OK
+22,No individual-level output exported,OK

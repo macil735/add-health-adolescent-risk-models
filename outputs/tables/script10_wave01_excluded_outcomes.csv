@@ -1,0 +1,2 @@
+variable,outcome_family,modeling_priority,recommended_modeling_status,n_nonmissing,n_yes,n_no,weighted_pct_yes
+a_H1CO16D_yesno,hiv_sti_or_sexual_health,secondary_if_cases_sufficient,review_before_modeling,1764,1,1763,0.04442912871302292

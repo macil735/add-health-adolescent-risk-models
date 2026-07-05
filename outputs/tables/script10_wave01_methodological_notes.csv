@@ -1,0 +1,17 @@
+note_id,note
+1,Script 10 estimates weighted logistic regression models for Add Health Wave I.
+2,The models use GSWGT1 as the Wave I population-average sampling weight.
+3,The main analytical sample is students in grades 10 to 12.
+4,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+5,"The mandatory controls are a_age_wave1, a_female and a_grade_wave1."
+6,Outcomes marked as review_before_modeling in Script 09b are not estimated as main models.
+7,"Models are organized into core, family, school, knowledge/attitudes, peers/relationships, general risk behavior and final parsimonious stages."
+8,Non-core stages with no suggested predictors are skipped rather than estimated redundantly.
+9,Models are estimated using survey-weighted logistic regression with quasibinomial family.
+10,Complete-case analysis is applied within each model specification.
+11,Models with fewer than 100 complete cases or fewer than 10 observations in either outcome cell are skipped.
+12,Predictors with no variation in the model sample are removed from that model.
+13,Odds ratios and Wald confidence intervals are reported for fitted models.
+14,Results are associational and should not be interpreted as causal effects.
+15,AID is used only internally and is excluded from all public outputs.
+16,No individual-level dataset is exported by this script.
