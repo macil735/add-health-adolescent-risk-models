@@ -1,0 +1,19 @@
+note_id,note
+1,Script 12 creates final reporting tables and cautious narrative interpretation from Script 11 outputs.
+2,The script reads only aggregate public outputs and does not read individual-level Add Health data.
+3,"The selected models are based on Script 11 technical review, not on manual substantive judgment alone."
+4,"The final reporting model table identifies selected models, reporting status and main technical caution flags."
+5,The coefficient reporting table separates main reportable coefficients from coefficients requiring review or appendix placement.
+6,Odds ratios are reported with Wald confidence intervals from Script 10 model outputs.
+7,Narrative interpretation is deliberately cautious and associational.
+8,The script does not interpret results as causal effects.
+9,Models requiring manual review are not treated as final substantive conclusions.
+10,M0 core-control models are interpreted as conservative baseline models.
+11,Richer models are reported only when technically defensible.
+12,Extreme odds ratios and wide confidence intervals are flagged before reporting.
+13,Possible conceptual overlap between predictors and outcomes is treated as a reporting caution.
+14,Main-versus-strict sample robustness is summarized separately.
+15,The caution register should be reviewed before writing the final report.
+16,No AID-level or individual-level output is exported.
+17,"The outputs are suitable for report drafting, not for automatic publication without review."
+18,Script 13 should create the final technical report or manuscript-style document.

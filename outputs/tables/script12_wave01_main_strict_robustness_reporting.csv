@@ -1,0 +1,46 @@
+outcome,outcome_label,model_stage,model_stage_label,n_coefficients_compared,n_same_direction,share_same_direction,n_robust_significant_same_direction,n_partially_robust_same_direction,n_direction_changes_or_unstable,robustness_summary,robustness_reporting_note
+a_H1CO13_yesno,H1CO13,M0_core_controls,M0: Core controls,3,3,100,0,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO13_yesno,H1CO13,M1_family_context,M1: Family context,7,7,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO13_yesno,H1CO13,M3_knowledge_attitudes,M3: Knowledge and attitudes,25,25,100,7,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO13_yesno,H1CO13,M4_peers_relationships,M4: Peers and relationships,7,7,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO13_yesno,H1CO13,M6_final_parsimonious_model,M6: Final parsimonious model,37,37,100,6,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16A_yesno,H1CO16A,M0_core_controls,M0: Core controls,3,2,66.67,0,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO16A_yesno,H1CO16A,M1_family_context,M1: Family context,8,8,100,5,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16A_yesno,H1CO16A,M3_knowledge_attitudes,M3: Knowledge and attitudes,17,16,94.12,8,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO16A_yesno,H1CO16A,M6_final_parsimonious_model,M6: Final parsimonious model,30,30,100,14,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16C_yesno,H1CO16C,M0_core_controls,M0: Core controls,3,3,100,0,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16C_yesno,H1CO16C,M1_family_context,M1: Family context,4,4,100,0,1,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16C_yesno,H1CO16C,M3_knowledge_attitudes,M3: Knowledge and attitudes,17,17,100,4,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO16C_yesno,H1CO16C,M6_final_parsimonious_model,M6: Final parsimonious model,30,30,100,3,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M0_core_controls,M0: Core controls,3,3,100,0,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M1_family_context,M1: Family context,21,21,100,6,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M2_school_context,M2: School context,12,12,100,0,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M3_knowledge_attitudes,M3: Knowledge and attitudes,25,24,96,9,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M4_peers_relationships,M4: Peers and relationships,7,7,100,2,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO3_yesno,H1CO3,M6_final_parsimonious_model,M6: Final parsimonious model,55,53,96.36,10,0,2,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO6_yesno,H1CO6,M0_core_controls,M0: Core controls,3,3,100,0,1,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO6_yesno,H1CO6,M1_family_context,M1: Family context,25,25,100,9,1,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO6_yesno,H1CO6,M2_school_context,M2: School context,8,7,87.5,1,0,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO6_yesno,H1CO6,M3_knowledge_attitudes,M3: Knowledge and attitudes,24,24,100,4,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO6_yesno,H1CO6,M6_final_parsimonious_model,M6: Final parsimonious model,55,55,100,7,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO8_yesno,H1CO8,M0_core_controls,M0: Core controls,3,3,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO8_yesno,H1CO8,M1_family_context,M1: Family context,14,14,100,2,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1CO8_yesno,H1CO8,M3_knowledge_attitudes,M3: Knowledge and attitudes,23,22,95.65,1,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1CO8_yesno,H1CO8,M6_final_parsimonious_model,M6: Final parsimonious model,42,42,100,4,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1FP7_yesno,H1FP7,M0_core_controls,M0: Core controls,3,3,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1FP7_yesno,H1FP7,M1_family_context,M1: Family context,14,14,100,6,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1FP7_yesno,H1FP7,M3_knowledge_attitudes,M3: Knowledge and attitudes,17,17,100,6,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1FP7_yesno,H1FP7,M4_peers_relationships,M4: Peers and relationships,7,7,100,2,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1FP7_yesno,H1FP7,M6_final_parsimonious_model,M6: Final parsimonious model,44,44,100,9,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M0_core_controls,M0: Core controls,3,3,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M1_family_context,M1: Family context,27,27,100,9,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M2_school_context,M2: School context,24,24,100,4,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M3_knowledge_attitudes,M3: Knowledge and attitudes,17,17,100,1,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M4_peers_relationships,M4: Peers and relationships,7,6,85.71,1,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_H1HS9_yesno,H1HS9,M6_final_parsimonious_model,M6: Final parsimonious model,45,40,88.89,1,0,5,moderate_directional_robustness,Moderate directional consistency between main and strict samples.
+a_sex_ever,sex ever,M0_core_controls,M0: Core controls,3,3,100,3,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_sex_ever,sex ever,M1_family_context,M1: Family context,28,28,100,7,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_sex_ever,sex ever,M2_school_context,M2: School context,24,24,100,9,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_sex_ever,sex ever,M3_knowledge_attitudes,M3: Knowledge and attitudes,23,23,100,15,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_sex_ever,sex ever,M4_peers_relationships,M4: Peers and relationships,15,15,100,9,0,0,high_directional_robustness,High directional consistency between main and strict samples.
+a_sex_ever,sex ever,M6_final_parsimonious_model,M6: Final parsimonious model,49,48,97.96,18,1,1,moderate_directional_robustness,Moderate directional consistency between main and strict samples.

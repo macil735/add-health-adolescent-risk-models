@@ -1,0 +1,4 @@
+caution_level,sample_name,outcome,outcome_label,model_stage,caution_type,caution_detail
+high,main_grade_10_12,a_H1CO16C_yesno,H1CO16C,M0_core_controls,model_level_caution,Reporting status: report_only_after_manual_review; extreme OR: 0; very extreme OR: 0; wide CI: 1; very wide CI: 0; conceptual overlap flags: 0.
+moderate,main_grade_10_12,a_H1CO16C_yesno,H1CO16C,M0_core_controls,coefficient_level_caution,Predictor: grade; OR = 1.34; CI = [0.30; 6.05]; p = 0.704; decision: Review: wide confidence interval.
+high,strict_grade_10_12_age_15_19,a_H1CO16C_yesno,H1CO16C,M0_core_controls,model_level_caution,Reporting status: report_only_after_manual_review; extreme OR: 0; very extreme OR: 0; wide CI: 0; very wide CI: 0; conceptual overlap flags: 0.
