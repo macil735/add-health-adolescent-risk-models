@@ -1,0 +1,15 @@
+sample_name,model_stage,n_models,n_fitted,n_not_fitted,n_stable_candidates,n_usable_with_caution,n_review_before_reporting,mean_suitability_score
+main_grade_10_12,M0_core_controls,9,9,0,8,1,0,97.22
+main_grade_10_12,M1_family_context,9,9,0,0,2,7,14.44
+main_grade_10_12,M2_school_context,9,4,5,2,1,1,39.44
+main_grade_10_12,M3_knowledge_attitudes,9,9,0,1,4,4,43.33
+main_grade_10_12,M4_peers_relationships,9,5,4,3,0,2,45.56
+main_grade_10_12,M5_general_risk_behaviors,9,0,9,0,0,0,0
+main_grade_10_12,M6_final_parsimonious_model,9,9,0,0,2,7,27.78
+strict_grade_10_12_age_15_19,M0_core_controls,9,9,0,8,1,0,98.33
+strict_grade_10_12_age_15_19,M1_family_context,9,9,0,0,2,7,14.44
+strict_grade_10_12_age_15_19,M2_school_context,9,4,5,1,2,1,38.33
+strict_grade_10_12_age_15_19,M3_knowledge_attitudes,9,9,0,1,4,4,43.33
+strict_grade_10_12_age_15_19,M4_peers_relationships,9,5,4,3,0,2,45.56
+strict_grade_10_12_age_15_19,M5_general_risk_behaviors,9,0,9,0,0,0,0
+strict_grade_10_12_age_15_19,M6_final_parsimonious_model,9,9,0,0,2,7,26.67

@@ -1,0 +1,25 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Outputs tables directory exists,OK
+3,Outputs diagnostics directory exists,OK
+4,Docs directory exists,OK
+5,Script 10 model specifications input exists,OK
+6,Script 10 model fit summary input exists,OK
+7,Script 10 coefficient input exists,OK
+8,Script 10 odds-ratio review input exists,OK
+9,Script 10 skipped or failed models input exists,OK
+10,Script 10 outcome summary input exists,OK
+11,Script 09b outcome modeling plan input exists,OK
+12,Model specifications loaded,OK
+13,Model fit summary loaded,OK
+14,Model coefficients loaded,OK
+15,Coefficient-level review created,OK
+16,Model-level quality review created,OK
+17,Final model selection created,OK
+18,Final model coefficients created,OK
+19,Main-strict robustness review created,OK
+20,Outcome reporting readiness created,OK
+21,Extreme odds-ratio review created,OK
+22,Markdown documentation exported,OK
+23,Excel workbook exported,OK
+24,No individual-level output exported,OK

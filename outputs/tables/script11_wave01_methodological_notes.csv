@@ -1,0 +1,21 @@
+note_id,note
+1,Script 11 reviews Script 10 weighted logistic regression outputs.
+2,This script uses only public aggregate outputs and does not read individual-level data.
+3,"The review focuses on model stability, sample adequacy, outcome-cell size, odds-ratio magnitude, confidence-interval width and conceptual overlap."
+4,"Models are classified as technically stable candidates, usable with caution, review-before-reporting, or not selectable."
+5,"Odds ratios equal to or above 5, or equal to or below 0.20, are flagged for review."
+6,"Odds ratios equal to or above 10, or equal to or below 0.10, are treated as very extreme and require stronger review."
+7,Confidence-interval width ratios equal to or above 20 are flagged as wide.
+8,Confidence-interval width ratios equal to or above 100 are treated as very wide.
+9,Predictors from the same outcome domain are flagged for conceptual review where automatic detection is possible.
+10,The final parsimonious model is preferred when it is technically defensible.
+11,"If the final parsimonious model is unstable, the script selects the best available stable or cautious alternative."
+12,The core-control model is retained as a conservative reference model.
+13,The main sample is students in grades 10 to 12.
+14,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+15,Main-versus-strict robustness is assessed by coefficient direction and significance concordance.
+16,Selected coefficients are candidates for interpretation only after substantive review.
+17,Results are associational and should not be interpreted as causal effects.
+18,Rare outcomes and small complete-case samples require careful reporting.
+19,"No individual-level file, AID-level output, or microdata is exported."
+20,Script 12 should produce final reporting tables and narrative interpretation.
