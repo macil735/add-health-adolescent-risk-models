@@ -1,0 +1,17 @@
+note_id,note
+1,Script 09b reviews the analytical data and prepares the modeling framework for Script 10.
+2,No regression model is estimated in this script.
+3,The main analytical sample is students in grades 10 to 12 at Wave I.
+4,The strict sensitivity sample is students in grades 10 to 12 and ages 15 to 19.
+5,GSWGT1 remains the main Wave I population-average sampling weight.
+6,"REGION was not available in the current local files, so regional modeling is not planned."
+7,CLUSTER2 and SCHWT1 are documented but not used as substantive region variables.
+8,"Core controls are sex, age and grade when available."
+9,"Race or ethnicity variables, if detected, are treated as optional sociodemographic controls for review."
+10,"Predictors are grouped into sociodemographic, family, school, knowledge/attitudes, peers/relationships and general risk behavior blocks."
+11,Sexual and reproductive behavior variables close to an outcome are flagged for careful review.
+12,"Bivariate associations from Script 09 are used for screening, not for causal interpretation."
+13,The final model should be parsimonious and theoretically defensible.
+14,Variables excluded by missingness or small cell size should not enter Script 10 unless manually justified.
+15,AID is used only internally and is excluded from public outputs.
+16,Script 10 should estimate weighted logistic models using this framework.

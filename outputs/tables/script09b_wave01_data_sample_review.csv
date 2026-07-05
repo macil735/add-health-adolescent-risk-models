@@ -1,0 +1,4 @@
+sample_name,n_observations,public_n_observations,weighted_population_total,has_gswgt1,has_cluster2,has_schwt1,region_available,w1_wc_available,modeling_use,note
+full_weighted_wave1,6504,6504,22261000.00000326,TRUE,TRUE,TRUE,FALSE,FALSE,descriptive_reference_only,All Wave I observations with valid GSWGT1.
+main_grade_10_12,3259,3259,10417988.365556547,TRUE,TRUE,TRUE,FALSE,FALSE,primary_modeling_sample,Primary analytical sample: students in grades 10 to 12.
+strict_grade_10_12_age_15_19,3240,3240,10352033.585756449,TRUE,TRUE,TRUE,FALSE,FALSE,sensitivity_modeling_sample,Sensitivity sample: students in grades 10 to 12 and ages 15 to 19.

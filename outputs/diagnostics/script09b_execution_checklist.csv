@@ -1,0 +1,23 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Weighted analytical local-only RDS exists,OK
+3,Script 05 import check exists,OK
+4,Script 08 variable missingness exists,OK
+5,Script 08 model decision template exists,OK
+6,Script 08 outcome readiness exists,OK
+7,Script 08 construct missingness exists,OK
+8,Script 09 bivariate summary exists,OK
+9,Script 09 predictor metadata exists,OK
+10,Script 09 outcome metadata exists,OK
+11,Script 09 top candidates exists,OK
+12,Weighted analytical data loaded,OK
+13,AID present internally and excluded from public outputs,OK
+14,GSWGT1 available,OK
+15,Data review inventory created,OK
+16,Modeling variable blocks created,OK
+17,Outcome modeling plan created,OK
+18,Core controls review created,OK
+19,Predictor-outcome eligibility review created,OK
+20,Recommended model sequence created,OK
+21,Excel workbook exported,OK
+22,Markdown documentation exported,OK
