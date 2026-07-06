@@ -1,0 +1,29 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Outputs tables directory exists,OK
+3,Outputs diagnostics directory exists,OK
+4,Docs directory exists,OK
+5,Script 12 final model table exists,OK
+6,Script 12 final coefficient table exists,OK
+7,Script 12 main coefficients table exists,OK
+8,Script 12 appendix coefficients table exists,OK
+9,Script 12 caution register exists,OK
+10,Script 12 publication readiness table exists,OK
+11,Script 11 model quality table exists,OK
+12,Script 11 coefficient review table exists,OK
+13,Script 11 model stage review table exists,OK
+14,Script 11 main-strict robustness table exists,OK
+15,Socioecological framework created,OK
+16,Outcome dictionary created,OK
+17,Interpretive summary created,OK
+18,Key findings created,OK
+19,Public key results table created,OK
+20,Exploratory block summary created,OK
+21,Public caution table created,OK
+22,M0 robustness summary created,OK
+23,Markdown report exported,OK
+24,Word report exported,OK
+25,Excel workbook exported,OK
+26,Methodological notes exported,OK
+27,No individual-level output exported,OK
+28,Report avoids causal interpretation,OK

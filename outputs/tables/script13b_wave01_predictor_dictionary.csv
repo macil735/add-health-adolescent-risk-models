@@ -1,0 +1,9 @@
+predictor,interpretation_note
+Age,Developmental marker used in all final models.
+Female sex,Core demographic control.
+School grade,School progression marker used as categorical control.
+Family and household context,Socioecological level theoretically central but treated cautiously when models are unstable.
+School context,Socioecological level theoretically central but treated cautiously when models are unstable.
+Peer and relationship context,Socioecological level theoretically central but treated cautiously when models are unstable.
+"Knowledge, attitudes and perceptions",Psychosocial mechanisms aligned with the Health Belief Model and Theory of Planned Behavior.
+General risk behaviors,Exploratory behavioral risk block; not treated as causal or final when unstable.

@@ -1,0 +1,7 @@
+limitation
+The public-facing final models are conservative and mainly demographic.
+The Add Health public-use replication cannot reproduce the full structure of the original thesis dataset.
+"Family, school, peer and psychosocial blocks were analyzed but not promoted to headline findings when model diagnostics were unstable."
+Some outcomes depend on skip patterns and eligibility rules.
+Some STI-related outcomes are rare and require cautious interpretation.
+All results are associational and should not be interpreted as causal effects.

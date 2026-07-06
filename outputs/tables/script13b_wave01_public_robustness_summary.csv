@@ -1,0 +1,10 @@
+Domain,Outcome,Coefficients compared,Same direction,Same direction percent,Robustness summary
+Contraception and protection,Birth control use at first sex,3,3,100,high_directional_robustness
+Contraception and protection,Birth control use at most recent sex,3,3,100,high_directional_robustness
+Contraception and protection,Ever used a condom during sex,3,3,100,high_directional_robustness
+Contraception and protection,Ever used birth-control pills,3,3,100,high_directional_robustness
+Pregnancy and reproductive experience,Ever been pregnant,3,3,100,high_directional_robustness
+STI-related outcomes,STD testing or treatment,3,3,100,high_directional_robustness
+STI-related outcomes,Self-reported chlamydia diagnosis,3,2,66.67,moderate_directional_robustness
+STI-related outcomes,Self-reported gonorrhea diagnosis,3,3,100,high_directional_robustness
+Sexual initiation,Sexual initiation,3,3,100,high_directional_robustness

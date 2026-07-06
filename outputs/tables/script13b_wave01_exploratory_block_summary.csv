@@ -1,0 +1,15 @@
+Sample,Socioecological level,Model block,Public role,Models fitted,Technically stable models,Usable with caution,Review before reporting,Significant coefficients p<0.05,Review/exclusion flags,Interpretive decision
+Main sample: grades 10-12,Individual demographic level,"M0: age, sex and grade",Final conservative model,9,8,1,0,8,1,Used as the main conservative public model when selected.
+Main sample: grades 10-12,Family and household level,M1: family and household context,Exploratory socioecological block,9,0,2,7,45,50,Exploratory only; not promoted to public conclusion because review flags dominate.
+Main sample: grades 10-12,School level,M2: school context,Exploratory socioecological block,4,2,1,1,14,2,Exploratory; may inform hypotheses but requires caution.
+Main sample: grades 10-12,Psychosocial level,"M3: knowledge, attitudes and perceptions",Exploratory psychosocial block,9,1,4,4,57,42,Exploratory only; not promoted to public conclusion because review flags dominate.
+Main sample: grades 10-12,Peer and relationship level,M4: peers and relationships,Exploratory socioecological block,5,3,0,2,15,2,Exploratory; may inform hypotheses but requires caution.
+Main sample: grades 10-12,Individual risk-behavior level,M5: general risk behaviors,Exploratory individual-risk block,0,0,0,0,0,0,Not interpreted because no model was fitted.
+Main sample: grades 10-12,Integrated multilevel model,M6: integrated parsimonious model,Integrated exploratory model,9,0,2,7,73,118,Exploratory only; not promoted to public conclusion because review flags dominate.
+Sensitivity sample: grades 10-12 and ages 15-19,Individual demographic level,"M0: age, sex and grade",Final conservative model,9,8,1,0,6,0,Used as the main conservative public model when selected.
+Sensitivity sample: grades 10-12 and ages 15-19,Family and household level,M1: family and household context,Exploratory socioecological block,9,0,2,7,47,50,Exploratory only; not promoted to public conclusion because review flags dominate.
+Sensitivity sample: grades 10-12 and ages 15-19,School level,M2: school context,Exploratory socioecological block,4,1,2,1,14,3,Exploratory; may inform hypotheses but requires caution.
+Sensitivity sample: grades 10-12 and ages 15-19,Psychosocial level,"M3: knowledge, attitudes and perceptions",Exploratory psychosocial block,9,1,4,4,56,42,Exploratory only; not promoted to public conclusion because review flags dominate.
+Sensitivity sample: grades 10-12 and ages 15-19,Peer and relationship level,M4: peers and relationships,Exploratory socioecological block,5,3,0,2,16,2,Exploratory; may inform hypotheses but requires caution.
+Sensitivity sample: grades 10-12 and ages 15-19,Individual risk-behavior level,M5: general risk behaviors,Exploratory individual-risk block,0,0,0,0,0,0,Not interpreted because no model was fitted.
+Sensitivity sample: grades 10-12 and ages 15-19,Integrated multilevel model,M6: integrated parsimonious model,Integrated exploratory model,9,0,2,7,72,117,Exploratory only; not promoted to public conclusion because review flags dominate.

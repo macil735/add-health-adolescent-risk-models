@@ -1,0 +1,19 @@
+note_id,note
+1,Script 13b creates the public-facing results interpretation report.
+2,The report is aligned with the socioecological logic of the original thesis.
+3,The report distinguishes final stable results from exploratory socioecological evidence.
+4,The report uses only public aggregate outputs from Scripts 11 and 12.
+5,No individual-level data are read or exported.
+6,Outcome codes are translated into public-facing labels.
+7,"The dominant final model is M0, adjusted for age, sex and grade."
+8,"The dominance of M0 is not interpreted as absence of family, school or peer influence."
+9,"Family, school, peer and psychosocial blocks are treated as exploratory when model diagnostics are unstable."
+10,Only coefficients prioritized for cautious interpretation are included in the final public results table.
+11,Results requiring manual review are separated into a caution section.
+12,The STI-related interpretation distinguishes testing/treatment from diagnosis.
+13,Pregnancy results are interpreted with attention to eligibility and skip patterns.
+14,The report states clearly that results are associational and not causal.
+15,The report is suitable for public reading after manual review.
+16,The report preserves ethical separation between public outputs and microdata.
+17,"The script produces DOCX, Markdown, CSV and Excel outputs."
+18,Script 14 should be used for repository publication audit and release preparation.

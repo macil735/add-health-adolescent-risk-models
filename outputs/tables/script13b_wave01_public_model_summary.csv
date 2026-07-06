@@ -1,0 +1,19 @@
+Sample,Domain,Outcome,Selected model,Reporting status,Complete cases,Weighted yes percent,Suitability score
+Main sample: grades 10-12,Contraception and protection,Birth control use at first sex,"M0: age, sex and grade",Ready for cautious reporting,1756,68.57454627156793,100
+Main sample: grades 10-12,Contraception and protection,Birth control use at most recent sex,"M0: age, sex and grade",Ready for cautious reporting,1749,69.0345058150734,100
+Main sample: grades 10-12,Contraception and protection,Ever used a condom during sex,"M0: age, sex and grade",Ready for cautious reporting,402,63.38500625931003,100
+Main sample: grades 10-12,Contraception and protection,Ever used birth-control pills,"M0: age, sex and grade",Ready for cautious reporting,481,77.15598536211316,100
+Main sample: grades 10-12,Pregnancy and reproductive experience,Ever been pregnant,"M0: age, sex and grade",Ready for cautious reporting,896,17.880947719904647,100
+Main sample: grades 10-12,STI-related outcomes,STD testing or treatment,"M0: age, sex and grade",Ready for cautious reporting,3255,6.703622885535178,100
+Main sample: grades 10-12,STI-related outcomes,Self-reported chlamydia diagnosis,"M0: age, sex and grade",Ready for cautious reporting,1763,3.0869602691925566,100
+Main sample: grades 10-12,STI-related outcomes,Self-reported gonorrhea diagnosis,"M0: age, sex and grade",Manual review required,1764,1.1834246178311554,75
+Main sample: grades 10-12,Sexual initiation,Sexual initiation,"M0: age, sex and grade",Ready for cautious reporting,3226,54.59405512092312,100
+Sensitivity sample: grades 10-12 and ages 15-19,Contraception and protection,Birth control use at first sex,"M0: age, sex and grade",Ready for cautious reporting,1746,68.77794427478028,100
+Sensitivity sample: grades 10-12 and ages 15-19,Contraception and protection,Birth control use at most recent sex,"M0: age, sex and grade",Ready for cautious reporting,1738,69.1378569732184,100
+Sensitivity sample: grades 10-12 and ages 15-19,Contraception and protection,Ever used a condom during sex,"M0: age, sex and grade",Ready for cautious reporting,398,63.367335939552056,100
+Sensitivity sample: grades 10-12 and ages 15-19,Contraception and protection,Ever used birth-control pills,"M0: age, sex and grade",Ready for cautious reporting,478,77.01727914429814,100
+Sensitivity sample: grades 10-12 and ages 15-19,Pregnancy and reproductive experience,Ever been pregnant,"M0: age, sex and grade",Ready for cautious reporting,892,17.712761967407506,100
+Sensitivity sample: grades 10-12 and ages 15-19,STI-related outcomes,STD testing or treatment,"M0: age, sex and grade",Ready for cautious reporting,3237,6.642353288530319,100
+Sensitivity sample: grades 10-12 and ages 15-19,STI-related outcomes,Self-reported chlamydia diagnosis,"M0: age, sex and grade",Ready for cautious reporting,1753,3.019930703864573,100
+Sensitivity sample: grades 10-12 and ages 15-19,STI-related outcomes,Self-reported gonorrhea diagnosis,"M0: age, sex and grade",Manual review required,1753,1.1906434004995683,85
+Sensitivity sample: grades 10-12 and ages 15-19,Sexual initiation,Sexual initiation,"M0: age, sex and grade",Ready for cautious reporting,3208,54.60520870105166,100

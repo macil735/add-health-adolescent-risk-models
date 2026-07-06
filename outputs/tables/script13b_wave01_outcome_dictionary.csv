@@ -1,0 +1,10 @@
+outcome,public_label,domain,interpretation_note
+a_sex_ever,Sexual initiation,Sexual initiation,Ever had sexual intercourse.
+a_H1CO3_yesno,Birth control use at first sex,Contraception and protection,Birth control use at first sexual intercourse.
+a_H1CO6_yesno,Birth control use at most recent sex,Contraception and protection,Birth control use at the most recent sexual intercourse.
+a_H1CO8_yesno,Ever used a condom during sex,Contraception and protection,Ever used a condom during sexual intercourse.
+a_H1CO13_yesno,Ever used birth-control pills,Contraception and protection,Ever used birth-control pills.
+a_H1FP7_yesno,Ever been pregnant,Pregnancy and reproductive experience,Ever been pregnant; denominator depends on eligibility and skip patterns.
+a_H1HS9_yesno,STD testing or treatment,STI-related outcomes,"STD testing or treatment; interpreted as service contact or sexual-health exposure, not confirmed infection."
+a_H1CO16A_yesno,Self-reported chlamydia diagnosis,STI-related outcomes,Self-reported chlamydia diagnosis.
+a_H1CO16C_yesno,Self-reported gonorrhea diagnosis,STI-related outcomes,Self-reported gonorrhea diagnosis; rare and imprecise in this analysis.

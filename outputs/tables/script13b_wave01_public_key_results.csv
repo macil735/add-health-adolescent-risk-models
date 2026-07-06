@@ -1,0 +1,15 @@
+Sample,Domain,Outcome,Predictor,OR,95 percent CI,p,Direction
+Main sample: grades 10-12,Contraception and protection,Birth control use at most recent sex,Age,0.84,[0.72; 0.98],0.031,lower odds
+Main sample: grades 10-12,Contraception and protection,Ever used a condom during sex,Age,1.36,[1.00; 1.85],0.050,higher odds
+Main sample: grades 10-12,Pregnancy and reproductive experience,Ever been pregnant,Age,1.95,[1.45; 2.62],<0.001,higher odds
+Main sample: grades 10-12,STI-related outcomes,STD testing or treatment,Age,1.61,[1.30; 1.98],<0.001,higher odds
+Main sample: grades 10-12,STI-related outcomes,Self-reported chlamydia diagnosis,Age,1.58,[1.06; 2.35],0.024,higher odds
+Main sample: grades 10-12,Sexual initiation,Sexual initiation,11th grade vs 10th grade,1.32,[1.06; 1.63],0.012,higher odds
+Main sample: grades 10-12,Sexual initiation,Sexual initiation,12th grade vs 10th grade,1.49,[1.12; 1.99],0.007,higher odds
+Main sample: grades 10-12,Sexual initiation,Sexual initiation,Age,1.33,[1.19; 1.50],<0.001,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,Contraception and protection,Ever used a condom during sex,Age,1.40,[1.02; 1.94],0.041,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,Pregnancy and reproductive experience,Ever been pregnant,Age,1.85,[1.36; 2.52],<0.001,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,STI-related outcomes,STD testing or treatment,Age,1.63,[1.29; 2.05],<0.001,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,Sexual initiation,Sexual initiation,11th grade vs 10th grade,1.31,[1.05; 1.63],0.015,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,Sexual initiation,Sexual initiation,12th grade vs 10th grade,1.48,[1.10; 1.98],0.009,higher odds
+Sensitivity sample: grades 10-12 and ages 15-19,Sexual initiation,Sexual initiation,Age,1.35,[1.20; 1.53],<0.001,higher odds

@@ -1,0 +1,7 @@
+level,meaning_in_report,reporting_rule
+Individual demographic level,"Age, sex and grade are treated as developmental and demographic markers.",Final public models can report this level directly when stable.
+Psychosocial level,"Knowledge, attitudes, perceived risk, subjective norms and self-efficacy are interpreted as psychosocial mechanisms.",Reported as exploratory unless model stability is sufficient.
+Family and household level,"Family support, monitoring and household context are interpreted as interpersonal protective or vulnerability factors.",Reported as exploratory when richer models are unstable.
+Peer and relationship level,"Peers and relationships are interpreted as sources of social pressure, norms and support.",Reported as exploratory when richer models are unstable.
+School level,School connection and climate are interpreted as contextual protective or vulnerability factors.,Reported as exploratory when richer models are unstable.
+Health outcome level,"Sexual initiation, contraception/protection, pregnancy and STI-related indicators are interpreted as outcomes.","Reported by outcome domain, with rare outcomes treated cautiously."
