@@ -1,0 +1,10 @@
+item,interpretation
+isx1_initiation_protection,Never sexually initiated = 4; sexually initiated = 1.
+isx2_recent_birth_control_protection,Never initiated = 4; birth control at most recent sex = 3; no birth control = 1.
+isx3_condom_protection,Never initiated = 4; ever used condom = 3; never used condom = 1.
+isx4_first_birth_control_protection,Never initiated = 4; birth control at first sex = 3; no birth control = 1.
+isx_broad_score,Sum of available ISX-inspired protection items; higher = more protection.
+isx_broad_mean,Mean of available ISX-inspired protection items; higher = more protection.
+isx_initiated_mean,Mean protection score among sexually initiated respondents only.
+risk_burden_mean,Mean risk burden excluding STD testing/treatment; higher = more risk burden.
+risk_burden_extended_mean,Mean risk burden including STD testing/treatment as exploratory service-contact indicator.

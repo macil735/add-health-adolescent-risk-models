@@ -1,0 +1,7 @@
+domain,outcome_var,outcome_label,available
+Sexual initiation,a_sex_ever,Sexual initiation,TRUE
+Contraception and protection,a_H1CO6_yesno,Birth control use at most recent sex,TRUE
+Contraception and protection,a_H1CO8_yesno,Ever used a condom during sex,TRUE
+Pregnancy and reproductive experience,a_H1FP7_yesno,Ever been pregnant,TRUE
+STI-related outcomes,a_H1HS9_yesno,STD testing or treatment,TRUE
+STI-related outcomes,a_H1CO16A_yesno,Self-reported chlamydia diagnosis,TRUE

@@ -1,0 +1,4 @@
+index,items_available,number_items_available,cronbach_alpha,interpretation
+School connectedness/climate core index,"H1ED19, H1ED20, H1ED23, H1ED24",4,0.6950659120393352,Primary school connectedness/climate index; higher values indicate stronger school connectedness/climate.
+School connectedness/climate extended index,"H1ED19, H1ED20, H1ED21, H1ED22, H1ED23, H1ED24",6,0.5972112730367682,Sensitivity version including all available H1ED19-H1ED24 items.
+School adjustment/problem index,"H1ED15, H1ED16, H1ED17, H1ED18",4,0.6904984228094524,Higher values indicate more school adjustment problems.

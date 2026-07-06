@@ -1,0 +1,11 @@
+variable,recovered,source_file,source_variable,recovery_method
+H1ED15,TRUE,21600-0001-Data.sav,H1ED15,row_order_same_n
+H1ED16,TRUE,21600-0001-Data.sav,H1ED16,row_order_same_n
+H1ED17,TRUE,21600-0001-Data.sav,H1ED17,row_order_same_n
+H1ED18,TRUE,21600-0001-Data.sav,H1ED18,row_order_same_n
+H1ED19,TRUE,clean_analytical_data,H1ED19,already_available
+H1ED20,TRUE,clean_analytical_data,H1ED20,already_available
+H1ED21,TRUE,21600-0001-Data.sav,H1ED21,row_order_same_n
+H1ED22,TRUE,21600-0001-Data.sav,H1ED22,row_order_same_n
+H1ED23,TRUE,clean_analytical_data,H1ED23,already_available
+H1ED24,TRUE,clean_analytical_data,H1ED24,already_available

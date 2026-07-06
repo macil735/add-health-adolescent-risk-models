@@ -1,0 +1,19 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Analytical clean RDS exists,OK
+3,Outputs tables directory exists,OK
+4,Outputs diagnostics directory exists,OK
+5,Docs directory exists,OK
+6,GSWGT1 available,OK
+7,Age control available,OK
+8,Sex control available,OK
+9,Grade control available,OK
+10,At least one school connectedness item available,OK
+11,At least one school adjustment item available,OK
+12,School connectedness index created,OK
+13,School adjustment/problem index created,OK
+14,ISX broad score created,OK
+15,ISX initiated score created,OK
+16,Binary outcome models generated,OK
+17,Index models generated,OK
+18,No individual-level data exported,OK
