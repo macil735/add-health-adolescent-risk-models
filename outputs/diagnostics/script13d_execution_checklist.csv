@@ -1,0 +1,19 @@
+check_id,check_item,status
+1,Project root exists,OK
+2,Clean analytical RDS exists,OK
+3,Raw SAV file exists,OK
+4,Outputs tables directory exists,OK
+5,Outputs diagnostics directory exists,OK
+6,Docs directory exists,OK
+7,Raw metadata created,OK
+8,Target sections detected,OK
+9,Candidate variables detected,OK
+10,Candidate variables recovered or audited,OK
+11,Weight audit created,OK
+12,Sample definitions created,OK
+13,Variable inventory exported,OK
+14,Missingness summary exported,OK
+15,Construct summary exported,OK
+16,Excel workbook exported,OK
+17,DOCX report exported,OK
+18,No individual-level values exported,OK

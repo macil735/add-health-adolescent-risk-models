@@ -1,0 +1,5 @@
+section,interpretation
+Purpose,"Script 13d recovers and audits psychosocial variables from Add Health Wave I Sections 8, 9, 17, 18, 19 and 20."
+Main decision,The script identifies candidate variables and construct blocks but does not yet create final scores.
+Data protection,Only aggregate metadata and diagnostics are exported; no respondent-level values are written to public outputs.
+Next step,"Script 13e should construct candidate indices and evaluate reliability, missingness and direction of scoring."

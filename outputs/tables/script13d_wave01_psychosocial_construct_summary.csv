@@ -1,0 +1,18 @@
+section_id,section_name,construct_block,variables_detected,variables_recovered,likely_index_candidates,median_main_n_valid,median_main_missing_percent,recommended_for_13e_count
+S17,Section 17: Motivations to Engage in Risky Behaviors,risk_motivation_affective_evaluation,4,4,4,3164.5,2.899662473151273,4
+S17,Section 17: Motivations to Engage in Risky Behaviors,risk_motivation_family_moral_norms,1,1,1,3190,2.117213869285057,1
+S17,Section 17: Motivations to Engage in Risky Behaviors,risk_motivation_general,7,7,7,3182,2.3626879410862225,7
+S17,Section 17: Motivations to Engage in Risky Behaviors,risk_motivation_peer_norms,2,2,2,3189.5,2.1325559987726295,2
+S18,Section 18: Personality and Family,decision_making_problem_solving,4,4,4,3242.5,0.5062902730899048,4
+S18,Section 18: Personality and Family,family_support_and_connectedness,1,1,1,3251,0.245474071801166,1
+S18,Section 18: Personality and Family,section18_other_personality_family,31,31,31,3243,0.490948143602332,31
+S19,Section 19: Knowledge Quiz,contraceptive_knowledge_answer,10,10,10,3095.5,5.01687634243633,10
+S19,Section 19: Knowledge Quiz,contraceptive_knowledge_confidence,10,10,0,3154.5,3.206505062902731,0
+S20,Section 20: Friends,friend_nomination_design,1,1,0,3259,0,0
+S20,Section 20: Friends,friends_contact_support,30,30,30,554.5,82.98557839828169,6
+S20,Section 20: Friends,friends_peer_network,15,15,15,528,83.79871126112305,3
+S20,Section 20: Friends,friends_school_context,45,45,45,416,87.23534826633936,7
+S8,"Section 8: Pregnancy, AIDS, and STD Risk Perceptions",risk_perception_hiv_aids,2,2,2,3227,0.9818962872046639,2
+S8,"Section 8: Pregnancy, AIDS, and STD Risk Perceptions",risk_perception_pregnancy,3,3,3,3240,0.5830009205277692,3
+S8,"Section 8: Pregnancy, AIDS, and STD Risk Perceptions",risk_perceptions_general,1,1,1,3231,0.859159251304081,1
+S9,Section 9: Self Efficacy,self_efficacy,4,4,4,3216,1.3194231359312671,4

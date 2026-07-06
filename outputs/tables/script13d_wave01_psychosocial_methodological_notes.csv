@@ -1,0 +1,9 @@
+note_id,note
+1,Script 13d is an audit script only; it does not build final indices or estimate models.
+2,Raw Add Health variables are read locally but individual-level values are not exported.
+3,Recovery uses the clean analytical data first; missing variables are recovered from the raw public-use SAV when row counts match.
+4,Variable labels are used to detect sections when variable prefixes are insufficient.
+5,"Section 18 is not treated as one construct; it is split into family, personality/wellbeing, decision-making/problem-solving and contraceptive context candidates."
+6,Section 19 is separated into factual knowledge answers and confidence items.
+7,Section 20 friend variables are treated as peer-network candidates and require careful review before index construction.
+8,"Script 13e should use this audit to build and test candidate scales, including reliability and direction of scoring."

@@ -1,0 +1,4 @@
+sample_name,sample_filter,n_unweighted,weighted_total
+Full public-use Wave I analytical file,all rows,6504,22261000.00000326
+Main sample: grades 10-12,"a_grade_wave1 in 10, 11, 12",3259,10417988.365556547
+Restricted sensitivity sample: grades 10-12 and ages 15-19,"a_grade_wave1 in 10, 11, 12 and a_age_wave1 between 15 and 19",3240,10352033.585756449

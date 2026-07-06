@@ -1,0 +1,7 @@
+section_id,section_name,detection_rule,audit_status
+S8,"Section 8: Pregnancy, AIDS, and STD Risk Perceptions",Variable name starts with H1RP or label contains S8Q.,planned_for_recovery_and_missingness_audit
+S9,Section 9: Self Efficacy,Variable name starts with H1SE or label contains S9Q.,planned_for_recovery_and_missingness_audit
+S17,Section 17: Motivations to Engage in Risky Behaviors,Variable label contains S17Q.,planned_for_recovery_and_missingness_audit
+S18,Section 18: Personality and Family,Variable name starts with H1PF or label contains S18Q.,planned_for_recovery_and_missingness_audit
+S19,Section 19: Knowledge Quiz,Variable name starts with H1KQ or label contains S19Q.,planned_for_recovery_and_missingness_audit
+S20,Section 20: Friends,"Variable name is FR_FLAG or starts with H1MF/H1FF, or label contains S20Q.",planned_for_recovery_and_missingness_audit

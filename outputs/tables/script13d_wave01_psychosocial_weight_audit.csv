@@ -1,0 +1,2 @@
+weight_variable,weight_source,valid_weight_n,interpretation
+GSWGT1,recovered_from:21600-0004-Data.rda:GSWGT1,6504,Survey weight was resolved for audit summaries.
