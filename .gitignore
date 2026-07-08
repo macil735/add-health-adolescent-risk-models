@@ -1,124 +1,83 @@
 # ============================================================
-# R temporary files
+# R / RStudio
 # ============================================================
-
 .Rhistory
 .RData
 .Ruserdata
 .Rproj.user/
-
-
-# ============================================================
-# Sensitive or individual-level data
-# Never commit raw or processed microdata
-# ============================================================
-
-data/raw/*
-data/processed/*
-
-*.dta
-*.sav
-*.sas7bdat
-*.xpt
-*.rds
-*.RData
-
+*.Rproj.user
 
 # ============================================================
-# CSV and TSV files
-# General rule: ignore CSV/TSV files
-# Exceptions are defined below for metadata and reviewed outputs
+# Operating system files
 # ============================================================
-
-*.csv
-*.tsv
-
-
-# ============================================================
-# Metadata files allowed
-# These may contain documentation templates or public metadata
-# ============================================================
-
-!data/metadata/
-!data/metadata/*.csv
-!data/metadata/*.xlsx
-!data/metadata/*.md
-
-
-# ============================================================
-# Reviewed aggregate outputs allowed
-# These are outputs created by scripts and intended for GitHub review
-# ============================================================
-
-!outputs/
-!outputs/tables/
-!outputs/tables/*.csv
-!outputs/tables/*.xlsx
-!outputs/tables/*.md
-
-!outputs/figures/
-!outputs/figures/*.png
-!outputs/figures/*.jpg
-!outputs/figures/*.jpeg
-!outputs/figures/*.pdf
-
-
-# ============================================================
-# Diagnostics and logs
-# Usually not committed, except selected reviewed diagnostics
-# ============================================================
-
-outputs/diagnostics/*
-outputs/logs/*
-
-!outputs/diagnostics/script01_execution_checklist.csv
-!outputs/diagnostics/script01b_execution_checklist.csv
-
-# ============================================================
-# Documents and project files
-# ============================================================
-
-!README.md
-!LICENSE
-!docs/
-!docs/*.md
-
-
-# ============================================================
-# System files
-# ============================================================
-
 .DS_Store
 Thumbs.db
 desktop.ini
 
 # ============================================================
-# Local documentation PDFs
-# Keep source PDFs local. Commit only inventories and metadata.
+# Temporary Office files
 # ============================================================
+~$*.docx
+~$*.xlsx
+~$*.pptx
 
-data/metadata/**/*.pdf
-data/metadata/**/*.PDF
+# ============================================================
+# Local credentials and environment files
+# ============================================================
+.Renviron
+.env
+*.key
+*.pem
+*.p12
 
-!data/metadata/**/*.csv
-!data/metadata/**/*.xlsx
-!data/metadata/**/*.md
+# ============================================================
+# Local data and metadata: never commit
+# ============================================================
+# This includes raw Add Health data, processed data, local metadata,
+# codebooks, thesis reference material and any local data documentation.
+data/**
 
-!outputs/diagnostics/script04_execution_checklist.csv
+# ============================================================
+# Local analytical objects and logs
+# ============================================================
+outputs/analysis/**
+outputs/logs/**
+outputs/constructs/**
+outputs/indices/**
+outputs/models/**
 
-!outputs/diagnostics/script02_execution_checklist.csv
-!outputs/diagnostics/script03_execution_checklist.csv
-!outputs/diagnostics/script03b_execution_checklist.csv
-# Script 03 large/intermediate text-extraction outputs
-outputs/tables/add_health_codebook_keyword_hits_script03.csv
-outputs/tables/add_health_candidate_mapping_summary_script03.csv
-outputs/tables/script03_add_health_codebook_variable_candidate_mapping.xlsx
+# ============================================================
+# Local audit outputs
+# ============================================================
+# Audit files are local by default. Add selected public audit
+# summaries explicitly only when needed, using git add -f.
+outputs/audits/**
 
-# Private local review outputs
-outputs/private_review/
-!outputs/diagnostics/script05_execution_checklist.csv
-!outputs/diagnostics/script06_execution_checklist.csv
-!outputs/diagnostics/script08_execution_checklist.csv
-!outputs/diagnostics/script09_execution_checklist.csv
-!outputs/diagnostics/script09b_execution_checklist.csv
-!outputs/diagnostics/script10_execution_checklist.csv
+# Exception: Script 20 metadata checklist may be committed.
+!outputs/audits/script20_repository_metadata_update_checklist.csv
+
+# ============================================================
+# Large or local-only binary artefacts
+# ============================================================
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.gz
+
+# ============================================================
+# Repository maintenance backups
+# ============================================================
+docs/metadata_backups/**
+
+# ============================================================
+# Keep selected public outputs and reports trackable
+# ============================================================
+# The following folders are intentionally not ignored:
+# - R/
+# - docs/
+# - outputs/tables/
+# - outputs/reports/
+#
+# Do not use git add . in this repository.
+# Add files explicitly to avoid committing sensitive or local-only materials.

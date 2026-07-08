@@ -1,0 +1,7 @@
+file,exists,size_bytes,note
+README.md,TRUE,7267,Updated public repository description.
+CITATION.cff,TRUE,930,Updated software citation metadata.
+LICENSE,TRUE,1450,Updated MIT code license with data-use note.
+.gitignore,TRUE,2652,Updated data protection and local-output ignore rules.
+docs/repository_metadata_update_note_script20.md,TRUE,824,Created metadata update note.
+outputs/logs/script20_update_repository_metadata_files.log,TRUE,258,Created Script 20 run log.

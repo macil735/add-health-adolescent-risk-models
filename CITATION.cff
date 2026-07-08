@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - name: "macil735"
+title: "add-health-adolescent-risk-models"
+version: "0.2.0"
+date-released: "2026-07-08"
+repository-code: "https://github.com/macil735/add-health-adolescent-risk-models"
+license: "MIT"
+abstract: >-
+  Public, ethical and reproducible R-based application inspired by the
+  econometric architecture of doctoral research on adolescent pregnancy,
+  HIV infection and adolescent health risk behaviour. The repository
+  transfers the methodological logic to Add Health public-use data without
+  publishing, reconstructing or approximating confidential adolescent microdata.
+keywords:
+  - Add Health
+  - adolescent health
+  - risk behaviour
+  - protective behaviour
+  - public-use data
+  - reproducible research
+  - R
+  - econometrics
+  - Theory of Planned Behavior
+  - research ethics
