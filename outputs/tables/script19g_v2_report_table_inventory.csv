@@ -1,0 +1,10 @@
+table_name,included_in_word,source
+Construct summary,TRUE,outputs/tables/script19a_v3_construct_summary.csv
+Internal consistency,TRUE,outputs/tables/script19a_v3_check_internal_consistency.csv
+Mediation readiness,TRUE,outputs/audits/script19e_mediation_readiness_assessment.csv
+Covariates and survey weight,TRUE,outputs/audits/script19f_covariate_detection_audit.csv
+Adjusted and weighted sample sizes,TRUE,outputs/audits/script19f_model_sample_audit.csv
+Final weighted adjusted results,TRUE,outputs/tables/script19g_v2_compact_key_results_for_report.csv
+Weighted model fit summary,TRUE,outputs/tables/script19g_v2_compact_weighted_model_fit_for_report.csv
+Final phase decision,TRUE,outputs/audits/script19g_final_phase_decision.csv
+Commit readiness,TRUE,outputs/audits/script19g_commit_readiness_checklist.csv

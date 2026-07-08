@@ -1,0 +1,4 @@
+var1,var2,correlation,block
+family_connectedness_mean_1_5,friend_support_mean_1_5,0.3043,construct_level
+family_connectedness_mean_1_5,sexual_delay_deterrence_mean_1_5,0.0731,construct_level
+friend_support_mean_1_5,sexual_delay_deterrence_mean_1_5,0.0415,construct_level

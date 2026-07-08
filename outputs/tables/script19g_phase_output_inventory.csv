@@ -1,0 +1,24 @@
+phase_component,path,exists
+19a_v3 sample audit,outputs/audits/script19a_v3_never_sex_sample_audit.csv,TRUE
+19a_v3 construct summary,outputs/tables/script19a_v3_construct_summary.csv,TRUE
+19a_v3 validation checks,outputs/audits/script19a_v3_check_validation_checks.csv,TRUE
+19a_v3 internal consistency,outputs/tables/script19a_v3_check_internal_consistency.csv,TRUE
+19d TPB pilot summary,outputs/tables/script19d_tpb_pilot_construct_summary.csv,TRUE
+19d TPB pilot internal consistency,outputs/tables/script19d_tpb_pilot_internal_consistency.csv,TRUE
+19e mediation readiness,outputs/audits/script19e_mediation_readiness_assessment.csv,TRUE
+19e decision matrix,outputs/audits/script19e_tpb_operational_decision_matrix.csv,TRUE
+19e final construct summary,outputs/tables/script19e_final_tpb_construct_summary.csv,TRUE
+19e recommended models,outputs/tables/script19e_recommended_model_sequence.csv,TRUE
+19f covariate audit,outputs/audits/script19f_covariate_detection_audit.csv,TRUE
+19f model sample audit,outputs/audits/script19f_model_sample_audit.csv,TRUE
+19f model specifications,outputs/audits/script19f_model_specifications.csv,TRUE
+19f regression coefficients,outputs/tables/script19f_regression_coefficients.csv,TRUE
+19f model fit,outputs/tables/script19f_model_fit_statistics.csv,TRUE
+19f standardized coefficients,outputs/tables/script19f_standardized_regression_coefficients.csv,TRUE
+19g final key results,outputs/tables/script19g_final_never_sex_tpb_mechanism_key_results.csv,TRUE
+19g weighted main effects,outputs/tables/script19g_weighted_adjusted_main_effects.csv,TRUE
+19g model fit summary,outputs/tables/script19g_final_model_fit_summary.csv,TRUE
+19g phase decision,outputs/audits/script19g_final_phase_decision.csv,TRUE
+19g markdown report,outputs/reports/script19g_final_never_sex_tpb_mechanism_phase_summary.md,TRUE
+19g Word report,outputs/reports/script19g_final_never_sex_tpb_mechanism_phase_summary.docx,TRUE
+19g run log,outputs/logs/script19g_run_log.txt,TRUE

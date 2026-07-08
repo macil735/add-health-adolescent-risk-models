@@ -1,0 +1,6 @@
+model_id,model_type,dependent_variable,main_predictors,interpretation,status
+19f_M1,linear_regression,tpb_attitudes_delay_mean_1_5,family_connectedness_mean_1_5 + friend_support_mean_1_5 + covariates,Tests whether family/friend connectedness is associated with delay-supportive attitudes.,recommended_next
+19f_M2,linear_regression,peer_norm_delay_H1MO1,family_connectedness_mean_1_5 + friend_support_mean_1_5 + covariates,Tests association with perceived peer norm against/for sexual initiation.,recommended_next
+19f_M3,linear_regression,partner_norm_delay_H1MO2,family_connectedness_mean_1_5 + friend_support_mean_1_5 + covariates,Tests association with perceived partner respect/sanction.,recommended_next
+19f_M4,linear_regression,maternal_norm_delay_H1MO4,family_connectedness_mean_1_5 + friend_support_mean_1_5 + covariates,Tests association with perceived maternal disapproval.,recommended_next
+19g_Mediation,mediation,direct intention-to-delay outcome,family_connectedness -> TPB mediators -> intention,Do not estimate until direct intention outcome and PBC are confirmed.,blocked

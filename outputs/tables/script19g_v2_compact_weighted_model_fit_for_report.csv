@@ -1,0 +1,5 @@
+Model,Outcome,N,R2,Adj_R2,Model_p
+M1: delay-supportive attitudes,Delay-supportive attitudes,1971,0.053,0.050,<0.001
+M2: peer norm,Peer norm,1976,0.131,0.128,<0.001
+M3: partner norm,Partner norm,1957,0.014,0.011,<0.001
+M4: maternal norm,Maternal norm,1896,0.051,0.048,<0.001

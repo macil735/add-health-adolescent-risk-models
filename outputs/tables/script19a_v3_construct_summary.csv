@@ -1,0 +1,4 @@
+construct,variable,n_valid,mean,sd,min,max
+family_connectedness,family_connectedness_mean_1_5,2141,4.0667,0.6599,1,5
+friend_support,friend_support_mean_1_5,2140,4.2963,0.7796,1,5
+sexual_delay_deterrence,sexual_delay_deterrence_mean_1_5,2097,3.5126,0.8779,1,5

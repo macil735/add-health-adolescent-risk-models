@@ -1,0 +1,14 @@
+Outcome,Predictor,b,CI_95,p,Std_beta,Reading
+Delay-supportive attitudes,Family connectedness,0.061,"[0.023, 0.099]",0.002,0.072,"Statistically significant positive
+association."
+Delay-supportive attitudes,Friend support,0.018,"[-0.014, 0.051]",0.272,0.026,No statistically significant association.
+Peer norm,Family connectedness,0.098,"[0.031, 0.165]",0.004,0.062,"Statistically significant positive
+association."
+Peer norm,Friend support,0.158,"[0.099, 0.216]",<0.001,0.119,"Statistically significant positive
+association."
+Partner norm,Family connectedness,0.04,"[-0.039, 0.119]",0.321,0.023,No statistically significant association.
+Partner norm,Friend support,-0.063,"[-0.132, 0.005]",0.070,-0.044,"Marginal negative association; interpret
+cautiously."
+Maternal norm,Family connectedness,-0.016,"[-0.087, 0.055]",0.661,-0.011,No statistically significant association.
+Maternal norm,Friend support,0.067,"[0.006, 0.129]",0.032,0.052,"Statistically significant positive
+association."

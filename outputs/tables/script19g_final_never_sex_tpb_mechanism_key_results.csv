@@ -1,0 +1,9 @@
+model_id,model_label,dependent_variable,predictor,coefficient,confidence_interval,p_value_display,standardized_beta,substantive_reading
+M1_D_adjusted_weighted,M1: delay-supportive attitudes,tpb_attitudes_delay_mean_1_5,Family connectedness,0.061,"[0.023, 0.099]",0.002,0.072,Statistically significant positive association.
+M1_D_adjusted_weighted,M1: delay-supportive attitudes,tpb_attitudes_delay_mean_1_5,Friend support,0.018,"[-0.014, 0.051]",0.272,0.026,No statistically significant association.
+M2_D_adjusted_weighted,M2: peer norm,peer_norm_delay_H1MO1,Family connectedness,0.098,"[0.031, 0.165]",0.004,0.062,Statistically significant positive association.
+M2_D_adjusted_weighted,M2: peer norm,peer_norm_delay_H1MO1,Friend support,0.158,"[0.099, 0.216]",<0.001,0.119,Statistically significant positive association.
+M3_D_adjusted_weighted,M3: partner norm,partner_norm_delay_H1MO2,Family connectedness,0.040,"[-0.039, 0.119]",0.321,0.023,No statistically significant association.
+M3_D_adjusted_weighted,M3: partner norm,partner_norm_delay_H1MO2,Friend support,-0.063,"[-0.132, 0.005]",0.070,-0.044,Marginal negative association; interpret cautiously.
+M4_D_adjusted_weighted,M4: maternal norm,maternal_norm_delay_H1MO4,Family connectedness,-0.016,"[-0.087, 0.055]",0.661,-0.011,No statistically significant association.
+M4_D_adjusted_weighted,M4: maternal norm,maternal_norm_delay_H1MO4,Friend support,0.067,"[0.006, 0.129]",0.032,0.052,Statistically significant positive association.
