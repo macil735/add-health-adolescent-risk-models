@@ -71,13 +71,19 @@ outputs/audits/**
 docs/metadata_backups/**
 
 # ============================================================
-# Keep selected public outputs and reports trackable
+# Local generated reports
+# ============================================================
+# Script-generated reports are reproducible local outputs.
+# Final public-facing reports should be placed in docs/.
+outputs/reports/**
+
+# ============================================================
+# Keep selected public outputs trackable
 # ============================================================
 # The following folders are intentionally not ignored:
 # - R/
 # - docs/
 # - outputs/tables/
-# - outputs/reports/
 #
 # Do not use git add . in this repository.
 # Add files explicitly to avoid committing sensitive or local-only materials.
