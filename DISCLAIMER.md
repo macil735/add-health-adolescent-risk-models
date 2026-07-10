@@ -13,7 +13,7 @@ The `data/` folder is intended only as a local working structure. Raw data, proc
 ## Original thesis data disclaimer
 
 The original doctoral thesis dataset is not published in this repository because it contains sensitive information on adolescents.
-
+This repository is not a derivative version of the doctoral thesis. It does not reproduce, translate, modify, or redistribute the thesis text, thesis tables, thesis figures, the original thesis dataset, or confidential research instruments. It provides an independent methodological implementation using Add Health public-use data.
 This project does not attempt to reproduce the confidential empirical results of the original thesis. Instead, it transfers the broad methodological logic of the thesis to a public-use data setting.
 
 ## Privacy and identification disclaimer
