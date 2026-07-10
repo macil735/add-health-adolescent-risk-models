@@ -107,6 +107,26 @@ Key public outputs include:
 - methodological notes;
 - reproducibility-oriented documentation.
 
+### Final public reports
+
+The repository includes two final public-facing English reports:
+
+1. **Add Health Wave I — Final Sexual Protection Modelling Report**
+
+   [`docs/add_health_wave01_final_sexual_protection_modelling_report_EN.docx`](docs/add_health_wave01_final_sexual_protection_modelling_report_EN.docx)
+   
+
+   This report presents the final modelling sequence for the restricted public-use ISX-equivalent sexual protection index, including decomposition and sexually active method-use models.
+
+2. **Add Health Wave I — Final TPB-Compatible Mechanism Report among Adolescents Who Had Not Initiated Sexual Activity**
+
+   [`docs/add_health_wave01_final_tpb_mechanism_report_never_sex_adolescents_EN.docx`](docs/add_health_wave01_final_tpb_mechanism_report_never_sex_adolescents_EN.docx)
+   
+
+   This report presents the exploratory TPB-compatible psychosocial mechanism analysis among adolescents aged 15–19 who had not initiated sexual activity.
+
+These two documents are the preferred final public reports for readers who want the substantive interpretation of the project. Earlier script-generated reports are retained as technical pipeline outputs.
+
 ## Citation and acknowledgement
 
 If this repository is used, cite the software repository using the information in `CITATION.cff`.
