@@ -80,12 +80,12 @@ The latest completed phase estimates exploratory TPB-compatible regression model
 ```text
 R/                 R scripts for the reproducible analytical pipeline
 data/              Local-only data structure; raw and processed microdata are ignored
-docs/              Technical reports, documentation and selected Word outputs
-outputs/audits/    Audit outputs and validation tables
+docs/              Final public reports, technical documentation and selected Word outputs
+outputs/audits/    Local audit outputs; ignored by default except selected public checklists
 outputs/tables/    Aggregate tables suitable for public reporting
-outputs/reports/   Public-facing or technical reports
-outputs/analysis/  Local analytical objects; not intended for GitHub
-outputs/logs/      Local run logs; not intended for GitHub
+outputs/reports/   Local script-generated reports; ignored and not published
+outputs/analysis/  Local analytical objects; ignored and not intended for GitHub
+outputs/logs/      Local run logs; ignored and not intended for GitHub
 ```
 
 ## Reproducibility
